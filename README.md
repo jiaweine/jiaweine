@@ -1,95 +1,168 @@
 <div align="center">
 
-# Jiawei Wang
+<img src="./assets/profile-banner.svg" width="100%" alt="Jiawei Wang profile banner" />
 
-### Algorithm Research · AI Systems · Full-Stack Engineering
+<br/>
 
 **Researcher when the loss converges. Engineer when it doesn't.**
 
-Multimodal AI · Search, Ads & Recommendation · Agent Post-Training · Harness Engineering
+I build algorithms, train agents, and engineer the systems that make them reliable.
 
 [GitHub](https://github.com/jiaweine) · [Information Sciences 2026](https://doi.org/10.1016/j.ins.2026.123925)
 
 </div>
 
----
+<br/>
 
 ## About
 
-I build algorithms and the systems around them.
-
-My work spans **research, model development, evaluation, agent infrastructure, backend systems, interfaces, and deployment**. I care less about demos that look intelligent once, and more about systems that remain useful under real data, repeated evaluation, long-running workflows, and failure cases.
+My work sits at the intersection of **algorithm research, AI systems, and full-stack engineering**. I care about capability, evaluation, runtime behavior, tooling, interfaces, and failure recovery, especially when a research idea has to survive real data and real workflows.
 
 > **My favorite kind of bug is the one that becomes a research question.**
 
+<br/>
+
 ## Focus
 
-**Multimodal AI**  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Multimodal AI
+
 Representation learning, multimodal reasoning, heterogeneous data, fusion, and multimodal agents.
 
-**Search, Ads & Recommendation**  
+</td>
+<td width="50%" valign="top">
+
+### Search, Ads & Recommendation
+
 Retrieval, ranking, recommendation, relevance modeling, evaluation, and autonomous optimization.
 
-**Agent Post-Training**  
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Agent Post-Training
+
 Trajectory curation, reward signals, preference optimization, agent evaluation, and iterative capability improvement.
 
-**Harness Engineering**  
+</td>
+<td width="50%" valign="top">
+
+### Harness Engineering
+
 Evaluation harnesses, agent runtimes, tool orchestration, state management, recovery, and verification.
 
----
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## Selected Work
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### [KAMEL](https://github.com/jiaweine/KAMEL)
 
-**KAN-Augmented Multimodal Expert Learning** for heterogeneous and imbalanced tabular data. Published in **Information Sciences, 2026**, with evaluation across **25 benchmark datasets**.
+**KAN-Augmented Multimodal Expert Learning** for heterogeneous and imbalanced tabular data.
 
-`Multimodal Learning` · `KAN` · `Mixture of Experts` · `Imbalanced Learning` · `PyTorch`  
+Published in **Information Sciences, 2026** and evaluated across **25 benchmark datasets**.
+
+`Multimodal Learning` · `KAN` · `Mixture of Experts` · `PyTorch`
+
 [Repository](https://github.com/jiaweine/KAMEL) · [Paper](https://doi.org/10.1016/j.ins.2026.123925)
 
-<br>
+</td>
+<td width="50%" valign="top">
 
 ### [Recsys Harness](https://github.com/jiaweine/recsys-harness)
 
-An autonomous **search and recommendation** workbench for diagnosis, experimentation, evaluation, execution, verification, and learning. Built around evidence, controlled changes, recovery, and real task execution.
+An autonomous workbench for **search and recommendation** diagnosis, experimentation, evaluation, execution, verification, and learning.
 
-`Search` · `Recommendation` · `Agents` · `Evaluation` · `Harness Engineering`  
+Built around evidence, controlled changes, recovery, and repeatable evaluation.
+
+`Search` · `Recommendation` · `Agents` · `Harness Engineering`
+
 [Repository](https://github.com/jiaweine/recsys-harness)
 
-<br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [EcomEvo](https://github.com/jiaweine/EcomEvo-Harness)
 
-A multimodal AI workbench for **real business decisions and task execution**, combining persistent context, evidence, human confirmation, auditable outcomes, and full-stack delivery.
+A multimodal AI workbench for **business decisions and task execution** with persistent context, visible evidence, human confirmation, and auditable outcomes.
 
-`Multimodal AI` · `Agents` · `Tool Use` · `Full-Stack Engineering`  
+`Multimodal AI` · `Agents` · `Tool Use` · `Full-Stack Engineering`
+
 [Repository](https://github.com/jiaweine/EcomEvo-Harness)
 
-<br>
+</td>
+<td width="50%" valign="top">
 
 ### [Lingjing · 灵境](https://github.com/jiaweine/lingjing-game-studio)
 
-A controllable and verifiable AI execution workbench for **game development**, focused on multimodal evidence, long-running tasks, recovery, verification, and reliable delivery.
+A controllable and verifiable AI execution workbench for **game development**, designed for multimodal evidence, long-running tasks, recovery, and reliable delivery.
 
-`AI Agents` · `Multimodal` · `Verification` · `Harness Engineering`  
+`AI Agents` · `Multimodal` · `Verification` · `Harness Engineering`
+
 [Repository](https://github.com/jiaweine/lingjing-game-studio)
 
----
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## Full-Stack Engineering
 
-**Model & ML** · Python · PyTorch · multimodal pipelines · evaluation  
-**Backend** · FastAPI · APIs · data systems · task runtimes  
-**Frontend** · React · TypeScript · product interfaces  
-**Infrastructure** · Docker · Linux · Git · testing · deployment
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+**Model & ML**
 
-## Build Philosophy
+Python · PyTorch  
+Multimodal pipelines  
+Training · evaluation
 
-**Smart is not enough.** I value systems that are **testable, traceable, recoverable, measurable, and useful**.
+</td>
+<td width="33%" valign="top">
 
-A good prototype proves an idea. A good system keeps working after the demo ends.
+**Backend & Runtime**
+
+FastAPI · APIs  
+Data systems  
+Agent runtimes · tooling
+
+</td>
+<td width="33%" valign="top">
+
+**Frontend & Infrastructure**
+
+React · TypeScript  
+Docker · Linux · Git  
+Testing · deployment
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Engineering Principles
+
+`testable` · `traceable` · `recoverable` · `measurable` · `useful`
+
+**Smart is not enough.** A good prototype proves an idea. A good system keeps working after the demo ends.
+
+<br/>
 
 <div align="center">
 
