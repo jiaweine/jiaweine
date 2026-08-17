@@ -1,57 +1,56 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Jiawei profile banner</title>
-  <desc id="desc">A light editorial banner for statistics, data science, applied mathematics and artificial intelligence.</desc>
+  <title id="title">Jiawei Wang profile banner</title>
+  <desc id="desc">A light editorial banner connecting statistics, data science, applied mathematics and artificial intelligence.</desc>
 
-  <rect x="1" y="1" width="1198" height="298" rx="22" fill="#FBFAF7" stroke="#E6E3DD"/>
+  <rect x="1" y="1" width="1198" height="298" rx="20" fill="#FCFBF8" stroke="#E7E3DC"/>
 
   <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
-    <text x="62" y="62" fill="#8A857E" font-size="12" font-weight="700" letter-spacing="2.1">STATISTICS · DATA SCIENCE · APPLIED MATHEMATICS · ARTIFICIAL INTELLIGENCE</text>
+    <text x="64" y="56" fill="#8B867F" font-size="12" font-weight="700" letter-spacing="2">STATISTICS · DATA SCIENCE · APPLIED MATHEMATICS · ARTIFICIAL INTELLIGENCE</text>
 
-    <text x="62" y="124" fill="#292D30" font-size="40" font-weight="760">Statistical thinking,</text>
-    <text x="62" y="170" fill="#292D30" font-size="40" font-weight="760">engineered into useful AI systems.</text>
+    <text x="64" y="116" fill="#272B2F" font-size="39" font-weight="760">Statistics as a foundation.</text>
+    <text x="64" y="161" fill="#272B2F" font-size="39" font-weight="760">AI systems as a craft.</text>
 
-    <text x="64" y="214" fill="#666D72" font-size="16" font-weight="560">Multimodal AI · Search, Ads &amp; Recommendation</text>
-    <text x="64" y="241" fill="#666D72" font-size="16" font-weight="560">Agent Post-Training · Harness Engineering</text>
+    <text x="66" y="207" fill="#606970" font-size="16" font-weight="560">Multimodal AI · Search, Ads &amp; Recommendation</text>
+    <text x="66" y="235" fill="#606970" font-size="16" font-weight="560">Agent Post-Training · Harness Engineering · Full-Stack Engineering</text>
 
-    <text x="64" y="273" fill="#96918A" font-size="13" font-weight="500">research · evaluation · systems · full-stack engineering</text>
+    <text x="66" y="269" fill="#99938B" font-size="13" font-weight="500">inference · optimization · evaluation · reliable systems</text>
 
-    <g transform="translate(760,38)">
-      <line x1="0" y1="210" x2="370" y2="210" stroke="#D7D4CE" stroke-width="1"/>
-      <line x1="0" y1="18" x2="0" y2="210" stroke="#D7D4CE" stroke-width="1"/>
+    <g transform="translate(775,36)">
+      <line x1="0" y1="210" x2="350" y2="210" stroke="#D7D3CC" stroke-width="1"/>
+      <line x1="0" y1="18" x2="0" y2="210" stroke="#D7D3CC" stroke-width="1"/>
 
-      <g stroke="#ECE9E3" stroke-width="1">
-        <line x1="0" y1="162" x2="370" y2="162"/>
-        <line x1="0" y1="114" x2="370" y2="114"/>
-        <line x1="0" y1="66" x2="370" y2="66"/>
-        <line x1="92" y1="18" x2="92" y2="210"/>
-        <line x1="184" y1="18" x2="184" y2="210"/>
-        <line x1="276" y1="18" x2="276" y2="210"/>
+      <g stroke="#EEEAE4" stroke-width="1">
+        <line x1="0" y1="162" x2="350" y2="162"/>
+        <line x1="0" y1="114" x2="350" y2="114"/>
+        <line x1="0" y1="66" x2="350" y2="66"/>
+        <line x1="87" y1="18" x2="87" y2="210"/>
+        <line x1="175" y1="18" x2="175" y2="210"/>
+        <line x1="262" y1="18" x2="262" y2="210"/>
       </g>
 
-      <path d="M8 194 C45 191, 68 180, 92 155 C119 127, 139 84, 174 67 C209 50, 237 70, 260 108 C282 143, 305 174, 360 194" fill="none" stroke="#6F8796" stroke-width="3" stroke-linecap="round"/>
+      <path d="M10 194 C43 193, 61 185, 82 164 C108 139, 123 91, 160 70 C193 52, 222 62, 248 102 C272 138, 295 175, 340 194" fill="none" stroke="#738895" stroke-width="3" stroke-linecap="round"/>
+      <path d="M35 181 C105 159, 191 117, 329 53" fill="none" stroke="#B0BBC1" stroke-width="1.5" stroke-dasharray="5 7"/>
 
-      <g fill="#6F8796" opacity="0.78">
-        <circle cx="48" cy="174" r="4"/>
-        <circle cx="76" cy="158" r="4"/>
-        <circle cx="111" cy="148" r="4"/>
-        <circle cx="143" cy="118" r="4"/>
-        <circle cx="176" cy="108" r="4"/>
-        <circle cx="207" cy="91" r="4"/>
-        <circle cx="238" cy="95" r="4"/>
-        <circle cx="268" cy="73" r="4"/>
-        <circle cx="303" cy="64" r="4"/>
-        <circle cx="336" cy="44" r="4"/>
+      <g fill="#738895" opacity="0.82">
+        <circle cx="45" cy="177" r="4"/>
+        <circle cx="70" cy="161" r="4"/>
+        <circle cx="104" cy="151" r="4"/>
+        <circle cx="135" cy="122" r="4"/>
+        <circle cx="166" cy="110" r="4"/>
+        <circle cx="194" cy="92" r="4"/>
+        <circle cx="224" cy="98" r="4"/>
+        <circle cx="252" cy="77" r="4"/>
+        <circle cx="286" cy="65" r="4"/>
+        <circle cx="320" cy="46" r="4"/>
       </g>
 
-      <path d="M38 180 C105 158, 184 118, 340 50" fill="none" stroke="#AAB7BF" stroke-width="1.5" stroke-dasharray="5 7"/>
-
-      <g stroke="#9BA6AD" stroke-width="1.6" fill="#FBFAF7">
-        <circle cx="292" cy="153" r="8"/>
-        <circle cx="329" cy="133" r="8"/>
-        <circle cx="314" cy="178" r="8"/>
-        <line x1="299" y1="149" x2="322" y2="137"/>
-        <line x1="296" y1="160" x2="309" y2="171"/>
-        <line x1="322" y1="141" x2="317" y2="170"/>
+      <g stroke="#A3AEB5" stroke-width="1.4" fill="#FCFBF8">
+        <circle cx="292" cy="151" r="8"/>
+        <circle cx="326" cy="132" r="8"/>
+        <circle cx="310" cy="178" r="8"/>
+        <line x1="299" y1="147" x2="319" y2="136"/>
+        <line x1="297" y1="158" x2="305" y2="171"/>
+        <line x1="320" y1="139" x2="314" y2="170"/>
       </g>
     </g>
   </g>
