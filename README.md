@@ -1,26 +1,23 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Jiawei Wang profile banner" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg" />
+  <img src="./assets/profile-hero-dark.svg" width="100%" alt="Jiawei Wang profile hero" />
+</picture>
 
 <br/>
 
 **Researcher when the loss converges. Engineer when it doesn't.**
 
-I work across algorithms, agent training, evaluation systems, harnesses, and full-stack delivery.
+I work across algorithms, agent post-training, evaluation systems, harnesses, and full-stack delivery.
 
 <br/>
 
-[![Multimodal](https://img.shields.io/badge/Multimodal-AI-7C3AED?style=for-the-badge)](https://github.com/jiaweine)
-[![Search Ads RecSys](https://img.shields.io/badge/Search_Ads_RecSys-Systems-0891B2?style=for-the-badge)](https://github.com/jiaweine/recsys-harness)
-[![Agent Post Training](https://img.shields.io/badge/Agent_Post--Training-Research-4F46E5?style=for-the-badge)](https://github.com/jiaweine)
-[![Harness](https://img.shields.io/badge/Harness-Engineering-65A30D?style=for-the-badge)](https://github.com/jiaweine)
-
-<br/>
-
-[![Paper](https://img.shields.io/badge/Information_Sciences-2026-111827?style=flat-square)](https://doi.org/10.1016/j.ins.2026.123925)
-[![Python](https://img.shields.io/badge/Python-Research_&_Systems-111827?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-111827?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-111827?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Paper](https://img.shields.io/badge/Information_Sciences-2026-111827?style=for-the-badge)](https://doi.org/10.1016/j.ins.2026.123925)
+[![Python](https://img.shields.io/badge/Python-Research_&_Systems-111827?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-111827?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-111827?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 </div>
 
@@ -30,26 +27,27 @@ I work across algorithms, agent training, evaluation systems, harnesses, and ful
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 ### I build intelligent systems end to end.
 
 My work sits at the intersection of **algorithm research**, **AI systems**, and **full-stack engineering**.
 
-I care about the whole lifecycle: training data, model behavior, evaluation, runtime control, tool execution, interfaces, failure recovery, and whether the final system is actually useful.
+I care about the full lifecycle: training data, model behavior, post-training, evaluation, runtime control, tool execution, interfaces, failure recovery, and whether the final system is actually useful.
 
 > **My favorite kind of bug is the one that becomes a research question.**
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
 ### Current signal
 
 ```text
-MODE        research / build
-FOCUS       intelligent systems
-STYLE       measurable / recoverable
-OUTPUT      papers / systems / products
+SYSTEM      algorithms / agents / full-stack
+FOCUS       multimodal / search ads rec
+TRAINING    agent post-training
+RUNTIME     harness engineering
+QUALITY     measurable / recoverable / verifiable
 STATUS      shipping
 ```
 
@@ -63,52 +61,42 @@ STATUS      shipping
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 ### ◈ Multimodal AI
 
-Cross-modal representation, reasoning, multimodal agents, heterogeneous data, applied multimodal systems.
+Cross-modal representation, reasoning, multimodal agents, heterogeneous data, and applied multimodal systems.
 
-`representation`
-`reasoning`
-`fusion`
-`agents`
+`representation` · `reasoning` · `fusion` · `agents`
 
 </td>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-### ◉ Search · Ads · RecSys
+### ◉ Search · Ads · Recommendation
 
-Retrieval, ranking, recommendation, relevance, quality evaluation, autonomous diagnosis and optimization.
+Retrieval, ranking, recommendation, relevance, quality evaluation, autonomous diagnosis, and optimization.
 
-`retrieval`
-`ranking`
-`relevance`
-`evaluation`
+`retrieval` · `ranking` · `relevance` · `evaluation`
 
 </td>
-<td width="25%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ◌ Agent Post-Training
 
-Trajectory curation, preference optimization, reward signals, agent evaluation, iterative capability improvement.
+Trajectory curation, preference optimization, reward signals, agent evaluation, and iterative capability improvement.
 
-`trajectories`
-`preference`
-`rewards`
-`evaluation`
+`trajectories` · `preference` · `rewards` · `evaluation`
 
 </td>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 ### ◇ Harness Engineering
 
-Evaluation harnesses, agent runtimes, tool orchestration, checkpoints, recovery, verification and controlled execution.
+Evaluation harnesses, agent runtimes, tool orchestration, checkpoints, recovery, verification, and controlled execution.
 
-`runtime`
-`tooling`
-`recovery`
-`verification`
+`runtime` · `tooling` · `recovery` · `verification`
 
 </td>
 </tr>
@@ -137,9 +125,9 @@ Published in **Information Sciences, 2026**. Evaluated on **25 benchmark dataset
 
 ### 🔎 [Recsys Harness](https://github.com/jiaweine/recsys-harness)
 
-An autonomous workbench for **search and recommendation** diagnosis, experimentation, evaluation and execution.
+An autonomous workbench for **search and recommendation** diagnosis, experimentation, evaluation, and execution.
 
-Built around evidence, controlled changes, recovery, verification and real task execution.
+Built around evidence, controlled changes, recovery, verification, and real task execution.
 
 `Search` · `Recommendation` · `Agents` · `Harness Engineering`
 
@@ -154,7 +142,7 @@ Built around evidence, controlled changes, recovery, verification and real task 
 
 A multimodal AI workbench for **real business decisions and task execution**.
 
-Persistent context, visible evidence, human confirmation and auditable outcomes in one full-stack system.
+Persistent context, visible evidence, human confirmation, and auditable outcomes in one full-stack system.
 
 `Multimodal AI` · `Full-Stack` · `Agents` · `Tool Use`
 
@@ -167,7 +155,7 @@ Persistent context, visible evidence, human confirmation and auditable outcomes 
 
 A controllable and verifiable AI execution workbench for **game development**.
 
-Multimodal evidence, recovery, verification and reliable delivery for long-running tasks.
+Multimodal evidence, recovery, verification, and reliable delivery for long-running tasks.
 
 `AI Agents` · `Multimodal` · `Verification` · `Harness Engineering`
 
@@ -207,7 +195,7 @@ FastAPI · APIs · data pipelines · persistence · evaluation infrastructure ·
 </td>
 <td width="33%" valign="top">
 
-**Product & Interface**
+**Interface & Delivery**
 
 React · TypeScript · frontend systems · workflow UX · observability · production integration
 
@@ -217,7 +205,21 @@ React · TypeScript · frontend systems · workflow UX · observability · produ
 
 <br/>
 
-## `05`  Build Philosophy
+## `05`  GitHub Pulse
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jiaweine&amp;bg_color=0D1117&amp;color=94A3B8&amp;line=22D3EE&amp;point=A3E635&amp;area=true&amp;area_color=22D3EE&amp;hide_border=true&amp;hide_title=true&amp;radius=16&amp;days=31" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jiaweine&amp;bg_color=FFFFFF&amp;color=64748B&amp;line=0891B2&amp;point=65A30D&amp;area=true&amp;area_color=A5F3FC&amp;hide_border=true&amp;hide_title=true&amp;radius=16&amp;days=31" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiaweine&amp;bg_color=0D1117&amp;color=94A3B8&amp;line=22D3EE&amp;point=A3E635&amp;area=true&amp;area_color=22D3EE&amp;hide_border=true&amp;hide_title=true&amp;radius=16&amp;days=31" width="100%" alt="GitHub activity graph" />
+</picture>
+
+</div>
+
+<br/>
+
+## `06`  Build Philosophy
 
 <div align="center">
 
