@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jiawei 👋
+# Jiawei Wang
 
 **Statistics major** · Data Science · Applied Mathematics · Artificial Intelligence
 
@@ -53,7 +53,7 @@ Runtime, tools, recovery, verification
 </tr>
 </table>
 
----
+<br/>
 
 ## Background & Interests
 
@@ -92,9 +92,15 @@ My main playground for multimodal learning, search and recommendation, agents, p
 </tr>
 </table>
 
----
+<br/>
 
 ## Current Focus
+
+<div align="center">
+<img src="./assets/focus-map.svg" width="100%" alt="Current technical focus map" />
+</div>
+
+<br/>
 
 <table>
 <tr>
@@ -139,7 +145,7 @@ The infrastructure around agents: runtimes, tools, state, checkpoints, verificat
 </tr>
 </table>
 
----
+<br/>
 
 ## Selected Work
 
@@ -198,7 +204,7 @@ A controllable and verifiable AI execution workbench for **game development**, d
 </tr>
 </table>
 
----
+<br/>
 
 ## Full-Stack Engineering
 
@@ -240,7 +246,7 @@ End-to-end system delivery
 </tr>
 </table>
 
----
+<br/>
 
 ## Engineering Principles
 
