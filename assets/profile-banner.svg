@@ -1,44 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="188" viewBox="0 0 1200 188" role="img" aria-labelledby="title desc">
-  <title id="title">Jiawei Wang current focus</title>
-  <desc id="desc">A light editorial overview of Multimodal AI, Search Ads and Recommendation, Agent Post-Training, and Harness Engineering.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Jiawei profile banner</title>
+  <desc id="desc">A light editorial banner reflecting statistics, data science, applied mathematics, artificial intelligence, multimodal AI, search recommendation, agent post-training, and harness engineering.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFDF9"/>
+      <stop offset="100%" stop-color="#F8F7F3"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#9CA3AF" flood-opacity="0.10"/>
+    </filter>
+  </defs>
 
-  <rect x="1" y="1" width="1198" height="186" rx="16" fill="#FCFBF8" stroke="#E9E5DE"/>
+  <rect x="1" y="1" width="1198" height="318" rx="26" fill="url(#paper)" stroke="#E8E5DF"/>
+  <circle cx="1040" cy="-10" r="180" fill="#EEF3FA"/>
+  <circle cx="1125" cy="310" r="155" fill="#F1EBF7"/>
+  <circle cx="760" cy="340" r="130" fill="#EEF5EF"/>
 
   <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
-    <text x="54" y="34" fill="#8A857D" font-size="11" font-weight="700" letter-spacing="2.6">CURRENT FOCUS</text>
-    <text x="1146" y="34" text-anchor="end" fill="#B0AAA1" font-size="11" font-weight="500" letter-spacing="0.4">research · systems · engineering</text>
-    <line x1="54" y1="50" x2="1146" y2="50" stroke="#E8E3DB"/>
+    <text x="64" y="70" fill="#8B8278" font-size="13" font-weight="700" letter-spacing="2.2">STATISTICS · DATA SCIENCE · APPLIED MATHEMATICS · AI</text>
+    <text x="64" y="126" fill="#252A2E" font-size="42" font-weight="760">Statistical thinking,</text>
+    <text x="64" y="174" fill="#252A2E" font-size="42" font-weight="760">engineered into AI systems.</text>
+    <text x="66" y="211" fill="#6C737A" font-size="16" font-weight="560">Multimodal AI · Search, Ads &amp; Recommendation</text>
+    <text x="66" y="237" fill="#6C737A" font-size="16" font-weight="560">Agent Post-Training · Harness Engineering</text>
+    <text x="66" y="276" fill="#8A9096" font-size="14" font-weight="500">research ideas that survive real data, evaluation, and production</text>
 
-    <line x1="318" y1="72" x2="318" y2="156" stroke="#ECE7E0"/>
-    <line x1="588" y1="72" x2="588" y2="156" stroke="#ECE7E0"/>
-    <line x1="858" y1="72" x2="858" y2="156" stroke="#ECE7E0"/>
-
-    <g transform="translate(54,70)">
-      <rect x="0" y="0" width="34" height="3" rx="1.5" fill="#B8CDD4"/>
-      <text x="0" y="27" fill="#8CA1A9" font-size="11" font-weight="700" letter-spacing="1.4">01</text>
-      <text x="0" y="58" fill="#303A3F" font-size="18" font-weight="720">Multimodal AI</text>
-      <text x="0" y="83" fill="#7A8488" font-size="12" font-weight="500">representation · reasoning · fusion</text>
+    <g transform="translate(735,48)" filter="url(#shadow)">
+      <rect x="0" y="0" width="184" height="112" rx="18" fill="#FFFFFF" stroke="#E3E8EF"/>
+      <text x="18" y="26" fill="#7A8793" font-size="11" font-weight="700" letter-spacing="1.2">DISTRIBUTION</text>
+      <path d="M18 85 C38 83, 52 72, 66 56 C80 39, 94 29, 108 30 C123 31, 137 42, 151 59 C162 71, 170 80, 176 84" fill="none" stroke="#7E9AB3" stroke-width="3" stroke-linecap="round"/>
+      <line x1="18" y1="86" x2="176" y2="86" stroke="#D8DEE5"/>
+      <circle cx="108" cy="30" r="4" fill="#7E9AB3"/>
     </g>
 
-    <g transform="translate(338,70)">
-      <rect x="0" y="0" width="34" height="3" rx="1.5" fill="#D7C7A8"/>
-      <text x="0" y="27" fill="#AF996F" font-size="11" font-weight="700" letter-spacing="1.4">02</text>
-      <text x="0" y="58" fill="#423D35" font-size="16.5" font-weight="720">Search, Ads &amp; Recommendation</text>
-      <text x="0" y="83" fill="#887F70" font-size="12" font-weight="500">retrieval · ranking · evaluation</text>
+    <g transform="translate(940,48)" filter="url(#shadow)">
+      <rect x="0" y="0" width="196" height="112" rx="18" fill="#FFFFFF" stroke="#ECE5F0"/>
+      <text x="18" y="26" fill="#8A7D91" font-size="11" font-weight="700" letter-spacing="1.2">RELATIONSHIP</text>
+      <line x1="22" y1="88" x2="174" y2="88" stroke="#DDD7E1"/>
+      <line x1="22" y1="38" x2="22" y2="88" stroke="#DDD7E1"/>
+      <g fill="#A58DB2">
+        <circle cx="42" cy="75" r="4"/><circle cx="58" cy="68" r="4"/><circle cx="78" cy="66" r="4"/>
+        <circle cx="92" cy="57" r="4"/><circle cx="111" cy="59" r="4"/><circle cx="125" cy="48" r="4"/>
+        <circle cx="145" cy="44" r="4"/><circle cx="162" cy="36" r="4"/>
+      </g>
+      <path d="M36 76 C72 69, 118 54, 166 38" fill="none" stroke="#C9B8D1" stroke-width="2" stroke-linecap="round"/>
     </g>
 
-    <g transform="translate(608,70)">
-      <rect x="0" y="0" width="34" height="3" rx="1.5" fill="#CFC2D5"/>
-      <text x="0" y="27" fill="#9C8AA4" font-size="11" font-weight="700" letter-spacing="1.4">03</text>
-      <text x="0" y="58" fill="#433C47" font-size="18" font-weight="720">Agent Post-Training</text>
-      <text x="0" y="83" fill="#827986" font-size="12" font-weight="500">trajectories · rewards · iteration</text>
+    <g transform="translate(735,182)" filter="url(#shadow)">
+      <rect x="0" y="0" width="184" height="90" rx="18" fill="#FFFFFF" stroke="#E5EDE7"/>
+      <text x="18" y="25" fill="#7A8B7D" font-size="11" font-weight="700" letter-spacing="1.2">SIGNAL</text>
+      <rect x="22" y="53" width="18" height="19" rx="4" fill="#BCD0C0"/>
+      <rect x="50" y="43" width="18" height="29" rx="4" fill="#AFC6B4"/>
+      <rect x="78" y="32" width="18" height="40" rx="4" fill="#9CB9A3"/>
+      <rect x="106" y="48" width="18" height="24" rx="4" fill="#B9CEBE"/>
+      <rect x="134" y="37" width="18" height="35" rx="4" fill="#A7C1AD"/>
     </g>
 
-    <g transform="translate(878,70)">
-      <rect x="0" y="0" width="34" height="3" rx="1.5" fill="#BED0C1"/>
-      <text x="0" y="27" fill="#889D8D" font-size="11" font-weight="700" letter-spacing="1.4">04</text>
-      <text x="0" y="58" fill="#3B453D" font-size="18" font-weight="720">Harness Engineering</text>
-      <text x="0" y="83" fill="#748078" font-size="12" font-weight="500">runtime · tools · recovery · verification</text>
+    <g transform="translate(940,182)" filter="url(#shadow)">
+      <rect x="0" y="0" width="196" height="90" rx="18" fill="#FFFFFF" stroke="#EFE6DE"/>
+      <text x="18" y="25" fill="#927C6C" font-size="11" font-weight="700" letter-spacing="1.2">SYSTEM</text>
+      <g stroke="#D8C4B4" stroke-width="2">
+        <line x1="42" y1="58" x2="82" y2="42"/>
+        <line x1="82" y1="42" x2="120" y2="58"/>
+        <line x1="120" y1="58" x2="155" y2="38"/>
+        <line x1="82" y1="42" x2="94" y2="72"/>
+      </g>
+      <g fill="#C99E7A">
+        <circle cx="42" cy="58" r="7"/><circle cx="82" cy="42" r="7"/><circle cx="120" cy="58" r="7"/><circle cx="155" cy="38" r="7"/><circle cx="94" cy="72" r="7"/>
+      </g>
     </g>
   </g>
 </svg>
