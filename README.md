@@ -4,8 +4,6 @@
 
 **Algorithm Research · AI Systems · Full-Stack Engineering**
 
-<sub>Multimodal AI · Search, Ads & Recommendation · Agent Post-Training · Harness Engineering</sub>
-
 <br/>
 
 **Researcher when the loss converges. Engineer when it doesn't.**
@@ -34,48 +32,10 @@ I care about capability and training, but also about **evaluation, runtime behav
 
 ## Focus
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### Multimodal AI
-
-Representation learning, multimodal reasoning, heterogeneous data, fusion, and multimodal agents.
-
-<sub>Understanding and combining different kinds of signals without losing structure.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### Search, Ads & Recommendation
-
-Retrieval, ranking, recommendation, relevance modeling, evaluation, and autonomous optimization.
-
-<sub>Decision systems where quality has to be measured carefully and improved continuously.</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### Agent Post-Training
-
-Trajectory curation, reward signals, preference optimization, agent evaluation, and iterative capability improvement.
-
-<sub>Turning agent behavior into something that can be trained, inspected, and improved.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### Harness Engineering
-
-Evaluation harnesses, agent runtimes, tool orchestration, state management, recovery, and verification.
-
-<sub>Building the infrastructure that makes capable agents repeatable and dependable.</sub>
-
-</td>
-</tr>
-</table>
+**Multimodal AI** · Representation learning, multimodal reasoning, heterogeneous data, fusion, and multimodal agents.  
+**Search, Ads & Recommendation** · Retrieval, ranking, recommendation, relevance modeling, evaluation, and autonomous optimization.  
+**Agent Post-Training** · Trajectory curation, reward signals, preference optimization, agent evaluation, and iterative capability improvement.  
+**Harness Engineering** · Evaluation harnesses, agent runtimes, tool orchestration, state management, recovery, and verification.
 
 <img src="./assets/doodle-divider.svg" width="100%" alt="" />
 
@@ -87,7 +47,7 @@ A small set of projects that best represent how I combine research, systems thin
 <tr>
 <td width="50%" valign="top">
 
-<sub>RESEARCH · MULTIMODAL LEARNING</sub>
+<sub>Research · Multimodal learning</sub>
 
 ### [KAMEL](https://github.com/jiaweine/KAMEL)
 
@@ -102,7 +62,7 @@ Published in **Information Sciences, 2026** and evaluated across **25 benchmark 
 </td>
 <td width="50%" valign="top">
 
-<sub>SEARCH · RECOMMENDATION · AGENTS</sub>
+<sub>Search · Recommendation · Agents</sub>
 
 ### [Recsys Harness](https://github.com/jiaweine/recsys-harness)
 
@@ -119,7 +79,7 @@ Built around evidence, controlled changes, recovery, and repeatable evaluation.
 <tr>
 <td width="50%" valign="top">
 
-<sub>MULTIMODAL AI · FULL-STACK SYSTEMS</sub>
+<sub>Multimodal AI · Full-stack systems</sub>
 
 ### [EcomEvo](https://github.com/jiaweine/EcomEvo-Harness)
 
@@ -132,7 +92,7 @@ A multimodal AI workbench for **business decisions and task execution** with per
 </td>
 <td width="50%" valign="top">
 
-<sub>AGENTS · VERIFICATION · RUNTIME</sub>
+<sub>Agents · Verification · Runtime</sub>
 
 ### [Lingjing · 灵境](https://github.com/jiaweine/lingjing-game-studio)
 
@@ -198,6 +158,6 @@ I like systems where evaluation, state, tools, recovery, interfaces, and enginee
 
 ### Research deeply. Build carefully. Stay curious.
 
-<sub>If a project helps, star it. If it breaks, open an issue. Either way, I learn something.</sub>
+<sub>Open to research discussions, engineering problems, and useful collaborations.</sub>
 
 </div>
