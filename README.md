@@ -4,8 +4,6 @@
 
 **Algorithm Research · AI Systems · Full-Stack Engineering**
 
-Multimodal AI · Search, Ads & Recommendation · Agent Post-Training · Harness Engineering
-
 <br/>
 
 **Researcher when the loss converges. Engineer when it doesn't.**
@@ -18,7 +16,7 @@ I build algorithms, train agents, and engineer reliable systems around them.
 
 <br/>
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Jiawei Wang selected focus" />
+<img src="./assets/focus-strip.svg" width="100%" alt="Jiawei Wang current focus" />
 
 <br/>
 
