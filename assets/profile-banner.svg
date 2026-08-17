@@ -18,33 +18,33 @@
 
   <g fill="none" stroke="#C9BFB4" stroke-width="2.2" stroke-linecap="round">
     <path d="M64 58 C92 42 116 43 142 58"/>
-    <path d="M1014 218 C1041 202 1067 204 1092 218"/>
-    <path d="M1107 64 C1128 51 1147 52 1165 64"/>
+    <path d="M1032 224 C1057 210 1081 211 1105 224"/>
+    <path d="M1114 62 C1134 51 1150 52 1167 63"/>
   </g>
 
   <g font-family="Trebuchet MS, Avenir Next, ui-rounded, system-ui, sans-serif">
-    <text x="72" y="78" fill="#474248" font-size="26" font-weight="760">Models are only one part of the system.</text>
-    <text x="72" y="111" fill="#7B7378" font-size="17" font-weight="600">I care about what happens before training, after inference, and everywhere in between.</text>
+    <text x="72" y="74" fill="#474248" font-size="26" font-weight="760">Models are only one part of the system.</text>
+    <text x="72" y="106" fill="#7B7378" font-size="17" font-weight="600">I care about what happens before training, after inference, and everywhere in between.</text>
 
     <g font-size="15" font-weight="700">
-      <rect x="72" y="150" width="154" height="38" rx="19" fill="#EAF5FA" stroke="#C8E2EE"/>
-      <text x="92" y="174" fill="#486C7B">Multimodal AI</text>
+      <rect x="72" y="139" width="154" height="36" rx="18" fill="#EAF5FA" stroke="#C8E2EE"/>
+      <text x="92" y="162" fill="#486C7B">Multimodal AI</text>
 
-      <rect x="238" y="150" width="274" height="38" rx="19" fill="#FFF2D4" stroke="#ECD9A8"/>
-      <text x="258" y="174" fill="#7A6537">Search, Ads &amp; Recommendation</text>
+      <rect x="238" y="139" width="274" height="36" rx="18" fill="#FFF2D4" stroke="#ECD9A8"/>
+      <text x="258" y="162" fill="#7A6537">Search, Ads &amp; Recommendation</text>
 
-      <rect x="524" y="150" width="204" height="38" rx="19" fill="#F2EBF8" stroke="#D9C9E7"/>
-      <text x="544" y="174" fill="#6B5879">Agent Post-Training</text>
+      <rect x="72" y="187" width="204" height="36" rx="18" fill="#F2EBF8" stroke="#D9C9E7"/>
+      <text x="92" y="210" fill="#6B5879">Agent Post-Training</text>
 
-      <rect x="740" y="150" width="207" height="38" rx="19" fill="#EAF5EC" stroke="#C9E1CE"/>
-      <text x="760" y="174" fill="#52715A">Harness Engineering</text>
+      <rect x="288" y="187" width="207" height="36" rx="18" fill="#EAF5EC" stroke="#C9E1CE"/>
+      <text x="308" y="210" fill="#52715A">Harness Engineering</text>
     </g>
 
-    <text x="74" y="226" fill="#948B8F" font-size="14" font-weight="600">research · evaluation · runtimes · interfaces · recovery · deployment</text>
+    <text x="74" y="251" fill="#948B8F" font-size="14" font-weight="600">research · evaluation · runtimes · interfaces · recovery · deployment</text>
   </g>
 
-  <g transform="translate(968,65)" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <ellipse cx="112" cy="156" rx="96" ry="15" fill="#EDE5DC" stroke="none" opacity="0.7"/>
+  <g transform="translate(872,54)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="112" cy="166" rx="99" ry="16" fill="#EDE5DC" stroke="none" opacity="0.68"/>
 
     <rect x="26" y="42" width="148" height="92" rx="16" fill="#FFFFFF" stroke="#BEB5AD" stroke-width="2.5"/>
     <rect x="42" y="57" width="116" height="58" rx="10" fill="#F8FBFC" stroke="#D8E5E9" stroke-width="2"/>
@@ -65,7 +65,9 @@
     <circle cx="190" cy="37" r="5" fill="#9FC6AA" stroke="none"/>
     <path d="M174 48 C180 51 186 51 191 48" stroke="#6F987A" stroke-width="2"/>
 
-    <path d="M198 101 C214 88 225 88 239 101" stroke="#B99ACA" stroke-width="3"/>
-    <circle cx="244" cy="104" r="5" fill="#E8DDF2" stroke="#B99ACA" stroke-width="1.5"/>
+    <rect x="196" y="83" width="55" height="51" rx="14" fill="#F4EDF9" stroke="#CDB8DC" stroke-width="2" transform="rotate(5 223 108)"/>
+    <circle cx="215" cy="105" r="4.5" fill="#A98BC0" stroke="none"/>
+    <circle cx="232" cy="105" r="4.5" fill="#A98BC0" stroke="none"/>
+    <path d="M215 117 C221 121 227 121 233 117" stroke="#84679A" stroke-width="2"/>
   </g>
 </svg>
