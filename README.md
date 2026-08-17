@@ -1,77 +1,122 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Jiawei Wang profile banner" />
+# Jiawei Wang
 
-<br/>
+### Algorithm Research · AI Systems · Full-Stack Engineering
 
 **Researcher when the loss converges. Engineer when it doesn't.**
 
-I turn papers into systems, and bugs into research questions.
+I build algorithms, turn them into systems, and keep iterating until they are useful outside the notebook.
 
 **Multimodal AI · Search, Ads & Recommendation · Agent Post-Training · Harness Engineering**
 
-[![GitHub](https://img.shields.io/badge/GitHub-jiaweine-181717?style=flat-square&logo=github)](https://github.com/jiaweine)
+[![Profile](https://img.shields.io/badge/GitHub-jiaweine-181717?style=flat-square&logo=github)](https://github.com/jiaweine)
 [![Paper](https://img.shields.io/badge/Information%20Sciences-2026-4F46E5?style=flat-square)](https://doi.org/10.1016/j.ins.2026.123925)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Research-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I like building algorithms, but I like them even more when they survive the trip from **research idea to working system**.
+My work lives between **algorithm research, AI systems, and full-stack engineering**. I care about models that do more than look good in an experiment: they should survive real data, real workflows, failure cases, repeated evaluation, and production integration.
 
-My work sits between **algorithm research**, **AI systems**, and **full-stack engineering**. I care about model capability, evaluation, runtime behavior, tooling, interfaces, failure recovery, and whether the final system is actually useful.
+My current focus is concentrated in four areas:
 
-- 🧠 **Multimodal AI** — representation learning, multimodal reasoning, fusion, heterogeneous data, multimodal agents
-- 🔎 **Search, Ads & Recommendation** — retrieval, ranking, recommendation, relevance, evaluation, autonomous optimization
-- 🤖 **Agent Post-Training** — trajectory curation, preference optimization, reward signals, agent evaluation, iterative capability improvement
-- ⚙️ **Harness Engineering** — evaluation harnesses, agent runtimes, tool orchestration, checkpoints, recovery, verification
-- 🧩 **Full-Stack Engineering** — Python, PyTorch, FastAPI, React, TypeScript, data systems, production integration
+- **Multimodal AI** · representation learning, multimodal reasoning, heterogeneous data, fusion, multimodal agents
+- **Search, Ads & Recommendation** · retrieval, ranking, recommendation, relevance, evaluation, autonomous optimization
+- **Agent Post-Training** · trajectory curation, reward signals, preference optimization, agent evaluation, iterative capability improvement
+- **Harness Engineering** · evaluation harnesses, agent runtimes, tool orchestration, checkpoints, recovery, verification
+
+On the engineering side, I enjoy owning the whole path from **model and backend to interface and deployment**, mainly with Python, PyTorch, FastAPI, React, TypeScript, data systems, and production tooling.
 
 > **My favorite kind of bug is the one that becomes a research question.**
 
 ---
 
-## 🚀 Featured Work
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧬 [KAMEL](https://github.com/jiaweine/KAMEL)
 
 **KAN-Augmented Multimodal Expert Learning** for heterogeneous and imbalanced tabular data.
 
-Published in **Information Sciences, 2026** and evaluated across **25 benchmark datasets**.
+Published in **Information Sciences, 2026**. Evaluated on **25 benchmark datasets**.
 
-`Multimodal Learning` · `KAN` · `Mixture of Experts` · `Imbalanced Learning` · `PyTorch`
+`Multimodal Learning` · `KAN` · `Mixture of Experts` · `PyTorch`
 
 [Repository](https://github.com/jiaweine/KAMEL) · [Paper](https://doi.org/10.1016/j.ins.2026.123925)
 
+</td>
+<td width="50%" valign="top">
+
 ### 🔎 [Recsys Harness](https://github.com/jiaweine/recsys-harness)
 
-An autonomous search and recommendation workbench for diagnosis, experimentation, evaluation, execution, verification, and learning.
+An autonomous workbench for **search and recommendation** experiments, diagnosis, execution, verification, and learning.
 
-Built around evidence, controlled changes, recovery, and real task execution.
+Built around evidence, evaluation, controlled changes, recovery, and real task execution.
 
 `Search` · `Recommendation` · `Agents` · `Evaluation` · `Harness Engineering`
 
+[Repository](https://github.com/jiaweine/recsys-harness)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🛒 [EcomEvo](https://github.com/jiaweine/EcomEvo-Harness)
 
-A multimodal AI workbench for real business decisions and task execution.
+A multimodal AI workbench for **real business decisions and task execution**.
 
-Persistent context, visible evidence, human confirmation, and auditable outcomes in one full-stack system.
+Designed around persistent context, visible evidence, human confirmation, auditable outcomes, and full-stack delivery.
 
-`Multimodal AI` · `Full-Stack` · `Agents` · `Tool Use`
+`Multimodal AI` · `Agents` · `Tool Use` · `Full-Stack`
+
+[Repository](https://github.com/jiaweine/EcomEvo-Harness)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎮 [Lingjing · 灵境](https://github.com/jiaweine/lingjing-game-studio)
 
-A controllable and verifiable AI execution workbench for game development.
+A controllable and verifiable AI execution workbench for **game development**.
 
-Focused on multimodal evidence, recovery, verification, and reliable delivery for long-running tasks.
+Focused on multimodal evidence, long-running tasks, recovery, verification, and reliable delivery.
 
 `AI Agents` · `Multimodal` · `Verification` · `Harness Engineering`
 
+[Repository](https://github.com/jiaweine/lingjing-game-studio)
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🧰 Toolbox
+## Focus
+
+| Multimodal AI | Search, Ads & Recommendation |
+| --- | --- |
+| Representation learning | Retrieval and ranking |
+| Multimodal reasoning | Recommendation systems |
+| Heterogeneous data | Relevance and evaluation |
+| Multimodal agents | Autonomous optimization |
+
+| Agent Post-Training | Harness Engineering |
+| --- | --- |
+| Trajectory curation | Evaluation harnesses |
+| Reward and preference signals | Agent runtimes |
+| Agent evaluation | Tool orchestration |
+| Capability iteration | Recovery and verification |
+
+---
+
+## Full-Stack Toolbox
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -86,11 +131,11 @@ Focused on multimodal evidence, recovery, verification, and reliable delivery fo
 
 ---
 
-## 🧪 How I Like to Work
+## Build Philosophy
 
-`research` · `prototype` · `system` · `evaluation` · `failure` · `new research question` · `repeat`
+**Smart is not enough.** I like AI systems that are:
 
-I care about AI systems that are not only **smart**, but also **testable, traceable, recoverable, measurable, and useful**.
+`testable` · `traceable` · `recoverable` · `measurable` · `useful`
 
 A good prototype proves an idea. A good system keeps working after the demo ends.
 
@@ -99,6 +144,8 @@ A good prototype proves an idea. A good system keeps working after the demo ends
 <div align="center">
 
 ### Research deeply. Build carefully. Ship things that work.
+
+If one of these projects is useful or interesting, feel free to **star a repository, open an issue, or follow my work**.
 
 <sub>Algorithms are fun. Algorithms that survive production are even more fun.</sub>
 
