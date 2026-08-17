@@ -1,39 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="228" viewBox="0 0 1200 228" role="img" aria-labelledby="title desc">
-  <title id="title">Jiawei Wang selected focus</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="188" viewBox="0 0 1200 188" role="img" aria-labelledby="title desc">
+  <title id="title">Jiawei Wang current focus</title>
   <desc id="desc">A light editorial overview of Multimodal AI, Search Ads and Recommendation, Agent Post-Training, and Harness Engineering.</desc>
 
-  <rect x="1" y="1" width="1198" height="226" rx="18" fill="#FBFAF7" stroke="#E7E2DA"/>
+  <rect x="1" y="1" width="1198" height="186" rx="16" fill="#FCFBF8" stroke="#E9E5DE"/>
 
   <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
-    <text x="54" y="42" fill="#8D887F" font-size="11" font-weight="700" letter-spacing="2.4">CURRENT FOCUS</text>
-    <line x1="54" y1="58" x2="1146" y2="58" stroke="#E5E0D8"/>
+    <text x="54" y="34" fill="#8A857D" font-size="11" font-weight="700" letter-spacing="2.6">CURRENT FOCUS</text>
+    <text x="1146" y="34" text-anchor="end" fill="#B0AAA1" font-size="11" font-weight="500" letter-spacing="0.4">research · systems · engineering</text>
+    <line x1="54" y1="50" x2="1146" y2="50" stroke="#E8E3DB"/>
 
-    <g transform="translate(54,78)">
-      <rect width="258" height="104" rx="12" fill="#F5F8F9" stroke="#DFE6E8"/>
-      <text x="22" y="27" fill="#8BA0A9" font-size="11" font-weight="700" letter-spacing="1.5">01</text>
-      <text x="22" y="56" fill="#303B40" font-size="17" font-weight="700">Multimodal AI</text>
-      <text x="22" y="79" fill="#768287" font-size="12" font-weight="500">representation · reasoning · fusion</text>
+    <line x1="318" y1="72" x2="318" y2="156" stroke="#ECE7E0"/>
+    <line x1="588" y1="72" x2="588" y2="156" stroke="#ECE7E0"/>
+    <line x1="858" y1="72" x2="858" y2="156" stroke="#ECE7E0"/>
+
+    <g transform="translate(54,70)">
+      <rect x="0" y="0" width="34" height="3" rx="1.5" fill="#B8CDD4"/>
+      <text x="0" y="27" fill="#8CA1A9" font-size="11" font-weight="700" letter-spacing="1.4">01</text>
+      <text x="0" y="58" fill="#303A3F" font-size="18" font-weight="720">Multimodal AI</text>
+      <text x="0" y="83" fill="#7A8488" font-size="12" font-weight="500">representation · reasoning · fusion</text>
     </g>
 
-    <g transform="translate(326,78)">
-      <rect width="258" height="104" rx="12" fill="#FAF8F3" stroke="#E8E1D4"/>
-      <text x="22" y="27" fill="#B19B73" font-size="11" font-weight="700" letter-spacing="1.5">02</text>
-      <text x="22" y="56" fill="#453F36" font-size="15" font-weight="700">Search, Ads &amp; Recommendation</text>
-      <text x="22" y="79" fill="#887F70" font-size="12" font-weight="500">retrieval · ranking · evaluation</text>
+    <g transform="translate(338,70)">
+      <rect x="0" y="0" width="34" height="3" rx="1.5" fill="#D7C7A8"/>
+      <text x="0" y="27" fill="#AF996F" font-size="11" font-weight="700" letter-spacing="1.4">02</text>
+      <text x="0" y="58" fill="#423D35" font-size="16.5" font-weight="720">Search, Ads &amp; Recommendation</text>
+      <text x="0" y="83" fill="#887F70" font-size="12" font-weight="500">retrieval · ranking · evaluation</text>
     </g>
 
-    <g transform="translate(598,78)">
-      <rect width="258" height="104" rx="12" fill="#F8F6F9" stroke="#E5DFE7"/>
-      <text x="22" y="27" fill="#9B8AA2" font-size="11" font-weight="700" letter-spacing="1.5">03</text>
-      <text x="22" y="56" fill="#423B46" font-size="17" font-weight="700">Agent Post-Training</text>
-      <text x="22" y="79" fill="#827986" font-size="12" font-weight="500">trajectories · rewards · iteration</text>
+    <g transform="translate(608,70)">
+      <rect x="0" y="0" width="34" height="3" rx="1.5" fill="#CFC2D5"/>
+      <text x="0" y="27" fill="#9C8AA4" font-size="11" font-weight="700" letter-spacing="1.4">03</text>
+      <text x="0" y="58" fill="#433C47" font-size="18" font-weight="720">Agent Post-Training</text>
+      <text x="0" y="83" fill="#827986" font-size="12" font-weight="500">trajectories · rewards · iteration</text>
     </g>
 
-    <g transform="translate(870,78)">
-      <rect width="276" height="104" rx="12" fill="#F5F8F5" stroke="#DEE6DF"/>
-      <text x="22" y="27" fill="#879D8B" font-size="11" font-weight="700" letter-spacing="1.5">04</text>
-      <text x="22" y="56" fill="#39443B" font-size="17" font-weight="700">Harness Engineering</text>
-      <text x="22" y="79" fill="#748078" font-size="12" font-weight="500">runtime · tools · recovery · verification</text>
+    <g transform="translate(878,70)">
+      <rect x="0" y="0" width="34" height="3" rx="1.5" fill="#BED0C1"/>
+      <text x="0" y="27" fill="#889D8D" font-size="11" font-weight="700" letter-spacing="1.4">04</text>
+      <text x="0" y="58" fill="#3B453D" font-size="18" font-weight="720">Harness Engineering</text>
+      <text x="0" y="83" fill="#748078" font-size="12" font-weight="500">runtime · tools · recovery · verification</text>
     </g>
   </g>
 </svg>
