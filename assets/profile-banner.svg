@@ -1,50 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Jiawei Wang profile banner</title>
-  <desc id="desc">Algorithm Research, AI Systems, Full-Stack Engineering. Multimodal AI, Search Ads and Recommendation, Agent Post-Training, Harness Engineering.</desc>
+  <desc id="desc">A light playful cartoon banner for algorithm research, AI systems and full-stack engineering.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0b0f14"/>
-      <stop offset="62%" stop-color="#0f1722"/>
-      <stop offset="100%" stop-color="#111827"/>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFDF8"/>
+      <stop offset="100%" stop-color="#FFF6EE"/>
     </linearGradient>
-    <radialGradient id="violet" cx="0" cy="0" r="1" gradientTransform="translate(1010 40) rotate(145) scale(420 230)">
-      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.20"/>
-      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="cyan" cx="0" cy="0" r="1" gradientTransform="translate(80 310) rotate(-28) scale(440 190)">
-      <stop offset="0%" stop-color="#0891b2" stop-opacity="0.15"/>
-      <stop offset="100%" stop-color="#0891b2" stop-opacity="0"/>
-    </radialGradient>
   </defs>
 
-  <rect x="1" y="1" width="1198" height="298" rx="22" fill="url(#bg)" stroke="#243041"/>
-  <rect x="1" y="1" width="1198" height="298" rx="22" fill="url(#violet)"/>
-  <rect x="1" y="1" width="1198" height="298" rx="22" fill="url(#cyan)"/>
+  <rect x="2" y="2" width="1196" height="356" rx="30" fill="url(#paper)" stroke="#E8DCCF" stroke-width="2"/>
 
-  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
-    <text x="68" y="82" fill="#f8fafc" font-size="43" font-weight="760" letter-spacing="1.2">JIAWEI WANG</text>
-    <text x="70" y="120" fill="#aeb9c8" font-size="18" font-weight="560" letter-spacing="0.7">ALGORITHM RESEARCH · AI SYSTEMS · FULL-STACK ENGINEERING</text>
+  <path d="M0 58 C72 22, 126 30, 176 0 L0 0 Z" fill="#DFF3FF"/>
+  <path d="M1030 0 C1110 28, 1170 86, 1200 145 L1200 0 Z" fill="#F5E7FF"/>
+  <path d="M0 280 C92 245, 176 260, 250 360 L0 360 Z" fill="#FFF0B8"/>
+  <path d="M950 360 C1025 285, 1120 270, 1200 300 L1200 360 Z" fill="#DFF7E8"/>
 
-    <line x1="70" y1="150" x2="844" y2="150" stroke="#2d3a4d" stroke-width="1"/>
+  <circle cx="103" cy="72" r="8" fill="#FFB8C6"/>
+  <circle cx="132" cy="54" r="5" fill="#7FD8FF"/>
+  <circle cx="1118" cy="75" r="7" fill="#FFD45C"/>
+  <path d="M1010 67 C1038 40, 1067 41, 1091 63" fill="none" stroke="#9A7BD7" stroke-width="5" stroke-linecap="round"/>
+  <path d="M82 311 C106 286, 135 286, 160 309" fill="none" stroke="#F29AB2" stroke-width="5" stroke-linecap="round"/>
+  <path d="M900 302 C929 279, 958 281, 986 304" fill="none" stroke="#65BFA6" stroke-width="5" stroke-linecap="round"/>
 
-    <g font-size="16" font-weight="590">
-      <rect x="70" y="178" width="164" height="34" rx="17" fill="#172033" stroke="#2b3950"/>
-      <text x="88" y="200" fill="#dce4ef">Multimodal AI</text>
+  <g font-family="Trebuchet MS, Arial Rounded MT Bold, ui-rounded, system-ui, sans-serif">
+    <text x="80" y="94" fill="#3E3A45" font-size="50" font-weight="800">Jiawei Wang</text>
+    <text x="82" y="134" fill="#746D79" font-size="20" font-weight="700">Algorithm Research · AI Systems · Full-Stack Engineering</text>
+    <text x="82" y="178" fill="#4D4852" font-size="19" font-weight="600">Building capable models, reliable agents, and the systems around them.</text>
 
-      <rect x="247" y="178" width="282" height="34" rx="17" fill="#172033" stroke="#2b3950"/>
-      <text x="265" y="200" fill="#dce4ef">Search, Ads &amp; Recommendation</text>
+    <g font-size="16" font-weight="700">
+      <rect x="80" y="212" width="155" height="40" rx="20" fill="#E8F5FF" stroke="#B9DFF6"/>
+      <text x="100" y="238" fill="#3D6E87">Multimodal AI</text>
 
-      <rect x="542" y="178" width="208" height="34" rx="17" fill="#172033" stroke="#2b3950"/>
-      <text x="560" y="200" fill="#dce4ef">Agent Post-Training</text>
+      <rect x="248" y="212" width="282" height="40" rx="20" fill="#FFF1D1" stroke="#F2D999"/>
+      <text x="268" y="238" fill="#7D6632">Search, Ads &amp; Recommendation</text>
 
-      <rect x="763" y="178" width="202" height="34" rx="17" fill="#172033" stroke="#2b3950"/>
-      <text x="781" y="200" fill="#dce4ef">Harness Engineering</text>
+      <rect x="544" y="212" width="210" height="40" rx="20" fill="#F4EAFE" stroke="#D9C0F3"/>
+      <text x="564" y="238" fill="#70518B">Agent Post-Training</text>
+
+      <rect x="768" y="212" width="215" height="40" rx="20" fill="#E7F7EC" stroke="#B9E0C5"/>
+      <text x="788" y="238" fill="#48785A">Harness Engineering</text>
     </g>
 
-    <text x="70" y="252" fill="#7f8da3" font-size="15" font-weight="500">Research deeply. Build carefully. Ship things that work.</text>
+    <text x="82" y="294" fill="#8B818E" font-size="16" font-weight="600">Research deeply. Build carefully. Keep a little curiosity in the loop.</text>
+  </g>
 
-    <circle cx="1064" cy="146" r="76" fill="#111a28" stroke="#334155"/>
-    <circle cx="1064" cy="146" r="60" fill="none" stroke="#253348"/>
-    <text x="1064" y="158" text-anchor="middle" fill="#e8edf5" font-size="38" font-weight="720" letter-spacing="2">JW</text>
+  <g transform="translate(1000,116) scale(0.95)">
+    <ellipse cx="82" cy="158" rx="88" ry="18" fill="#EEDFD2" opacity="0.72"/>
+    <rect x="10" y="26" width="145" height="112" rx="34" fill="#FFFFFF" stroke="#D9CEC3" stroke-width="3"/>
+    <rect x="27" y="45" width="111" height="66" rx="22" fill="#FFF7D9" stroke="#E9D8A0" stroke-width="2"/>
+    <circle cx="62" cy="76" r="7" fill="#4A4650"/>
+    <circle cx="103" cy="76" r="7" fill="#4A4650"/>
+    <path d="M68 92 C78 102, 89 102, 99 92" fill="none" stroke="#4A4650" stroke-width="4" stroke-linecap="round"/>
+    <line x1="82" y1="26" x2="82" y2="6" stroke="#A99BAA" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="82" cy="2" r="7" fill="#FFB8C6" stroke="#D998AA" stroke-width="2"/>
+    <rect x="36" y="125" width="92" height="48" rx="13" fill="#EAF4FF" stroke="#BAD7EA" stroke-width="2"/>
+    <path d="M56 150 C66 138, 78 138, 88 150 C98 138, 110 138, 120 150" fill="none" stroke="#6E9BB5" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="28" cy="122" r="8" fill="#DFF7E8" stroke="#B9E0C5"/>
+    <circle cx="138" cy="122" r="8" fill="#F4EAFE" stroke="#D9C0F3"/>
   </g>
 </svg>
