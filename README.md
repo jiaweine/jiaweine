@@ -18,35 +18,35 @@ I like turning statistical thinking into models, agents, and systems that remain
 
 <br/>
 
-## 🌿 About Me
+## About Me
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-### 📊 Statistical roots, engineering instincts
+### Statistical roots, engineering instincts
 
 My major is **Statistics**, and my interests naturally extend into **Data Science, Applied Mathematics, and Artificial Intelligence**.
 
-I enjoy questions about uncertainty, structure, optimization, representation, and decision-making, but I also care about what happens after the model leaves the experiment: evaluation, runtime behavior, interfaces, tooling, recovery, and deployment.
+I enjoy questions about uncertainty, structure, optimization, representation, and decision-making. I also care about what happens after a model leaves the experiment: evaluation, runtime behavior, interfaces, tooling, recovery, and deployment.
 
 > **My favorite kind of bug is the one that becomes a research question.**
 
 </td>
 <td width="42%" valign="top">
 
-### 🔭 Current technical focus
+### Current technical focus
 
-**🧠 Multimodal AI**  
+**Multimodal AI**  
 Representation, reasoning, heterogeneous data
 
-**🔎 Search, Ads & Recommendation**  
+**Search, Ads & Recommendation**  
 Retrieval, ranking, relevance, evaluation
 
-**🧪 Agent Post-Training**  
+**Agent Post-Training**  
 Trajectories, rewards, preferences, iteration
 
-**🛠️ Harness Engineering**  
+**Harness Engineering**  
 Runtime, tools, recovery, verification
 
 </td>
@@ -55,20 +55,20 @@ Runtime, tools, recovery, verification
 
 ---
 
-## 📚 Background & Interests
+## Background & Interests
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Statistics
+### Statistics
 
 My academic foundation: inference, uncertainty, experimental thinking, and models that respect what the data can actually support.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧮 Applied Mathematics
+### Applied Mathematics
 
 I enjoy optimization, structure, numerical reasoning, and the mathematical ideas that make learning systems work.
 
@@ -77,14 +77,14 @@ I enjoy optimization, structure, numerical reasoning, and the mathematical ideas
 <tr>
 <td width="50%" valign="top">
 
-### 🗂️ Data Science
+### Data Science
 
 I care about data-centric workflows, experimentation, evaluation, and extracting useful signal from messy reality.
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Artificial Intelligence
+### Artificial Intelligence
 
 My main playground for multimodal learning, search and recommendation, agents, post-training, and reliable AI systems.
 
@@ -94,24 +94,24 @@ My main playground for multimodal learning, search and recommendation, agents, p
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Multimodal AI
+### Multimodal AI
 
-I am interested in models that learn from heterogeneous signals and reason across modalities rather than treating each input in isolation.
+Models that learn from heterogeneous signals and reason across modalities rather than treating each input in isolation.
 
 `representation learning` · `multimodal reasoning` · `fusion` · `multimodal agents`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔎 Search, Ads & Recommendation
+### Search, Ads & Recommendation
 
-I care about retrieval, ranking, relevance, recommendation quality, and evaluation systems that connect model improvements to real user experience.
+Retrieval, ranking, relevance, recommendation quality, and evaluation systems that connect model improvements to real user experience.
 
 `retrieval` · `ranking` · `recommendation` · `evaluation`
 
@@ -120,18 +120,18 @@ I care about retrieval, ranking, relevance, recommendation quality, and evaluati
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 Agent Post-Training
+### Agent Post-Training
 
-I am exploring how trajectories, reward signals, preferences, evaluation, and iteration can systematically improve agent capability.
+Trajectory curation, reward signals, preferences, evaluation, and iteration for systematically improving agent capability.
 
 `trajectory curation` · `reward signals` · `preference optimization` · `agent evaluation`
 
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ Harness Engineering
+### Harness Engineering
 
-I like building the infrastructure around agents: runtimes, tools, state, checkpoints, verification, recovery, and repeatable evaluation.
+The infrastructure around agents: runtimes, tools, state, checkpoints, verification, recovery, and repeatable evaluation.
 
 `agent runtimes` · `tool orchestration` · `recovery` · `verification`
 
@@ -141,13 +141,13 @@ I like building the infrastructure around agents: runtimes, tools, state, checkp
 
 ---
 
-## 🚀 Selected Work
+## Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 [KAMEL](https://github.com/jiaweine/KAMEL)
+### [KAMEL](https://github.com/jiaweine/KAMEL)
 
 **KAN-Augmented Multimodal Expert Learning** for heterogeneous and imbalanced tabular data.
 
@@ -160,7 +160,7 @@ Published in **Information Sciences, 2026** and evaluated across **25 benchmark 
 </td>
 <td width="50%" valign="top">
 
-### 🔎 [Recsys Harness](https://github.com/jiaweine/recsys-harness)
+### [Recsys Harness](https://github.com/jiaweine/recsys-harness)
 
 An autonomous workbench for **search and recommendation** diagnosis, experimentation, evaluation, execution, verification, and learning.
 
@@ -175,7 +175,7 @@ Built around evidence, controlled changes, recovery, and repeatable evaluation.
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 [EcomEvo](https://github.com/jiaweine/EcomEvo-Harness)
+### [EcomEvo](https://github.com/jiaweine/EcomEvo-Harness)
 
 A multimodal AI workbench for **business decisions and task execution** with persistent context, visible evidence, human confirmation, and auditable outcomes.
 
@@ -186,7 +186,7 @@ A multimodal AI workbench for **business decisions and task execution** with per
 </td>
 <td width="50%" valign="top">
 
-### 🎮 [Lingjing · 灵境](https://github.com/jiaweine/lingjing-game-studio)
+### [Lingjing · 灵境](https://github.com/jiaweine/lingjing-game-studio)
 
 A controllable and verifiable AI execution workbench for **game development**, designed for multimodal evidence, long-running tasks, recovery, and reliable delivery.
 
@@ -200,13 +200,13 @@ A controllable and verifiable AI execution workbench for **game development**, d
 
 ---
 
-## 🧰 Full-Stack Engineering
+## Full-Stack Engineering
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🧠 Model & ML
+### Model & ML
 
 **Python · PyTorch**
 
@@ -217,7 +217,7 @@ Data and experiment tooling
 </td>
 <td width="33%" valign="top">
 
-### ⚙️ Backend & Agent Systems
+### Backend & Agent Systems
 
 **FastAPI · APIs**
 
@@ -228,7 +228,7 @@ Tool orchestration and state
 </td>
 <td width="33%" valign="top">
 
-### 🖥️ Frontend & Infrastructure
+### Frontend & Infrastructure
 
 **React · TypeScript**
 
@@ -242,7 +242,7 @@ End-to-end system delivery
 
 ---
 
-## ✨ Engineering Principles
+## Engineering Principles
 
 <div align="center">
 
