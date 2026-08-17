@@ -1,60 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
-  <title id="title">Jiawei Wang focus map</title>
-  <desc id="desc">A light editorial focus map for multimodal AI, search ads and recommendation, agent post-training, and harness engineering.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="228" viewBox="0 0 1200 228" role="img" aria-labelledby="title desc">
+  <title id="title">Jiawei Wang selected focus</title>
+  <desc id="desc">A light editorial overview of Multimodal AI, Search Ads and Recommendation, Agent Post-Training, and Harness Engineering.</desc>
 
-  <rect x="2" y="2" width="1196" height="236" rx="24" fill="#FCFBF8" stroke="#E6E1D9" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="226" rx="18" fill="#FBFAF7" stroke="#E7E2DA"/>
 
   <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
-    <text x="70" y="42" fill="#8B857D" font-size="12" font-weight="700" letter-spacing="2.2">SELECTED FOCUS</text>
-    <line x1="70" y1="58" x2="1130" y2="58" stroke="#E7E2DA"/>
+    <text x="54" y="42" fill="#8D887F" font-size="11" font-weight="700" letter-spacing="2.4">CURRENT FOCUS</text>
+    <line x1="54" y1="58" x2="1146" y2="58" stroke="#E5E0D8"/>
 
-    <g transform="translate(70,78)">
-      <rect width="240" height="112" rx="16" fill="#F7FAFB" stroke="#E0E8EA"/>
-      <g fill="none" stroke="#7D9DAA" stroke-width="2">
-        <circle cx="34" cy="36" r="8" fill="#F7FAFB"/>
-        <circle cx="63" cy="25" r="6" fill="#F7FAFB"/>
-        <circle cx="72" cy="54" r="7" fill="#F7FAFB"/>
-        <path d="M41 33 L57 27 M40 40 L65 50 M65 31 L69 47"/>
-      </g>
-      <text x="24" y="85" fill="#39444A" font-size="16" font-weight="700">Multimodal AI</text>
-      <text x="24" y="101" fill="#8A9499" font-size="11" font-weight="600">representation · reasoning · fusion</text>
+    <g transform="translate(54,78)">
+      <rect width="258" height="104" rx="12" fill="#F5F8F9" stroke="#DFE6E8"/>
+      <text x="22" y="27" fill="#8BA0A9" font-size="11" font-weight="700" letter-spacing="1.5">01</text>
+      <text x="22" y="56" fill="#303B40" font-size="17" font-weight="700">Multimodal AI</text>
+      <text x="22" y="79" fill="#768287" font-size="12" font-weight="500">representation · reasoning · fusion</text>
     </g>
 
-    <g transform="translate(340,78)">
-      <rect width="240" height="112" rx="16" fill="#FBF9F4" stroke="#E9E2D3"/>
-      <g fill="none" stroke="#B29B6E" stroke-width="2" stroke-linecap="round">
-        <path d="M28 24 H84"/>
-        <path d="M28 38 H72"/>
-        <path d="M28 52 H60"/>
-        <circle cx="88" cy="24" r="4" fill="#FBF9F4"/>
-        <circle cx="76" cy="38" r="4" fill="#FBF9F4"/>
-        <circle cx="64" cy="52" r="4" fill="#FBF9F4"/>
-      </g>
-      <text x="24" y="85" fill="#4B463C" font-size="14" font-weight="700">Search, Ads &amp; Recommendation</text>
-      <text x="24" y="101" fill="#968D7A" font-size="11" font-weight="600">retrieval · ranking · evaluation</text>
+    <g transform="translate(326,78)">
+      <rect width="258" height="104" rx="12" fill="#FAF8F3" stroke="#E8E1D4"/>
+      <text x="22" y="27" fill="#B19B73" font-size="11" font-weight="700" letter-spacing="1.5">02</text>
+      <text x="22" y="56" fill="#453F36" font-size="15" font-weight="700">Search, Ads &amp; Recommendation</text>
+      <text x="22" y="79" fill="#887F70" font-size="12" font-weight="500">retrieval · ranking · evaluation</text>
     </g>
 
-    <g transform="translate(610,78)">
-      <rect width="240" height="112" rx="16" fill="#FAF8FB" stroke="#E8E1EB"/>
-      <g fill="none" stroke="#9A88A6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M28 51 C43 27 56 28 68 43 C80 58 91 54 104 29"/>
-        <circle cx="28" cy="51" r="4" fill="#FAF8FB"/>
-        <circle cx="68" cy="43" r="4" fill="#FAF8FB"/>
-        <circle cx="104" cy="29" r="4" fill="#FAF8FB"/>
-      </g>
-      <text x="24" y="85" fill="#473F4C" font-size="16" font-weight="700">Agent Post-Training</text>
-      <text x="24" y="101" fill="#918796" font-size="11" font-weight="600">trajectories · rewards · iteration</text>
+    <g transform="translate(598,78)">
+      <rect width="258" height="104" rx="12" fill="#F8F6F9" stroke="#E5DFE7"/>
+      <text x="22" y="27" fill="#9B8AA2" font-size="11" font-weight="700" letter-spacing="1.5">03</text>
+      <text x="22" y="56" fill="#423B46" font-size="17" font-weight="700">Agent Post-Training</text>
+      <text x="22" y="79" fill="#827986" font-size="12" font-weight="500">trajectories · rewards · iteration</text>
     </g>
 
-    <g transform="translate(880,78)">
-      <rect width="250" height="112" rx="16" fill="#F7FAF7" stroke="#DFE8E0"/>
-      <g fill="none" stroke="#7E9A84" stroke-width="2">
-        <rect x="27" y="21" width="74" height="38" rx="8"/>
-        <rect x="39" y="31" width="74" height="38" rx="8" fill="#F7FAF7"/>
-        <path d="M48 50 H82" stroke-linecap="round"/>
-      </g>
-      <text x="24" y="85" fill="#3E4940" font-size="16" font-weight="700">Harness Engineering</text>
-      <text x="24" y="101" fill="#87928A" font-size="11" font-weight="600">runtime · tools · recovery · verification</text>
+    <g transform="translate(870,78)">
+      <rect width="276" height="104" rx="12" fill="#F5F8F5" stroke="#DEE6DF"/>
+      <text x="22" y="27" fill="#879D8B" font-size="11" font-weight="700" letter-spacing="1.5">04</text>
+      <text x="22" y="56" fill="#39443B" font-size="17" font-weight="700">Harness Engineering</text>
+      <text x="22" y="79" fill="#748078" font-size="12" font-weight="500">runtime · tools · recovery · verification</text>
     </g>
   </g>
 </svg>
