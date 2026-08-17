@@ -2,11 +2,11 @@
 
 # Jiawei Wang
 
-### Algorithm Research · AI Systems · Product Engineering
+### Algorithm Research · AI Systems · Full-Stack Engineering
 
 **Researcher when the loss converges. Engineer when it doesn't.**
 
-I build algorithms, turn them into systems, and keep iterating until they are useful outside the notebook.
+I build algorithms, train and evaluate intelligent systems, and turn them into full-stack products that work beyond the notebook.
 
 [![Profile](https://img.shields.io/badge/GitHub-jiaweine-181717?style=flat-square&logo=github)](https://github.com/jiaweine)
 [![Paper](https://img.shields.io/badge/Information%20Sciences-2026-4F46E5?style=flat-square)](https://doi.org/10.1016/j.ins.2026.123925)
@@ -18,9 +18,13 @@ I build algorithms, turn them into systems, and keep iterating until they are us
 
 ## About
 
-My work lives between **algorithm research** and **AI engineering**. I care about models that do more than look good in an experiment: they should survive real data, real workflows, failure cases, and repeated evaluation.
+My work lives between **algorithm research, AI systems, and full-stack engineering**. I care about models that do more than look good in an experiment: they should survive real data, real workflows, failure cases, repeated evaluation, and actual product use.
 
-Currently interested in **multimodal learning, KAN, mixture of experts, imbalanced learning, search and recommendation, autonomous agents, evaluation, and recoverable AI systems**.
+My current focus is concentrated in four areas:
+
+**Multimodal AI** · **Search, Ads & Recommendation** · **Agent Post-Training** · **Harness Engineering**
+
+I am especially interested in how training, evaluation, tooling, runtime control, and product interfaces can work together as one complete system.
 
 > **My favorite kind of bug is the one that becomes a research question.**
 
@@ -47,11 +51,11 @@ Published in **Information Sciences, 2026**. Evaluated on **25 benchmark dataset
 
 ### 🔎 [Recsys Harness](https://github.com/jiaweine/recsys-harness)
 
-An autonomous workbench for **search and recommendation** experiments, diagnosis, execution, verification, and learning.
+An autonomous workbench for **search, recommendation, evaluation, diagnosis, and execution**.
 
-Built around evidence, evaluation, recovery, and real task execution.
+Built around evidence, controlled experimentation, recovery, and real task execution.
 
-`Search` · `Recommendation` · `Agents` · `Evaluation`
+`Search` · `Recommendation` · `Agents` · `Harness Engineering`
 
 [Repository](https://github.com/jiaweine/recsys-harness)
 
@@ -66,7 +70,7 @@ A multimodal AI workbench for **real business decisions and task execution**.
 
 Designed around persistent context, visible evidence, human confirmation, and auditable outcomes.
 
-`Multimodal AI` · `FastAPI` · `Business Agents` · `Tool Use`
+`Multimodal AI` · `Full-Stack` · `Agents` · `Tool Use`
 
 [Repository](https://github.com/jiaweine/EcomEvo-Harness)
 
@@ -77,9 +81,9 @@ Designed around persistent context, visible evidence, human confirmation, and au
 
 A controllable and verifiable AI execution workbench for **game development**.
 
-Focused on reproduction, regression, multimodal evidence, recovery, and reliable delivery.
+Focused on multimodal evidence, recovery, verification, and reliable delivery.
 
-`Game Development` · `AI Agents` · `Multimodal` · `Verification`
+`AI Agents` · `Multimodal` · `Verification` · `Harness Engineering`
 
 [Repository](https://github.com/jiaweine/lingjing-game-studio)
 
@@ -89,14 +93,22 @@ Focused on reproduction, regression, multimodal evidence, recovery, and reliable
 
 ---
 
-## What I Like Building
+## Focus
 
-| Research | Systems | Engineering |
-| --- | --- | --- |
-| Multimodal learning | Autonomous agents | Python |
-| KAN and expert models | Search and recommendation | PyTorch |
-| Imbalanced learning | Evaluation systems | FastAPI |
-| Representation learning | Recoverable workflows | Linux and Git |
+| Multimodal | Search, Ads & Recommendation | Agent Post-Training | Harness Engineering |
+| --- | --- | --- | --- |
+| Multimodal representation | Ranking and retrieval | Data and trajectory curation | Evaluation harnesses |
+| Cross-modal reasoning | Recommendation systems | Preference optimization | Agent runtimes |
+| Multimodal agents | Search quality | Agent evaluation | Tool orchestration |
+| Applied multimodal systems | Ads and relevance | Iterative improvement | Recovery and verification |
+
+---
+
+## Full-Stack Engineering
+
+`Python` · `PyTorch` · `FastAPI` · `Frontend` · `Backend` · `APIs` · `Data Systems` · `Linux` · `Git`
+
+I like owning the full path from **model and algorithm design** to **backend services, interfaces, evaluation infrastructure, and production-facing workflows**.
 
 ---
 
