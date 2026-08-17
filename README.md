@@ -1,108 +1,53 @@
 <div align="center">
 
-<sub>JIAWEINE / PROFILE SYSTEM</sub>
+# Hi, I'm Jiawei 👋
 
-# Jiawei Wang
+### Statistics · Data Science · Applied Mathematics · Artificial Intelligence
 
-### Algorithm Research · AI Systems · Full-Stack Engineering
+**Algorithm Research · AI Systems · Full-Stack Engineering**
 
-*I train models, build agents, and engineer the harness around them.*
+I like turning statistical thinking into models, agents, and systems that remain useful outside the notebook.
 
-<kbd>Multimodal AI</kbd>&nbsp;&nbsp;<kbd>Search, Ads & Recommendation</kbd>&nbsp;&nbsp;<kbd>Agent Post-Training</kbd>&nbsp;&nbsp;<kbd>Harness Engineering</kbd>
+[GitHub](https://github.com/jiaweine) · [Information Sciences 2026](https://doi.org/10.1016/j.ins.2026.123925)
+
+<br/>
+
+<img src="./assets/profile-banner.svg" width="100%" alt="Statistics, data science and AI profile banner" />
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
-<sub>NOW / BUILDING</sub>
-
-### Research ideas that survive contact with systems.
-
-I work where **algorithm research, AI systems, and full-stack engineering** meet. I care about ideas that hold up under real data, repeated evaluation, long-running workflows, and production integration.
-
-**My favorite kind of bug is the one that becomes a research question.**
-
-</td>
-<td width="38%" valign="top">
-
-<sub>CURRENT MODE</sub>
-
-### shipping · evaluating · iterating
-
-**Research**  
-Multimodal learning · ranking · agent training
-
-**Systems**  
-Runtime · tools · recovery · verification
-
-**Paper**  
-[Information Sciences 2026](https://doi.org/10.1016/j.ins.2026.123925)
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="#01--current-focus"><kbd>Current Focus</kbd></a>&nbsp;&nbsp;
-  <a href="#02--selected-work"><kbd>Selected Work</kbd></a>&nbsp;&nbsp;
-  <a href="#03--full-stack-engineering"><kbd>Full-Stack</kbd></a>&nbsp;&nbsp;
-  <a href="#04--engineering-principles"><kbd>Principles</kbd></a>
-</p>
-
----
-
-## 01 · Current Focus
+## 🌿 About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-<sub>01 / MULTIMODAL</sub>
+### 📊 Statistical roots, engineering instincts
 
-### Multimodal AI
+My major is **Statistics**, and my interests naturally extend into **Data Science, Applied Mathematics, and Artificial Intelligence**.
 
-Representation learning, multimodal reasoning, heterogeneous data, fusion, and multimodal agents.
+I enjoy questions about uncertainty, structure, optimization, representation, and decision-making, but I also care about what happens after the model leaves the experiment: evaluation, runtime behavior, interfaces, tooling, recovery, and deployment.
 
-<kbd>representation</kbd> <kbd>reasoning</kbd> <kbd>fusion</kbd>
-
-</td>
-<td width="50%" valign="top">
-
-<sub>02 / SEARCH SYSTEMS</sub>
-
-### Search, Ads & Recommendation
-
-Retrieval, ranking, recommendation, relevance modeling, evaluation, and autonomous optimization.
-
-<kbd>retrieval</kbd> <kbd>ranking</kbd> <kbd>evaluation</kbd>
+> **My favorite kind of bug is the one that becomes a research question.**
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-<sub>03 / AGENT TRAINING</sub>
+### 🔭 Current technical focus
 
-### Agent Post-Training
+**🧠 Multimodal AI**  
+Representation, reasoning, heterogeneous data
 
-Trajectory curation, reward signals, preference optimization, agent evaluation, and capability iteration.
+**🔎 Search, Ads & Recommendation**  
+Retrieval, ranking, relevance, evaluation
 
-<kbd>trajectories</kbd> <kbd>rewards</kbd> <kbd>evaluation</kbd>
+**🧪 Agent Post-Training**  
+Trajectories, rewards, preferences, iteration
 
-</td>
-<td width="50%" valign="top">
-
-<sub>04 / AGENT SYSTEMS</sub>
-
-### Harness Engineering
-
-Evaluation harnesses, agent runtimes, tool orchestration, state management, recovery, and verification.
-
-<kbd>runtime</kbd> <kbd>tools</kbd> <kbd>recovery</kbd>
+**🛠️ Harness Engineering**  
+Runtime, tools, recovery, verification
 
 </td>
 </tr>
@@ -110,36 +55,116 @@ Evaluation harnesses, agent runtimes, tool orchestration, state management, reco
 
 ---
 
-## 02 · Selected Work
+## 🧭 Academic Lens
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### 📈 Statistics
+
+Inference, uncertainty, experimental thinking, and models that respect what the data can actually support.
+
+</td>
+<td width="25%" valign="top">
+
+### 🧮 Applied Mathematics
+
+Optimization, structure, numerical reasoning, and the mathematical ideas behind learning systems.
+
+</td>
+<td width="25%" valign="top">
+
+### 🗂️ Data Science
+
+Data-centric workflows, experimentation, evaluation, and extracting useful signal from messy reality.
+
+</td>
+<td width="25%" valign="top">
+
+### 🤖 Artificial Intelligence
+
+Multimodal learning, search and recommendation, agents, post-training, and reliable AI systems.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Current Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<sub>01 / RESEARCH · MULTIMODAL</sub>
+### 🧠 Multimodal AI
 
-### [KAMEL](https://github.com/jiaweine/KAMEL)
+I am interested in models that learn from heterogeneous signals and reason across modalities rather than treating each input in isolation.
 
-KAN-Augmented Multimodal Expert Learning for heterogeneous and imbalanced tabular data.
+`representation learning` · `multimodal reasoning` · `fusion` · `multimodal agents`
 
-**Information Sciences, 2026** · **25 benchmark datasets**
+</td>
+<td width="50%" valign="top">
 
-<kbd>KAN</kbd> <kbd>Mixture of Experts</kbd> <kbd>PyTorch</kbd>
+### 🔎 Search, Ads & Recommendation
+
+I care about retrieval, ranking, relevance, recommendation quality, and evaluation systems that connect model improvements to real user experience.
+
+`retrieval` · `ranking` · `recommendation` · `evaluation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 Agent Post-Training
+
+I am exploring how trajectories, reward signals, preferences, evaluation, and iteration can systematically improve agent capability.
+
+`trajectory curation` · `reward signals` · `preference optimization` · `agent evaluation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Harness Engineering
+
+I like building the infrastructure around agents: runtimes, tools, state, checkpoints, verification, recovery, and repeatable evaluation.
+
+`agent runtimes` · `tool orchestration` · `recovery` · `verification`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 [KAMEL](https://github.com/jiaweine/KAMEL)
+
+**KAN-Augmented Multimodal Expert Learning** for heterogeneous and imbalanced tabular data.
+
+Published in **Information Sciences, 2026** and evaluated across **25 benchmark datasets**.
+
+`Multimodal Learning` · `KAN` · `Mixture of Experts` · `PyTorch`
 
 [Repository](https://github.com/jiaweine/KAMEL) · [Paper](https://doi.org/10.1016/j.ins.2026.123925)
 
 </td>
 <td width="50%" valign="top">
 
-<sub>02 / SEARCH · RECOMMENDATION</sub>
+### 🔎 [Recsys Harness](https://github.com/jiaweine/recsys-harness)
 
-### [Recsys Harness](https://github.com/jiaweine/recsys-harness)
+An autonomous workbench for **search and recommendation** diagnosis, experimentation, evaluation, execution, verification, and learning.
 
-An autonomous workbench for search and recommendation diagnosis, experimentation, evaluation, execution, and verification.
+Built around evidence, controlled changes, recovery, and repeatable evaluation.
 
-**Evidence-first** · **recoverable** · **repeatable evaluation**
-
-<kbd>Search</kbd> <kbd>Recommendation</kbd> <kbd>Harness Engineering</kbd>
+`Search` · `Recommendation` · `Agents` · `Harness Engineering`
 
 [Repository](https://github.com/jiaweine/recsys-harness)
 
@@ -148,30 +173,22 @@ An autonomous workbench for search and recommendation diagnosis, experimentation
 <tr>
 <td width="50%" valign="top">
 
-<sub>03 / MULTIMODAL · FULL-STACK</sub>
+### 🛒 [EcomEvo](https://github.com/jiaweine/EcomEvo-Harness)
 
-### [EcomEvo](https://github.com/jiaweine/EcomEvo-Harness)
+A multimodal AI workbench for **business decisions and task execution** with persistent context, visible evidence, human confirmation, and auditable outcomes.
 
-A multimodal AI workbench for business decisions and task execution with persistent context and auditable outcomes.
-
-**Human confirmation** · **visible evidence** · **task execution**
-
-<kbd>Multimodal AI</kbd> <kbd>Agents</kbd> <kbd>Full-Stack</kbd>
+`Multimodal AI` · `Agents` · `Tool Use` · `Full-Stack Engineering`
 
 [Repository](https://github.com/jiaweine/EcomEvo-Harness)
 
 </td>
 <td width="50%" valign="top">
 
-<sub>04 / AGENTS · VERIFICATION</sub>
+### 🎮 [Lingjing · 灵境](https://github.com/jiaweine/lingjing-game-studio)
 
-### [Lingjing · 灵境](https://github.com/jiaweine/lingjing-game-studio)
+A controllable and verifiable AI execution workbench for **game development**, designed for multimodal evidence, long-running tasks, recovery, and reliable delivery.
 
-A controllable and verifiable AI execution workbench for game development and long-running multimodal tasks.
-
-**Recovery** · **verification** · **reliable delivery**
-
-<kbd>AI Agents</kbd> <kbd>Multimodal</kbd> <kbd>Harness Engineering</kbd>
+`AI Agents` · `Multimodal` · `Verification` · `Harness Engineering`
 
 [Repository](https://github.com/jiaweine/lingjing-game-studio)
 
@@ -181,47 +198,41 @@ A controllable and verifiable AI execution workbench for game development and lo
 
 ---
 
-## 03 · Full-Stack Engineering
+## 🧰 Full-Stack Engineering
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-<sub>MODEL</sub>
-
-### Model & ML
+### 🧠 Model & ML
 
 **Python · PyTorch**
 
 Multimodal pipelines  
-Training · evaluation  
-Data & experiment tooling
+Training and evaluation  
+Data and experiment tooling
 
 </td>
 <td width="33%" valign="top">
 
-<sub>RUNTIME</sub>
-
-### Backend & Agent Systems
+### ⚙️ Backend & Agent Systems
 
 **FastAPI · APIs**
 
 Data systems  
 Agent runtimes  
-Tool orchestration · state
+Tool orchestration and state
 
 </td>
 <td width="33%" valign="top">
 
-<sub>DELIVERY</sub>
-
-### Frontend & Infra
+### 🖥️ Frontend & Infrastructure
 
 **React · TypeScript**
 
 Docker · Linux · Git  
-Testing · deployment  
-End-to-end product delivery
+Testing and deployment  
+End-to-end system delivery
 
 </td>
 </tr>
@@ -229,52 +240,15 @@ End-to-end product delivery
 
 ---
 
-## 04 · Engineering Principles
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<sub>SYSTEM / RELIABILITY</sub>
-
-### Build for the second run, not just the demo.
-
-**Testable · Traceable · Recoverable · Measurable · Useful**
-
-A good prototype proves an idea. A good system keeps working after the demo ends.
-
-</td>
-<td width="50%" valign="top">
-
-<sub>RESEARCH / ITERATION</sub>
-
-### Let failures become data.
-
-A regression is evidence. A failed trajectory is training material. A system bug can become the next research question.
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>How I think about agent systems</b></summary>
-<br/>
-
-I prefer agents that can **observe, decide, execute, verify, recover, and learn**. The harness matters as much as the model: evaluation, state, tools, checkpoints, evidence, and recovery determine whether an agent is useful beyond a demo.
-
-</details>
-
-<details>
-<summary><b>How I think about research engineering</b></summary>
-<br/>
-
-The most interesting work happens between a clean paper result and a messy real system. I like building the infrastructure that makes experiments repeatable, failures inspectable, and improvements measurable.
-
-</details>
-
-<br/>
+## ✨ Engineering Principles
 
 <div align="center">
+
+### Testable · Traceable · Recoverable · Measurable · Useful
+
+**Smart is not enough.** A good prototype proves an idea. A good system keeps working after the demo ends.
+
+<br/>
 
 ### Research deeply. Build carefully. Stay curious.
 
