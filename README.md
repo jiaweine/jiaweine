@@ -1,59 +1,73 @@
 <div align="center">
 
+<sub>JIAWEINE / PROFILE SYSTEM</sub>
+
 # Jiawei Wang
 
-**Algorithm Research · AI Systems · Full-Stack Engineering**
+### Algorithm Research · AI Systems · Full-Stack Engineering
 
-<sub>Multimodal AI · Search, Ads & Recommendation · Agent Post-Training · Harness Engineering</sub>
+*I train models, build agents, and engineer the harness around them.*
+
+<kbd>Multimodal AI</kbd>&nbsp;&nbsp;<kbd>Search, Ads & Recommendation</kbd>&nbsp;&nbsp;<kbd>Agent Post-Training</kbd>&nbsp;&nbsp;<kbd>Harness Engineering</kbd>
 
 </div>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/jiaweine/jiaweine@main/assets/hero-java.gif" width="100%" alt="Animated profile hero: Jiawei Wang coding with silver headphones" />
-</p>
-
-<p align="center">
-  <a href="#current-focus"><kbd>Current Focus</kbd></a>&nbsp;&nbsp;
-  <a href="#selected-work"><kbd>Selected Work</kbd></a>&nbsp;&nbsp;
-  <a href="#full-stack-engineering"><kbd>Full-Stack</kbd></a>&nbsp;&nbsp;
-  <a href="https://doi.org/10.1016/j.ins.2026.123925"><kbd>Paper</kbd></a>
-</p>
-
----
-
-## About
+<br/>
 
 <table>
 <tr>
-<td valign="top">
+<td width="62%" valign="top">
 
-<sub>PROFILE / 00</sub>
+<sub>NOW / BUILDING</sub>
 
-### Research ideas should survive contact with systems.
+### Research ideas that survive contact with systems.
 
-I work where **algorithm research, AI systems, and full-stack engineering** meet. I care about ideas that survive real data, repeated evaluation, long-running workflows, and production integration.
+I work where **algorithm research, AI systems, and full-stack engineering** meet. I care about ideas that hold up under real data, repeated evaluation, long-running workflows, and production integration.
 
 **My favorite kind of bug is the one that becomes a research question.**
+
+</td>
+<td width="38%" valign="top">
+
+<sub>CURRENT MODE</sub>
+
+### shipping · evaluating · iterating
+
+**Research**  
+Multimodal learning · ranking · agent training
+
+**Systems**  
+Runtime · tools · recovery · verification
+
+**Paper**  
+[Information Sciences 2026](https://doi.org/10.1016/j.ins.2026.123925)
 
 </td>
 </tr>
 </table>
 
+<p align="center">
+  <a href="#01--current-focus"><kbd>Current Focus</kbd></a>&nbsp;&nbsp;
+  <a href="#02--selected-work"><kbd>Selected Work</kbd></a>&nbsp;&nbsp;
+  <a href="#03--full-stack-engineering"><kbd>Full-Stack</kbd></a>&nbsp;&nbsp;
+  <a href="#04--engineering-principles"><kbd>Principles</kbd></a>
+</p>
+
 ---
 
-## Current Focus
+## 01 · Current Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<sub>01 / RESEARCH</sub>
+<sub>01 / MULTIMODAL</sub>
 
 ### Multimodal AI
 
 Representation learning, multimodal reasoning, heterogeneous data, fusion, and multimodal agents.
 
-`representation` `reasoning` `fusion`
+<kbd>representation</kbd> <kbd>reasoning</kbd> <kbd>fusion</kbd>
 
 </td>
 <td width="50%" valign="top">
@@ -64,7 +78,7 @@ Representation learning, multimodal reasoning, heterogeneous data, fusion, and m
 
 Retrieval, ranking, recommendation, relevance modeling, evaluation, and autonomous optimization.
 
-`retrieval` `ranking` `evaluation`
+<kbd>retrieval</kbd> <kbd>ranking</kbd> <kbd>evaluation</kbd>
 
 </td>
 </tr>
@@ -77,7 +91,7 @@ Retrieval, ranking, recommendation, relevance modeling, evaluation, and autonomo
 
 Trajectory curation, reward signals, preference optimization, agent evaluation, and capability iteration.
 
-`trajectories` `rewards` `evaluation`
+<kbd>trajectories</kbd> <kbd>rewards</kbd> <kbd>evaluation</kbd>
 
 </td>
 <td width="50%" valign="top">
@@ -88,7 +102,7 @@ Trajectory curation, reward signals, preference optimization, agent evaluation, 
 
 Evaluation harnesses, agent runtimes, tool orchestration, state management, recovery, and verification.
 
-`runtime` `tools` `recovery`
+<kbd>runtime</kbd> <kbd>tools</kbd> <kbd>recovery</kbd>
 
 </td>
 </tr>
@@ -96,7 +110,7 @@ Evaluation harnesses, agent runtimes, tool orchestration, state management, reco
 
 ---
 
-## Selected Work
+## 02 · Selected Work
 
 <table>
 <tr>
@@ -110,7 +124,7 @@ KAN-Augmented Multimodal Expert Learning for heterogeneous and imbalanced tabula
 
 **Information Sciences, 2026** · **25 benchmark datasets**
 
-`KAN` `Mixture of Experts` `PyTorch`
+<kbd>KAN</kbd> <kbd>Mixture of Experts</kbd> <kbd>PyTorch</kbd>
 
 [Repository](https://github.com/jiaweine/KAMEL) · [Paper](https://doi.org/10.1016/j.ins.2026.123925)
 
@@ -125,7 +139,7 @@ An autonomous workbench for search and recommendation diagnosis, experimentation
 
 **Evidence-first** · **recoverable** · **repeatable evaluation**
 
-`Search` `Recommendation` `Harness Engineering`
+<kbd>Search</kbd> <kbd>Recommendation</kbd> <kbd>Harness Engineering</kbd>
 
 [Repository](https://github.com/jiaweine/recsys-harness)
 
@@ -142,7 +156,7 @@ A multimodal AI workbench for business decisions and task execution with persist
 
 **Human confirmation** · **visible evidence** · **task execution**
 
-`Multimodal AI` `Agents` `Full-Stack`
+<kbd>Multimodal AI</kbd> <kbd>Agents</kbd> <kbd>Full-Stack</kbd>
 
 [Repository](https://github.com/jiaweine/EcomEvo-Harness)
 
@@ -157,7 +171,7 @@ A controllable and verifiable AI execution workbench for game development and lo
 
 **Recovery** · **verification** · **reliable delivery**
 
-`AI Agents` `Multimodal` `Harness Engineering`
+<kbd>AI Agents</kbd> <kbd>Multimodal</kbd> <kbd>Harness Engineering</kbd>
 
 [Repository](https://github.com/jiaweine/lingjing-game-studio)
 
@@ -167,7 +181,7 @@ A controllable and verifiable AI execution workbench for game development and lo
 
 ---
 
-## Full-Stack Engineering
+## 03 · Full-Stack Engineering
 
 <table>
 <tr>
@@ -177,9 +191,11 @@ A controllable and verifiable AI execution workbench for game development and lo
 
 ### Model & ML
 
-Python · PyTorch  
+**Python · PyTorch**
+
 Multimodal pipelines  
-Training · evaluation
+Training · evaluation  
+Data & experiment tooling
 
 </td>
 <td width="33%" valign="top">
@@ -188,9 +204,11 @@ Training · evaluation
 
 ### Backend & Agent Systems
 
-FastAPI · APIs  
+**FastAPI · APIs**
+
 Data systems  
-Agent runtimes · tooling
+Agent runtimes  
+Tool orchestration · state
 
 </td>
 <td width="33%" valign="top">
@@ -199,9 +217,11 @@ Agent runtimes · tooling
 
 ### Frontend & Infra
 
-React · TypeScript  
+**React · TypeScript**
+
 Docker · Linux · Git  
-Testing · deployment
+Testing · deployment  
+End-to-end product delivery
 
 </td>
 </tr>
@@ -209,11 +229,11 @@ Testing · deployment
 
 ---
 
-## Engineering Principles
+## 04 · Engineering Principles
 
 <table>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 <sub>SYSTEM / RELIABILITY</sub>
 
@@ -224,12 +244,40 @@ Testing · deployment
 A good prototype proves an idea. A good system keeps working after the demo ends.
 
 </td>
+<td width="50%" valign="top">
+
+<sub>RESEARCH / ITERATION</sub>
+
+### Let failures become data.
+
+A regression is evidence. A failed trajectory is training material. A system bug can become the next research question.
+
+</td>
 </tr>
 </table>
 
-<p align="center">
-  <br/>
-  <b>Research deeply. Build carefully. Stay curious.</b><br/>
-  <sub>Profile UI generated with Java 21 · animated GIF · no browser runtime dependency</sub><br/>
-  <sub><a href="./tools/ProfileUiGenerator.java">View the Java UI generator</a></sub>
-</p>
+<details>
+<summary><b>How I think about agent systems</b></summary>
+<br/>
+
+I prefer agents that can **observe, decide, execute, verify, recover, and learn**. The harness matters as much as the model: evaluation, state, tools, checkpoints, evidence, and recovery determine whether an agent is useful beyond a demo.
+
+</details>
+
+<details>
+<summary><b>How I think about research engineering</b></summary>
+<br/>
+
+The most interesting work happens between a clean paper result and a messy real system. I like building the infrastructure that makes experiments repeatable, failures inspectable, and improvements measurable.
+
+</details>
+
+<br/>
+
+<div align="center">
+
+### Research deeply. Build carefully. Stay curious.
+
+<sub>Algorithms that survive production are more interesting than algorithms that only survive a notebook.</sub>
+
+</div>
