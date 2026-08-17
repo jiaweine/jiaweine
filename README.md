@@ -4,11 +4,11 @@
 
 **Algorithm Research · AI Systems · Full-Stack Engineering**
 
+*Researcher when the loss converges. Engineer when it doesn't.*
+
 <sub>Multimodal AI · Search, Ads & Recommendation · Agent Post-Training · Harness Engineering</sub>
 
 <br/>
-
-*Researcher when the loss converges. Engineer when it doesn't.*
 
 I build algorithms, train agents, and engineer reliable systems around them.
 
@@ -31,26 +31,50 @@ I care about model capability and training, but also about **evaluation, runtime
 <table>
 <tr>
 <td width="50%" valign="top">
-<sub>01 · RESEARCH</sub><br/><br/>
-<strong>Multimodal AI</strong><br/><br/>
+
+<sub>01 · MULTIMODAL AI</sub>
+
+### Multimodal AI
+
 Representation learning, multimodal reasoning, heterogeneous data, fusion, and multimodal agents.
+
+<sub>representation · reasoning · fusion</sub>
+
 </td>
 <td width="50%" valign="top">
-<sub>02 · SEARCH SYSTEMS</sub><br/><br/>
-<strong>Search, Ads & Recommendation</strong><br/><br/>
+
+<sub>02 · SEARCH SYSTEMS</sub>
+
+### Search, Ads & Recommendation
+
 Retrieval, ranking, recommendation, relevance modeling, evaluation, and autonomous optimization.
+
+<sub>retrieval · ranking · evaluation</sub>
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<sub>03 · TRAINING</sub><br/><br/>
-<strong>Agent Post-Training</strong><br/><br/>
-Trajectory curation, reward signals, preference optimization, agent evaluation, and iterative capability improvement.
+
+<sub>03 · AGENT TRAINING</sub>
+
+### Agent Post-Training
+
+Trajectory curation, reward signals, preference optimization, agent evaluation, and capability iteration.
+
+<sub>trajectories · rewards · evaluation</sub>
+
 </td>
 <td width="50%" valign="top">
-<sub>04 · SYSTEMS</sub><br/><br/>
-<strong>Harness Engineering</strong><br/><br/>
+
+<sub>04 · AGENT SYSTEMS</sub>
+
+### Harness Engineering
+
 Evaluation harnesses, agent runtimes, tool orchestration, state management, recovery, and verification.
+
+<sub>runtime · tools · recovery</sub>
+
 </td>
 </tr>
 </table>
@@ -60,43 +84,70 @@ Evaluation harnesses, agent runtimes, tool orchestration, state management, reco
 ## Selected Work
 
 <table>
-<tr><td valign="top">
-<sub>RESEARCH · MULTIMODAL LEARNING</sub><br/><br/>
-<strong><a href="https://github.com/jiaweine/KAMEL">KAMEL</a></strong><br/><br/>
-KAN-Augmented Multimodal Expert Learning for heterogeneous and imbalanced tabular data. Published in <strong>Information Sciences, 2026</strong> and evaluated across <strong>25 benchmark datasets</strong>.<br/><br/>
-<sub>Multimodal Learning · KAN · Mixture of Experts · PyTorch</sub><br/><br/>
-<a href="https://github.com/jiaweine/KAMEL">Repository</a> · <a href="https://doi.org/10.1016/j.ins.2026.123925">Paper</a>
-</td></tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
-<table>
-<tr><td valign="top">
-<sub>SEARCH · RECOMMENDATION · AGENTS</sub><br/><br/>
-<strong><a href="https://github.com/jiaweine/recsys-harness">Recsys Harness</a></strong><br/><br/>
-An autonomous workbench for <strong>search and recommendation</strong> diagnosis, experimentation, evaluation, execution, verification, and learning. Built around evidence, controlled changes, recovery, and repeatable evaluation.<br/><br/>
-<sub>Search · Recommendation · Agents · Harness Engineering</sub><br/><br/>
-<a href="https://github.com/jiaweine/recsys-harness">Repository</a>
-</td></tr>
-</table>
+<sub>RESEARCH · MULTIMODAL LEARNING</sub>
 
-<table>
-<tr><td valign="top">
-<sub>MULTIMODAL AI · FULL-STACK SYSTEMS</sub><br/><br/>
-<strong><a href="https://github.com/jiaweine/EcomEvo-Harness">EcomEvo</a></strong><br/><br/>
-A multimodal AI workbench for <strong>business decisions and task execution</strong> with persistent context, visible evidence, human confirmation, and auditable outcomes.<br/><br/>
-<sub>Multimodal AI · Agents · Tool Use · Full-Stack Engineering</sub><br/><br/>
-<a href="https://github.com/jiaweine/EcomEvo-Harness">Repository</a>
-</td></tr>
-</table>
+### [KAMEL](https://github.com/jiaweine/KAMEL)
 
-<table>
-<tr><td valign="top">
-<sub>AGENTS · VERIFICATION · RUNTIME</sub><br/><br/>
-<strong><a href="https://github.com/jiaweine/lingjing-game-studio">Lingjing · 灵境</a></strong><br/><br/>
-A controllable and verifiable AI execution workbench for <strong>game development</strong>, designed for multimodal evidence, long-running tasks, recovery, and reliable delivery.<br/><br/>
-<sub>AI Agents · Multimodal · Verification · Harness Engineering</sub><br/><br/>
-<a href="https://github.com/jiaweine/lingjing-game-studio">Repository</a>
-</td></tr>
+KAN-Augmented Multimodal Expert Learning for heterogeneous and imbalanced tabular data.
+
+Published in **Information Sciences, 2026** and evaluated across **25 benchmark datasets**.
+
+<sub>KAN · Mixture of Experts · PyTorch</sub>
+
+[Repository](https://github.com/jiaweine/KAMEL) · [Paper](https://doi.org/10.1016/j.ins.2026.123925)
+
+</td>
+<td width="50%" valign="top">
+
+<sub>SEARCH · RECOMMENDATION · AGENTS</sub>
+
+### [Recsys Harness](https://github.com/jiaweine/recsys-harness)
+
+An autonomous workbench for search and recommendation diagnosis, experimentation, evaluation, and execution.
+
+Built around evidence, controlled changes, recovery, and repeatable evaluation.
+
+<sub>Search · Recommendation · Harness Engineering</sub>
+
+[Repository](https://github.com/jiaweine/recsys-harness)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sub>MULTIMODAL AI · FULL-STACK SYSTEMS</sub>
+
+### [EcomEvo](https://github.com/jiaweine/EcomEvo-Harness)
+
+A multimodal AI workbench for business decisions and task execution.
+
+Persistent context, visible evidence, human confirmation, and auditable outcomes.
+
+<sub>Multimodal AI · Agents · Full-Stack Engineering</sub>
+
+[Repository](https://github.com/jiaweine/EcomEvo-Harness)
+
+</td>
+<td width="50%" valign="top">
+
+<sub>AGENTS · VERIFICATION · RUNTIME</sub>
+
+### [Lingjing · 灵境](https://github.com/jiaweine/lingjing-game-studio)
+
+A controllable and verifiable AI execution workbench for game development.
+
+Designed for multimodal evidence, long-running tasks, recovery, and reliable delivery.
+
+<sub>AI Agents · Multimodal · Harness Engineering</sub>
+
+[Repository](https://github.com/jiaweine/lingjing-game-studio)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -104,23 +155,58 @@ A controllable and verifiable AI execution workbench for <strong>game developmen
 ## Full-Stack Engineering
 
 <table>
-<tr><td valign="top">
-<strong>Model & ML</strong><br/>
-Python · PyTorch · multimodal pipelines · training · evaluation<br/><br/>
-<strong>Backend & Runtime</strong><br/>
-FastAPI · APIs · data systems · agent runtimes · tooling<br/><br/>
-<strong>Frontend & Infrastructure</strong><br/>
-React · TypeScript · Docker · Linux · Git · testing · deployment
-</td></tr>
+<tr>
+<td width="33%" valign="top">
+
+<sub>MODEL</sub>
+
+### Model & ML
+
+Python · PyTorch  
+Multimodal pipelines  
+Training · evaluation
+
+</td>
+<td width="33%" valign="top">
+
+<sub>SYSTEM</sub>
+
+### Backend & Runtime
+
+FastAPI · APIs  
+Data systems  
+Agent runtimes · tooling
+
+</td>
+<td width="33%" valign="top">
+
+<sub>DELIVERY</sub>
+
+### Frontend & Infra
+
+React · TypeScript  
+Docker · Linux · Git  
+Testing · deployment
+
+</td>
+</tr>
 </table>
 
 ---
 
 ## Engineering Principles
 
+<table>
+<tr>
+<td valign="top">
+
 **Testable · Traceable · Recoverable · Measurable · Useful**
 
-Smart is not enough. A good prototype proves an idea; a good system keeps working after the demo ends.
+Smart is not enough. A good prototype proves an idea. A good system keeps working after the demo ends.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
