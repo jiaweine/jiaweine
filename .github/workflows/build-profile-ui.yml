@@ -28,6 +28,23 @@ jobs:
           javac tools/ProfileUiGenerator.java
           java -Djava.awt.headless=true -cp tools ProfileUiGenerator
 
+      - name: Validate animated GIF
+        run: |
+          file assets/hero-java.gif
+          jshell <<'EOF'
+          import javax.imageio.*;
+          import java.io.*;
+          var input = ImageIO.createImageInputStream(new File("assets/hero-java.gif"));
+          var reader = ImageIO.getImageReaders(input).next();
+          reader.setInput(input);
+          var frames = reader.getNumImages(true);
+          var w = reader.getWidth(0);
+          var h = reader.getHeight(0);
+          System.out.println("validated GIF: " + frames + " frames, " + w + "x" + h);
+          if (frames < 2 || w < 800 || h < 300) throw new RuntimeException("Invalid profile GIF");
+          /exit
+          EOF
+
       - name: Commit generated assets
         run: |
           git config user.name 'github-actions[bot]'
