@@ -6,10 +6,6 @@
 
 *Researcher when the loss converges. Engineer when it doesn't.*
 
-<sub>Multimodal AI · Search, Ads & Recommendation · Agent Post-Training · Harness Engineering</sub>
-
-<br/>
-
 I build algorithms, train agents, and engineer reliable systems around them.
 
 [GitHub](https://github.com/jiaweine) · [Information Sciences 2026](https://doi.org/10.1016/j.ins.2026.123925)
@@ -20,9 +16,7 @@ I build algorithms, train agents, and engineer reliable systems around them.
 
 ## About
 
-My work sits at the intersection of **algorithm research, AI systems, and full-stack engineering**. I am interested in ideas that can leave the notebook, survive real data, and become systems people can actually use.
-
-I care about model capability and training, but also about **evaluation, runtime behavior, tooling, interfaces, state, recovery, and deployment**. The model matters; the surrounding system decides whether it becomes dependable.
+My work sits at the intersection of **algorithm research, AI systems, and full-stack engineering**. I care about research ideas that can survive real data, repeated evaluation, long-running workflows, and production integration.
 
 > **My favorite kind of bug is the one that becomes a research question.**
 
@@ -169,7 +163,7 @@ Training · evaluation
 </td>
 <td width="33%" valign="top">
 
-<sub>SYSTEM</sub>
+<sub>RUNTIME</sub>
 
 ### Backend & Runtime
 
@@ -200,9 +194,11 @@ Testing · deployment
 <tr>
 <td valign="top">
 
+### Build for the second run, not just the demo.
+
 **Testable · Traceable · Recoverable · Measurable · Useful**
 
-Smart is not enough. A good prototype proves an idea. A good system keeps working after the demo ends.
+A good prototype proves an idea. A good system keeps working after the demo ends.
 
 </td>
 </tr>
