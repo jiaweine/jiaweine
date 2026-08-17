@@ -1,83 +1,32 @@
-import java.io.IOException;
+import javax.imageio.*;
+import javax.imageio.metadata.*;
+import javax.imageio.stream.*;
+import java.awt.*;
+import java.awt.geom.*;
+import java.awt.image.*;
+import java.io.*;
 import java.nio.file.*;
-import static java.nio.charset.StandardCharsets.UTF_8;
+import java.util.*;
+import org.w3c.dom.Node;
 
-/** Java 21 generator for the animated GitHub profile hero. */
+/** Java 21, dependency-free renderer for the animated GitHub profile UI. */
 public final class ProfileUiGenerator {
-  private static final Path OUT = Path.of("assets/hero-java.svg");
-  private static final String FONT = "Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif";
-  public static void main(String[] args) throws IOException {
-    Files.createDirectories(OUT.getParent());
-    Files.writeString(OUT, hero(), UTF_8);
-    System.out.println("generated " + OUT);
-  }
-  private static String hero() {
-    var s = new StringBuilder();
-    s.append("""
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img">
-<defs>
- <linearGradient id="bg"><stop stop-color="#FBF7F0"/><stop offset="1" stop-color="#F3EBDD"/></linearGradient>
- <linearGradient id="skin" x2="1" y2="1"><stop stop-color="#F2C9A8"/><stop offset=".55" stop-color="#E7B38F"/><stop offset="1" stop-color="#CB8F70"/></linearGradient>
- <linearGradient id="shirt" x2="1" y2="1"><stop stop-color="#313238"/><stop offset="1" stop-color="#17181C"/></linearGradient>
- <linearGradient id="metal"><stop stop-color="#858B94"/><stop offset=".3" stop-color="#F4F5F6"/><stop offset=".65" stop-color="#A7ACB5"/><stop offset="1" stop-color="#747983"/></linearGradient>
-</defs>
-<rect x="18" y="24" width="1164" height="428" rx="34" fill="#BFAF9D" opacity=".14"/>
-<rect x="14" y="14" width="1172" height="430" rx="34" fill="url(#bg)" stroke="#E4D9CB"/>
-<circle cx="1090" cy="86" r="94" fill="#D56A4A" opacity=".075"/><circle cx="976" cy="388" r="132" fill="#8EA99B" opacity=".055"/>
-""");
-    text(s,62,79,11,"#6B625A","700","RESEARCH · SYSTEMS · BUILD");
-    s.append("<circle cx=\"48\" cy=\"74\" r=\"4\" fill=\"#D56A4A\"/>");
-    text(s,62,152,59,"#23211F","780","JIAWEI WANG");
-    text(s,64,190,19,"#5A5550","640","Algorithm Research · AI Systems · Full-Stack Engineering");
-    text(s,64,239,24,"#302D2A","700","I train models, build agents,");
-    text(s,64,271,24,"#302D2A","700","and engineer the harness around them.");
-    text(s,64,314,14.5,"#797169","520","Multimodal AI · Search, Ads &amp; Recommendation · Agent Post-Training · Harness Engineering");
-    pill(s,62,344,148,"#252321","#FBF8F3","View selected work");
-    pill(s,222,344,190,"#F7F0E6","#615A53","Information Sciences 2026");
-    text(s,64,421,11.5,"#9B9289","560","Researcher when the loss converges. Engineer when it doesn't.");
-    s.append("<g transform=\"translate(735 46)\">");
-    s.append("<ellipse cx=\"224\" cy=\"365\" rx=\"186\" ry=\"33\" fill=\"#655649\" opacity=\".14\"/>");
-    monitor(s); person(s); desk(s); annotations(s);
-    s.append("</g></svg>");
-    return s.toString();
-  }
-  private static void monitor(StringBuilder s){
-    s.append("""
-<g transform="translate(236 55)"><rect width="195" height="138" rx="18" fill="#E9DED0" stroke="#CFC2B4"/><rect x="10" y="10" width="175" height="112" rx="12" fill="#1C201E"/>
-<rect x="29" y="31" width="80" height="6" rx="3" fill="#D56A4A"><animate attributeName="width" values="54;93;67;80" dur="3.4s" repeatCount="indefinite"/></rect>
-<rect x="29" y="49" width="118" height="5" rx="3" fill="#A7B7A9"><animate attributeName="opacity" values=".4;.9;.55;.75" dur="2.7s" repeatCount="indefinite"/></rect>
-<rect x="29" y="67" width="92" height="5" rx="3" fill="#D9D0C3" opacity=".6"/><rect x="29" y="84" width="126" height="5" rx="3" fill="#BEB2A4" opacity=".5"/>
-<path d="M86 138 L114 138 L126 190 L74 190 Z" fill="#BEB3A8"/><rect x="58" y="188" width="84" height="10" rx="5" fill="#D8CEC3"/></g>
-""");
-  }
-  private static void person(StringBuilder s){
-    s.append("""
-<rect x="93" y="172" width="151" height="156" rx="62" fill="#C8B9A8"/><rect x="112" y="188" width="114" height="126" rx="50" fill="#BCAA97"/>
-<g><animateTransform attributeName="transform" type="translate" values="0 0;0 2;0 0" dur="3.8s" repeatCount="indefinite"/>
-<path d="M108 210 C121 183 147 169 183 170 C222 171 247 193 258 226 L271 322 C239 343 128 344 91 322 Z" fill="url(#shirt)"/>
-<path d="M163 170 L164 196 C177 206 197 206 208 195 L207 166 Z" fill="url(#skin)"/>
-<g><animateTransform attributeName="transform" type="rotate" values="0 185 120;1.1 185 120;0 185 120;-0.6 185 120;0 185 120" dur="5.8s" repeatCount="indefinite"/>
-<path d="M132 88 C137 50 163 31 193 32 C228 33 252 57 252 93 L246 135 C241 162 220 179 188 181 C155 181 134 161 129 135 Z" fill="url(#skin)"/>
-<path d="M132 93 C130 55 154 28 188 27 C199 27 208 29 217 33 C201 38 191 49 184 64 C175 49 159 41 143 43 C132 56 127 73 132 93 Z" fill="#202124"/>
-<path d="M184 64 C193 46 211 36 228 42 C246 56 254 76 251 98 C242 88 235 75 230 61 C211 59 198 63 184 73 Z" fill="#151618"/>
-<path d="M150 102 L174 96 M204 96 L229 102" stroke="#34302D" stroke-width="5" stroke-linecap="round"/>
-<path d="M150 113 C158 110 168 110 176 113" fill="none" stroke="#332F2C" stroke-width="2.4"><animate attributeName="d" values="M150 113 C158 110 168 110 176 113;M150 113 C158 113 168 113 176 113;M150 113 C158 110 168 110 176 113" dur="4.7s" repeatCount="indefinite"/></path>
-<path d="M202 113 C210 110 220 110 228 113" fill="none" stroke="#332F2C" stroke-width="2.4"><animate attributeName="d" values="M202 113 C210 110 220 110 228 113;M202 113 C210 113 220 113 228 113;M202 113 C210 110 220 110 228 113" dur="4.7s" repeatCount="indefinite"/></path>
-<path d="M189 116 L185 135 L193 137" fill="none" stroke="#B8795E" stroke-width="2"/><path d="M174 149 C184 154 197 154 207 148" fill="none" stroke="#8F5F52" stroke-width="2"/>
-</g>
-<path d="M145 184 C149 219 218 225 229 183" fill="none" stroke="url(#metal)" stroke-width="9" stroke-linecap="round"/><rect x="137" y="183" width="17" height="34" rx="8" fill="url(#metal)"/><rect x="222" y="183" width="17" height="34" rx="8" fill="url(#metal)"/>
-<g><animateTransform attributeName="transform" type="rotate" values="0 124 245;2.5 124 245;0 124 245;-1.5 124 245;0 124 245" dur=".82s" repeatCount="indefinite"/><path d="M121 242 C110 273 111 294 131 312" fill="none" stroke="#232429" stroke-width="26" stroke-linecap="round"/><path d="M130 309 C145 315 155 319 169 320" fill="none" stroke="url(#skin)" stroke-width="15" stroke-linecap="round"/></g>
-<g><animateTransform attributeName="transform" type="rotate" values="0 246 244;-2.3 246 244;0 246 244;1.2 246 244;0 246 244" dur=".76s" repeatCount="indefinite"/><path d="M244 241 C262 271 260 293 243 309" fill="none" stroke="#232429" stroke-width="26" stroke-linecap="round"/><path d="M244 308 C227 316 216 319 201 320" fill="none" stroke="url(#skin)" stroke-width="15" stroke-linecap="round"/></g></g>
-""");
-  }
-  private static void desk(StringBuilder s){s.append("<path d=\"M24 327 L410 327 L445 374 L-6 374 Z\" fill=\"#A78F79\"/><path d=\"M127 320 L268 320 L293 340 L111 340 Z\" fill=\"#6C6A67\"/><circle cx=\"330\" cy=\"338\" r=\"23\" fill=\"#E9DFD4\"/>");}
-  private static void annotations(StringBuilder s){
-    s.append("<g font-family=\"").append(FONT).append("\"><g transform=\"translate(4 40)\"><rect width=\"100\" height=\"46\" rx=\"14\" fill=\"#FFF\" opacity=\".85\" stroke=\"#E1D6C9\"/>");
-    text(s,18,19,9,"#9B9086","700","MODE"); text(s,18,35,12,"#393532","700","shipping");
-    s.append("</g><g transform=\"translate(329 229)\"><rect width=\"111\" height=\"51\" rx=\"14\" fill=\"#FFF\" opacity=\".85\" stroke=\"#E1D6C9\"/><circle cx=\"18\" cy=\"18\" r=\"5\" fill=\"#8EA99B\"><animate attributeName=\"opacity\" values=\".35;1;.35\" dur=\"1.8s\" repeatCount=\"indefinite\"/></circle>");
-    text(s,31,21,9.5,"#6D655E","700","HARNESS"); text(s,15,39,12,"#34302D","700","verified"); s.append("</g></g>");
-  }
-  private static void pill(StringBuilder s,double x,double y,double w,String fill,String fg,String label){s.append("<rect x=\"").append(x).append("\" y=\"").append(y).append("\" width=\"").append(w).append("\" height=\"36\" rx=\"18\" fill=\"").append(fill).append("\" stroke=\"#DCCFC1\"/>");text(s,x+w/2,y+23,12.5,fg,"700",label,"middle");}
-  private static void text(StringBuilder s,double x,double y,double size,String fill,String weight,String value){text(s,x,y,size,fill,weight,value,"start");}
-  private static void text(StringBuilder s,double x,double y,double size,String fill,String weight,String value,String anchor){s.append("<text x=\"").append(x).append("\" y=\"").append(y).append("\" fill=\"").append(fill).append("\" font-family=\"").append(FONT).append("\" font-size=\"").append(size).append("\" font-weight=\"").append(weight).append("\" text-anchor=\"").append(anchor).append("\">").append(value).append("</text>");}
+  static final int W=960,H=420,N=18,D=8;
+  static final Color PAPER=c("#F7F1E8"),SURF=c("#FCF9F4"),INK=c("#242321"),MUTED=c("#746D65"),LINE=c("#DED4C7"),ORANGE=c("#C96F52"),SAGE=c("#809789"),SKIN=c("#E9B58F"),SKIN2=c("#C98666"),HAIR=c("#202123"),SHIRT=c("#25262A"),SCREEN=c("#242926");
+  public static void main(String[] a)throws Exception{Path p=Path.of("assets");Files.createDirectories(p);gif(p.resolve("hero-java.gif"));Files.writeString(p.resolve("section-rule.svg"),"<svg xmlns='http://www.w3.org/2000/svg' width='920' height='26' viewBox='0 0 920 26'><line x1='0' y1='13' x2='920' y2='13' stroke='#DDD4C8'/><line x1='0' y1='13' x2='110' y2='13' stroke='#C96F52' stroke-width='3'/><circle cx='126' cy='13' r='4' fill='#809789'/></svg>");}
+  static void gif(Path out)throws Exception{try(ImageOutputStream o=new FileImageOutputStream(out.toFile());Gif w=new Gif(o,D)){for(int i=0;i<N;i++)w.add(frame(i));}}
+  static BufferedImage frame(int f){double t=f*Math.PI*2/N;BufferedImage im=new BufferedImage(W,H,BufferedImage.TYPE_INT_RGB);Graphics2D g=im.createGraphics();aa(g);bg(g);copy(g,t);scene(g,t,f);g.dispose();return im;}
+  static void bg(Graphics2D g){g.setColor(PAPER);g.fillRect(0,0,W,H);g.setColor(new Color(71,56,42,18));rr(g,18,18,924,386,28,true);g.setColor(SURF);rr(g,14,12,932,390,28,true);g.setColor(LINE);rr(g,14,12,932,390,28,false);g.setColor(new Color(201,111,82,22));g.fillOval(793,32,150,150);g.setColor(new Color(128,151,137,17));g.fillOval(689,290,180,180);g.setColor(LINE);g.drawLine(52,328,520,328);g.setColor(ORANGE);g.fillRect(52,327,78,3);}
+  static void copy(Graphics2D g,double t){g.setColor(c("#EFE5D9"));rr(g,52,48,202,30,15,true);g.setColor(c("#D9CCBD"));rr(g,52,48,202,30,15,false);g.setColor(ORANGE);g.fillOval(67,60,7,7);tx(g,"RESEARCH · SYSTEMS · BUILD",82,67,11,Font.BOLD,c("#655E57"));tx(g,"JIAWEI",52,145,55,Font.BOLD,INK);tx(g,"WANG",52,197,55,Font.BOLD,INK);tx(g,"Algorithm Research · AI Systems · Full-Stack Engineering",54,231,16,Font.BOLD,c("#57514C"));tx(g,"I train models, build agents,",54,275,21,Font.BOLD,c("#322F2C"));tx(g,"and engineer the harness around them.",54,303,21,Font.BOLD,c("#322F2C"));chip(g,52,350,91,"MULTIMODAL");chip(g,153,350,132,"SEARCH · ADS · REC");chip(g,296,350,142,"AGENT POST-TRAINING");chip(g,448,350,74,"HARNESS");int a=110+(int)(70*(Math.sin(t)+1)/2);g.setColor(new Color(128,151,137,a));g.fillOval(54,386,7,7);tx(g,"shipping · evaluating · iterating",69,393,11,Font.PLAIN,MUTED);}
+  static void chip(Graphics2D g,int x,int y,int w,String s){g.setColor(c("#F5EEE5"));rr(g,x,y,w,24,12,true);g.setColor(c("#E0D5C8"));rr(g,x,y,w,24,12,false);tx(g,s,x+10,y+16,9,Font.BOLD,c("#6A625B"));}
+  static void scene(Graphics2D g,double t,int f){Graphics2D q=(Graphics2D)g.create();q.translate(595,34+Math.sin(t)*1.8);q.setColor(new Color(45,39,34,20));q.fillOval(25,327,296,34);q.setColor(c("#E7DDD2"));rr(q,226,50,170,130,16,true);q.setColor(c("#CABCAF"));rr(q,226,50,170,130,16,false);q.setColor(SCREEN);rr(q,237,61,148,101,10,true);code(q,f);q.setColor(c("#B9ADA1"));poly(q,new int[]{295,326,336,285},new int[]{180,180,226,226});q.setColor(c("#D4CAC0"));rr(q,270,223,82,9,5,true);q.setColor(c("#C8B7A6"));rr(q,74,178,138,148,56,true);q.setColor(SHIRT);rr(q,91,190,111,128,48,true);q.setPaint(new GradientPaint(138,160,SKIN,174,194,SKIN2));rr(q,138,148,42,54,18,true);q.setPaint(new GradientPaint(119,60,c("#F1C39D"),210,153,SKIN2));rr(q,108,51,107,129,48,true);q.setColor(new Color(201,111,82,18));q.fillOval(121,126,24,10);q.fillOval(180,126,24,10);hair(q);face(q,f);headphones(q,t);arm(q,107,222,90,298,Math.sin(t*4)*5,true);arm(q,190,222,209,298,Math.sin(t*4+Math.PI)*5,false);q.setColor(c("#A98E77"));poly(q,new int[]{0,353,382,-18},new int[]{307,307,356,356});q.setColor(c("#BDA28A"));poly(q,new int[]{0,353,344,-8},new int[]{307,307,321,321});q.setColor(c("#62615E"));poly(q,new int[]{92,222,246,76},new int[]{299,299,322,322});keys(q,f);q.setColor(c("#EEE4D9"));q.fillOval(276,315,43,43);status(q,12,38,"MODE","shipping",ORANGE,f);status(q,292,244,"HARNESS","verified",SAGE,f+5);q.dispose();}
+  static void hair(Graphics2D g){Path2D l=new Path2D.Double();l.moveTo(108,91);l.curveTo(107,58,127,34,158,32);l.curveTo(149,40,143,51,139,65);l.curveTo(129,53,118,50,110,58);l.closePath();g.setColor(HAIR);g.fill(l);Path2D r=new Path2D.Double();r.moveTo(160,33);r.curveTo(188,30,213,48,217,78);r.curveTo(217,87,215,94,213,101);r.curveTo(204,90,198,73,195,59);r.curveTo(181,56,170,60,158,70);r.closePath();g.setColor(c("#17181A"));g.fill(r);g.setColor(new Color(255,255,255,35));g.setStroke(new BasicStroke(2));g.draw(new QuadCurve2D.Double(126,47,141,40,153,39));g.draw(new QuadCurve2D.Double(169,40,188,41,202,52));}
+  static void face(Graphics2D g,int f){boolean b=f==6||f==7||f==14;g.setColor(c("#3A332F"));g.setStroke(new BasicStroke(5,BasicStroke.CAP_ROUND,BasicStroke.JOIN_ROUND));g.drawLine(126,95,148,89);g.drawLine(176,89,199,95);g.setColor(c("#2D2926"));g.setStroke(new BasicStroke(b?2.7f:2.2f,BasicStroke.CAP_ROUND,BasicStroke.JOIN_ROUND));double e=b?0:2.5;g.draw(new QuadCurve2D.Double(126,108,137,105+e,149,108));g.draw(new QuadCurve2D.Double(176,108,188,105+e,200,108));g.setColor(c("#AE735B"));g.setStroke(new BasicStroke(1.8f));Path2D n=new Path2D.Double();n.moveTo(162,110);n.lineTo(158,130);n.lineTo(166,132);g.draw(n);g.setColor(c("#8E5C50"));g.draw(new QuadCurve2D.Double(148,146,163,152,179,145));}
+  static void headphones(Graphics2D g,double t){g.setStroke(new BasicStroke(8,BasicStroke.CAP_ROUND,BasicStroke.JOIN_ROUND));g.setPaint(new GradientPaint(122,177,c("#8B9199"),204,191,c("#F5F6F7")));g.draw(new Arc2D.Double(116,157,102,72,18,144,Arc2D.OPEN));rr(g,113,177,17,32,8,true);rr(g,202,176,17,32,8,true);g.setColor(new Color(255,255,255,60+(int)(120*(Math.sin(t*1.4)+1)/2)));g.setStroke(new BasicStroke(1.6f));g.draw(new Arc2D.Double(130,170,74,48,15,80,Arc2D.OPEN));}
+  static void arm(Graphics2D g,double sx,double sy,double hx,double hy,double d,boolean left){AffineTransform o=g.getTransform();g.rotate(Math.toRadians(d),sx,sy);g.setStroke(new BasicStroke(23,BasicStroke.CAP_ROUND,BasicStroke.JOIN_ROUND));g.setColor(SHIRT);g.draw(new QuadCurve2D.Double(sx,sy,(sx+hx)/2+(left?-8:8),(sy+hy)/2,hx,hy));g.setStroke(new BasicStroke(13,BasicStroke.CAP_ROUND,BasicStroke.JOIN_ROUND));g.setPaint(new GradientPaint((float)hx,(float)hy,SKIN,(float)hx+20,(float)hy+8,SKIN2));g.draw(new Line2D.Double(hx,hy,hx+(left?30:-30),hy+7));g.setTransform(o);}
+  static void code(Graphics2D g,int f){Color[] z={ORANGE,c("#9EB4A7"),c("#D0C7BB"),c("#B5A99D"),ORANGE};int[] b={62,95,74,108,54};for(int r=0;r<5;r++){int w=Math.max(36,b[r]+(f*(r+2)*3)%26-13);g.setColor(z[r]);rr(g,252,80+r*17,w,5,3,true);}g.setColor(f%4<2?c("#F7F1E8"):c("#6B6E69"));g.fillRect(267+(f*7)%102,164,2,9);}
+  static void keys(Graphics2D g,int f){for(int r=0;r<2;r++)for(int k=0;k<6;k++){g.setColor(((f/2+r*3)%6)==k?c("#E2B3A0"):c("#D7D2CB"));rr(g,101+k*20+r*8,304+r*8,15,4,2,true);}}
+  static void status(Graphics2D g,int x,int y,String a,String b,Color ac,int f){g.setColor(new Color(255,255,255,210));rr(g,x,y,96,48,13,true);g.setColor(c("#E2D7CB"));rr(g,x,y,96,48,13,false);g.setColor(ac);g.fillOval(x+13,y+12,8,8);tx(g,a,x+29,y+20,9,Font.BOLD,c("#837A72"));tx(g,b,x+13,y+38,12,Font.BOLD,c("#38332F"));}
+  static void tx(Graphics2D g,String s,double x,double y,int n,int st,Color c){g.setFont(new Font("SansSerif",st,n));g.setColor(c);g.drawString(s,(float)x,(float)y);}static void rr(Graphics2D g,double x,double y,double w,double h,double r,boolean fill){Shape s=new RoundRectangle2D.Double(x,y,w,h,r,r);if(fill)g.fill(s);else g.draw(s);}static void poly(Graphics2D g,int[]x,int[]y){g.fillPolygon(x,y,x.length);}static Color c(String s){return Color.decode(s);}static void aa(Graphics2D g){g.setRenderingHint(RenderingHints.KEY_ANTIALIASING,RenderingHints.VALUE_ANTIALIAS_ON);g.setRenderingHint(RenderingHints.KEY_TEXT_ANTIALIASING,RenderingHints.VALUE_TEXT_ANTIALIAS_ON);}
+  static final class Gif implements AutoCloseable{ImageWriter w;ImageWriteParam p;IIOMetadata m;Gif(ImageOutputStream o,int d)throws Exception{w=ImageIO.getImageWritersBySuffix("gif").next();p=w.getDefaultWriteParam();m=w.getDefaultImageMetadata(ImageTypeSpecifier.createFromBufferedImageType(BufferedImage.TYPE_INT_RGB),p);String f=m.getNativeMetadataFormatName();IIOMetadataNode r=(IIOMetadataNode)m.getAsTree(f),g=n(r,"GraphicControlExtension"),a=n(r,"ApplicationExtensions"),x=new IIOMetadataNode("ApplicationExtension");g.setAttribute("disposalMethod","none");g.setAttribute("userInputFlag","FALSE");g.setAttribute("transparentColorFlag","FALSE");g.setAttribute("delayTime",""+d);g.setAttribute("transparentColorIndex","0");x.setAttribute("applicationID","NETSCAPE");x.setAttribute("authenticationCode","2.0");x.setUserObject(new byte[]{1,0,0});a.appendChild(x);m.setFromTree(f,r);w.setOutput(o);w.prepareWriteSequence(null);}void add(RenderedImage i)throws Exception{w.writeToSequence(new IIOImage(i,null,m),p);}public void close()throws IOException{w.endWriteSequence();w.dispose();}static IIOMetadataNode n(IIOMetadataNode r,String s){for(int i=0;i<r.getLength();i++){Node n=r.item(i);if(s.equals(n.getNodeName()))return(IIOMetadataNode)n;}IIOMetadataNode n=new IIOMetadataNode(s);r.appendChild(n);return n;}}
 }
