@@ -24,7 +24,7 @@ I build algorithms, train agents, and engineer reliable systems around them.
 
 ## About
 
-My work sits at the intersection of **algorithm research, AI systems, and full-stack engineering**. I am interested in research ideas that can leave the notebook, survive real data, and become systems people can actually use.
+My work sits at the intersection of **algorithm research, AI systems, and full-stack engineering**. I am interested in ideas that can leave the notebook, survive real data, and become systems people can actually use.
 
 I care about model capability and training, but also about **evaluation, runtime behavior, tooling, interfaces, state, recovery, and deployment**. The model matters; the surrounding system decides whether it becomes dependable.
 
@@ -94,43 +94,6 @@ A controllable and verifiable AI execution workbench for **game development**, d
 <sub>AI Agents · Multimodal · Verification · Harness Engineering</sub>
 
 [Repository](https://github.com/jiaweine/lingjing-game-studio)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Research & Systems
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Research & Training
-
-**Multimodal AI**  
-Representation learning · multimodal reasoning · heterogeneous data · fusion
-
-**Search, Ads & Recommendation**  
-Retrieval · ranking · recommendation · relevance · evaluation
-
-**Agent Post-Training**  
-Trajectory curation · reward signals · preference optimization · agent evaluation
-
-</td>
-<td width="50%" valign="top">
-
-### Runtime & Harnesses
-
-**Harness Engineering**  
-Evaluation harnesses · agent runtimes · tool orchestration · state management
-
-**Reliability**  
-Verification · checkpoints · recovery · repeatable evaluation
-
-**System Design**  
-Interfaces · APIs · data flows · deployment · production integration
 
 </td>
 </tr>
