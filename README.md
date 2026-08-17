@@ -12,30 +12,32 @@ I build algorithms, train agents, and engineer the systems that make them reliab
 
 </div>
 
-<br/>
+<img src="./assets/doodle-divider.svg" width="100%" alt="" />
 
-## About
+## 🌼 A little about me
 
-My work sits at the intersection of **algorithm research, AI systems, and full-stack engineering**. I care about capability, evaluation, runtime behavior, tooling, interfaces, and failure recovery, especially when a research idea has to survive real data and real workflows.
+My work sits at the intersection of **algorithm research, AI systems, and full-stack engineering**. I like research ideas that can leave the notebook, survive real data, handle failure cases, and eventually become something people can actually use.
+
+I care about model capability, evaluation, agent behavior, runtimes, tooling, interfaces, and the small engineering details that decide whether a system feels reliable or fragile.
 
 > **My favorite kind of bug is the one that becomes a research question.**
 
-<br/>
+<img src="./assets/doodle-divider.svg" width="100%" alt="" />
 
-## Focus
+## 🎨 What I work on
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Multimodal AI
+### 🫧 Multimodal AI
 
 Representation learning, multimodal reasoning, heterogeneous data, fusion, and multimodal agents.
 
 </td>
 <td width="50%" valign="top">
 
-### Search, Ads & Recommendation
+### 🔍 Search, Ads & Recommendation
 
 Retrieval, ranking, recommendation, relevance modeling, evaluation, and autonomous optimization.
 
@@ -44,14 +46,14 @@ Retrieval, ranking, recommendation, relevance modeling, evaluation, and autonomo
 <tr>
 <td width="50%" valign="top">
 
-### Agent Post-Training
+### 🧪 Agent Post-Training
 
 Trajectory curation, reward signals, preference optimization, agent evaluation, and iterative capability improvement.
 
 </td>
 <td width="50%" valign="top">
 
-### Harness Engineering
+### 🧰 Harness Engineering
 
 Evaluation harnesses, agent runtimes, tool orchestration, state management, recovery, and verification.
 
@@ -59,15 +61,17 @@ Evaluation harnesses, agent runtimes, tool orchestration, state management, reco
 </tr>
 </table>
 
-<br/>
+<img src="./assets/doodle-divider.svg" width="100%" alt="" />
 
-## Selected Work
+## 🧩 Selected work
+
+A few projects that best represent how I like to combine research, systems thinking, and engineering.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [KAMEL](https://github.com/jiaweine/KAMEL)
+### 🧬 [KAMEL](https://github.com/jiaweine/KAMEL)
 
 **KAN-Augmented Multimodal Expert Learning** for heterogeneous and imbalanced tabular data.
 
@@ -80,7 +84,7 @@ Published in **Information Sciences, 2026** and evaluated across **25 benchmark 
 </td>
 <td width="50%" valign="top">
 
-### [Recsys Harness](https://github.com/jiaweine/recsys-harness)
+### 🔎 [Recsys Harness](https://github.com/jiaweine/recsys-harness)
 
 An autonomous workbench for **search and recommendation** diagnosis, experimentation, evaluation, execution, verification, and learning.
 
@@ -95,7 +99,7 @@ Built around evidence, controlled changes, recovery, and repeatable evaluation.
 <tr>
 <td width="50%" valign="top">
 
-### [EcomEvo](https://github.com/jiaweine/EcomEvo-Harness)
+### 🛍️ [EcomEvo](https://github.com/jiaweine/EcomEvo-Harness)
 
 A multimodal AI workbench for **business decisions and task execution** with persistent context, visible evidence, human confirmation, and auditable outcomes.
 
@@ -106,7 +110,7 @@ A multimodal AI workbench for **business decisions and task execution** with per
 </td>
 <td width="50%" valign="top">
 
-### [Lingjing · 灵境](https://github.com/jiaweine/lingjing-game-studio)
+### 🎮 [Lingjing · 灵境](https://github.com/jiaweine/lingjing-game-studio)
 
 A controllable and verifiable AI execution workbench for **game development**, designed for multimodal evidence, long-running tasks, recovery, and reliable delivery.
 
@@ -118,15 +122,15 @@ A controllable and verifiable AI execution workbench for **game development**, d
 </tr>
 </table>
 
-<br/>
+<img src="./assets/doodle-divider.svg" width="100%" alt="" />
 
-## Full-Stack Engineering
+## 🛠️ Full-stack toolkit
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**Model & ML**
+### 🧠 Model & ML
 
 Python · PyTorch  
 Multimodal pipelines  
@@ -135,7 +139,7 @@ Training · evaluation
 </td>
 <td width="33%" valign="top">
 
-**Backend & Runtime**
+### 🧱 Backend & Runtime
 
 FastAPI · APIs  
 Data systems  
@@ -144,7 +148,7 @@ Agent runtimes · tooling
 </td>
 <td width="33%" valign="top">
 
-**Frontend & Infrastructure**
+### 🎛️ Frontend & Infrastructure
 
 React · TypeScript  
 Docker · Linux · Git  
@@ -154,20 +158,22 @@ Testing · deployment
 </tr>
 </table>
 
-<br/>
+<img src="./assets/doodle-divider.svg" width="100%" alt="" />
 
-## Engineering Principles
+## 🍀 How I build
 
 `testable` · `traceable` · `recoverable` · `measurable` · `useful`
 
 **Smart is not enough.** A good prototype proves an idea. A good system keeps working after the demo ends.
 
+I like systems where the model is only one part of the story. Evaluation, state, tools, recovery, interfaces, and engineering discipline matter just as much.
+
 <br/>
 
 <div align="center">
 
-### Research deeply. Build carefully. Ship things that work.
+### Research deeply. Build carefully. Stay curious.
 
-<sub>Algorithms are fun. Algorithms that survive production are even more fun.</sub>
+<sub>If a project helps, star it. If it breaks, open an issue. Either way, I learn something.</sub>
 
 </div>
