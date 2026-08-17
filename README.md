@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/hero-java.gif" width="100%" alt="Jiawei Wang — Algorithm Research, AI Systems, Full-Stack Engineering" />
-</p>
+![Jiawei Wang — Algorithm Research, AI Systems, Full-Stack Engineering](https://raw.githubusercontent.com/jiaweine/jiaweine/main/assets/hero-java.gif?v=4)
 
 <p align="center">
   <a href="#current-focus"><kbd>Current Focus</kbd></a>&nbsp;&nbsp;
@@ -9,11 +7,9 @@
   <a href="https://doi.org/10.1016/j.ins.2026.123925"><kbd>Paper</kbd></a>
 </p>
 
-<p align="center">
-  <sub>Algorithm Research · AI Systems · Full-Stack Engineering</sub>
-</p>
+<p align="center"><sub>Algorithm Research · AI Systems · Full-Stack Engineering</sub></p>
 
-<img src="./assets/section-rule.svg" width="100%" alt="" />
+---
 
 ## About
 
@@ -33,7 +29,7 @@ I work where **algorithm research, AI systems, and full-stack engineering** meet
 </tr>
 </table>
 
-<img src="./assets/section-rule.svg" width="100%" alt="" />
+---
 
 ## Current Focus
 
@@ -88,7 +84,7 @@ Evaluation harnesses, agent runtimes, tool orchestration, state management, reco
 </tr>
 </table>
 
-<img src="./assets/section-rule.svg" width="100%" alt="" />
+---
 
 ## Selected Work
 
@@ -159,7 +155,7 @@ A controllable and verifiable AI execution workbench for game development and lo
 </tr>
 </table>
 
-<img src="./assets/section-rule.svg" width="100%" alt="" />
+---
 
 ## Full-Stack Engineering
 
@@ -201,7 +197,7 @@ Testing · deployment
 </tr>
 </table>
 
-<img src="./assets/section-rule.svg" width="100%" alt="" />
+---
 
 ## Engineering Principles
 
@@ -224,6 +220,6 @@ A good prototype proves an idea. A good system keeps working after the demo ends
 <p align="center">
   <br/>
   <b>Research deeply. Build carefully. Stay curious.</b><br/>
-  <sub>Hero UI generated with Java 21 · real animated GIF · no browser runtime dependency</sub><br/>
-  <sub><a href="./tools/ProfileUiGenerator.java">View the Java UI generator</a></sub>
+  <sub>Hero UI generated with Java 21 · animated GIF · no browser runtime dependency</sub><br/>
+  <sub><a href="https://github.com/jiaweine/jiaweine/blob/main/tools/ProfileUiGenerator.java">View the Java UI generator</a></sub>
 </p>
