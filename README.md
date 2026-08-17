@@ -1,36 +1,122 @@
 <div align="center">
 
-# Jiawei Wang
+<img src="./assets/profile-banner.svg" width="100%" alt="Jiawei Wang profile banner" />
 
-### Algorithm Research · AI Systems · Full-Stack Engineering
+<br/>
 
 **Researcher when the loss converges. Engineer when it doesn't.**
 
-I build algorithms, train and evaluate intelligent systems, and turn them into full-stack products that work beyond the notebook.
+I work across algorithms, agent training, evaluation systems, harnesses, and full-stack delivery.
 
-[![Profile](https://img.shields.io/badge/GitHub-jiaweine-181717?style=flat-square&logo=github)](https://github.com/jiaweine)
-[![Paper](https://img.shields.io/badge/Information%20Sciences-2026-4F46E5?style=flat-square)](https://doi.org/10.1016/j.ins.2026.123925)
-[![PyTorch](https://img.shields.io/badge/PyTorch-Research-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+<br/>
+
+[![Multimodal](https://img.shields.io/badge/Multimodal-AI-7C3AED?style=for-the-badge)](https://github.com/jiaweine)
+[![Search Ads RecSys](https://img.shields.io/badge/Search_Ads_RecSys-Systems-0891B2?style=for-the-badge)](https://github.com/jiaweine/recsys-harness)
+[![Agent Post Training](https://img.shields.io/badge/Agent_Post--Training-Research-4F46E5?style=for-the-badge)](https://github.com/jiaweine)
+[![Harness](https://img.shields.io/badge/Harness-Engineering-65A30D?style=for-the-badge)](https://github.com/jiaweine)
+
+<br/>
+
+[![Paper](https://img.shields.io/badge/Information_Sciences-2026-111827?style=flat-square)](https://doi.org/10.1016/j.ins.2026.123925)
+[![Python](https://img.shields.io/badge/Python-Research_&_Systems-111827?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-111827?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-111827?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 </div>
 
----
+<br/>
 
-## About
+## `01`  Profile
 
-My work lives between **algorithm research, AI systems, and full-stack engineering**. I care about models that do more than look good in an experiment: they should survive real data, real workflows, failure cases, repeated evaluation, and actual product use.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-My current focus is concentrated in four areas:
+### I build intelligent systems end to end.
 
-**Multimodal AI** · **Search, Ads & Recommendation** · **Agent Post-Training** · **Harness Engineering**
+My work sits at the intersection of **algorithm research**, **AI systems**, and **full-stack engineering**.
 
-I am especially interested in how training, evaluation, tooling, runtime control, and product interfaces can work together as one complete system.
+I care about the whole lifecycle: training data, model behavior, evaluation, runtime control, tool execution, interfaces, failure recovery, and whether the final system is actually useful.
 
 > **My favorite kind of bug is the one that becomes a research question.**
 
----
+</td>
+<td width="40%" valign="top">
 
-## Selected Work
+### Current signal
+
+```text
+MODE        research / build
+FOCUS       intelligent systems
+STYLE       measurable / recoverable
+OUTPUT      papers / systems / products
+STATUS      shipping
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `02`  Research & Engineering Focus
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### ◈ Multimodal AI
+
+Cross-modal representation, reasoning, multimodal agents, heterogeneous data, applied multimodal systems.
+
+`representation`
+`reasoning`
+`fusion`
+`agents`
+
+</td>
+<td width="25%" valign="top">
+
+### ◉ Search · Ads · RecSys
+
+Retrieval, ranking, recommendation, relevance, quality evaluation, autonomous diagnosis and optimization.
+
+`retrieval`
+`ranking`
+`relevance`
+`evaluation`
+
+</td>
+<td width="25%" valign="top">
+
+### ◌ Agent Post-Training
+
+Trajectory curation, preference optimization, reward signals, agent evaluation, iterative capability improvement.
+
+`trajectories`
+`preference`
+`rewards`
+`evaluation`
+
+</td>
+<td width="25%" valign="top">
+
+### ◇ Harness Engineering
+
+Evaluation harnesses, agent runtimes, tool orchestration, checkpoints, recovery, verification and controlled execution.
+
+`runtime`
+`tooling`
+`recovery`
+`verification`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `03`  Selected Systems
 
 <table>
 <tr>
@@ -51,9 +137,9 @@ Published in **Information Sciences, 2026**. Evaluated on **25 benchmark dataset
 
 ### 🔎 [Recsys Harness](https://github.com/jiaweine/recsys-harness)
 
-An autonomous workbench for **search, recommendation, evaluation, diagnosis, and execution**.
+An autonomous workbench for **search and recommendation** diagnosis, experimentation, evaluation and execution.
 
-Built around evidence, controlled experimentation, recovery, and real task execution.
+Built around evidence, controlled changes, recovery, verification and real task execution.
 
 `Search` · `Recommendation` · `Agents` · `Harness Engineering`
 
@@ -68,7 +154,7 @@ Built around evidence, controlled experimentation, recovery, and real task execu
 
 A multimodal AI workbench for **real business decisions and task execution**.
 
-Designed around persistent context, visible evidence, human confirmation, and auditable outcomes.
+Persistent context, visible evidence, human confirmation and auditable outcomes in one full-stack system.
 
 `Multimodal AI` · `Full-Stack` · `Agents` · `Tool Use`
 
@@ -81,7 +167,7 @@ Designed around persistent context, visible evidence, human confirmation, and au
 
 A controllable and verifiable AI execution workbench for **game development**.
 
-Focused on multimodal evidence, recovery, verification, and reliable delivery.
+Multimodal evidence, recovery, verification and reliable delivery for long-running tasks.
 
 `AI Agents` · `Multimodal` · `Verification` · `Harness Engineering`
 
@@ -91,42 +177,60 @@ Focused on multimodal evidence, recovery, verification, and reliable delivery.
 </tr>
 </table>
 
----
+<br/>
 
-## Focus
-
-| Multimodal | Search, Ads & Recommendation | Agent Post-Training | Harness Engineering |
-| --- | --- | --- | --- |
-| Multimodal representation | Ranking and retrieval | Data and trajectory curation | Evaluation harnesses |
-| Cross-modal reasoning | Recommendation systems | Preference optimization | Agent runtimes |
-| Multimodal agents | Search quality | Agent evaluation | Tool orchestration |
-| Applied multimodal systems | Ads and relevance | Iterative improvement | Recovery and verification |
-
----
-
-## Full-Stack Engineering
-
-`Python` · `PyTorch` · `FastAPI` · `Frontend` · `Backend` · `APIs` · `Data Systems` · `Linux` · `Git`
-
-I like owning the full path from **model and algorithm design** to **backend services, interfaces, evaluation infrastructure, and production-facing workflows**.
-
----
-
-## Build Philosophy
-
-**Smart is not enough.** I like AI systems that are:
-
-`testable` · `traceable` · `recoverable` · `measurable` · `useful`
-
-A good prototype proves an idea. A good system keeps working after the demo ends.
-
----
+## `04`  Full-Stack Engineering
 
 <div align="center">
 
-### Research deeply. Build carefully. Ship things that work.
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,ts,js,html,css,nodejs,postgres,redis,docker,linux,git,github,vscode&perline=8" alt="Technology stack" />
 
-If one of these projects is useful or interesting, feel free to **star a repository, open an issue, or follow my work**.
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Model & Algorithm**
+
+Python · PyTorch · representation learning · ranking · multimodal modeling · agent training
+
+</td>
+<td width="33%" valign="top">
+
+**Systems & Backend**
+
+FastAPI · APIs · data pipelines · persistence · evaluation infrastructure · agent runtimes
+
+</td>
+<td width="33%" valign="top">
+
+**Product & Interface**
+
+React · TypeScript · frontend systems · workflow UX · observability · production integration
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `05`  Build Philosophy
+
+<div align="center">
+
+### Smart is not enough.
+
+`testable` · `traceable` · `recoverable` · `measurable` · `useful`
+
+A good prototype proves an idea.  
+A good system keeps working after the demo ends.
+
+<br/>
+
+**Research deeply · Build carefully · Ship things that work**
 
 <sub>Algorithms are fun. Algorithms that survive production are even more fun.</sub>
 
