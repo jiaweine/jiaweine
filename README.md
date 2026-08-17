@@ -105,21 +105,11 @@ A controllable and verifiable AI execution workbench for <strong>game developmen
 
 <table>
 <tr><td valign="top">
-<strong>Model & ML</strong><br/><br/>
-Python · PyTorch · multimodal pipelines · training · evaluation
-</td></tr>
-</table>
-
-<table>
-<tr><td valign="top">
-<strong>Backend & Runtime</strong><br/><br/>
-FastAPI · APIs · data systems · agent runtimes · tooling
-</td></tr>
-</table>
-
-<table>
-<tr><td valign="top">
-<strong>Frontend & Infrastructure</strong><br/><br/>
+<strong>Model & ML</strong><br/>
+Python · PyTorch · multimodal pipelines · training · evaluation<br/><br/>
+<strong>Backend & Runtime</strong><br/>
+FastAPI · APIs · data systems · agent runtimes · tooling<br/><br/>
+<strong>Frontend & Infrastructure</strong><br/>
 React · TypeScript · Docker · Linux · Git · testing · deployment
 </td></tr>
 </table>
@@ -128,12 +118,9 @@ React · TypeScript · Docker · Linux · Git · testing · deployment
 
 ## Engineering Principles
 
-<table>
-<tr><td valign="top">
-<strong>Testable · Traceable · Recoverable · Measurable · Useful</strong><br/><br/>
+**Testable · Traceable · Recoverable · Measurable · Useful**
+
 Smart is not enough. A good prototype proves an idea; a good system keeps working after the demo ends.
-</td></tr>
-</table>
 
 <div align="center">
 
