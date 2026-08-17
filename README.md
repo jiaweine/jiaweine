@@ -2,7 +2,7 @@
 
 # Hi, I'm Jiawei 👋
 
-### Statistics · Data Science · Applied Mathematics · Artificial Intelligence
+**Statistics major** · Data Science · Applied Mathematics · Artificial Intelligence
 
 **Algorithm Research · AI Systems · Full-Stack Engineering**
 
@@ -55,36 +55,38 @@ Runtime, tools, recovery, verification
 
 ---
 
-## 🧭 Academic Lens
+## 📚 Background & Interests
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 ### 📈 Statistics
 
-Inference, uncertainty, experimental thinking, and models that respect what the data can actually support.
+My academic foundation: inference, uncertainty, experimental thinking, and models that respect what the data can actually support.
 
 </td>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 ### 🧮 Applied Mathematics
 
-Optimization, structure, numerical reasoning, and the mathematical ideas behind learning systems.
+I enjoy optimization, structure, numerical reasoning, and the mathematical ideas that make learning systems work.
 
 </td>
-<td width="25%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🗂️ Data Science
 
-Data-centric workflows, experimentation, evaluation, and extracting useful signal from messy reality.
+I care about data-centric workflows, experimentation, evaluation, and extracting useful signal from messy reality.
 
 </td>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 ### 🤖 Artificial Intelligence
 
-Multimodal learning, search and recommendation, agents, post-training, and reliable AI systems.
+My main playground for multimodal learning, search and recommendation, agents, post-training, and reliable AI systems.
 
 </td>
 </tr>
