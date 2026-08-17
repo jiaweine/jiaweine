@@ -1,4 +1,6 @@
-<div align="center">
+<table>
+<tr>
+<td align="center" width="100%">
 
 # Jiawei Wang
 
@@ -10,13 +12,11 @@ I like turning statistical thinking into models, agents, and systems that remain
 
 [GitHub](https://github.com/jiaweine) · [Information Sciences 2026](https://doi.org/10.1016/j.ins.2026.123925)
 
-<br/>
+</td>
+</tr>
+</table>
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Statistics, data science and AI profile banner" />
-
-</div>
-
-<br/>
+---
 
 ## About Me
 
@@ -53,7 +53,7 @@ Runtime, tools, recovery, verification
 </tr>
 </table>
 
-<br/>
+---
 
 ## Background & Interests
 
@@ -92,15 +92,9 @@ My main playground for multimodal learning, search and recommendation, agents, p
 </tr>
 </table>
 
-<br/>
+---
 
 ## Current Focus
-
-<div align="center">
-<img src="./assets/focus-map.svg" width="100%" alt="Current technical focus map" />
-</div>
-
-<br/>
 
 <table>
 <tr>
@@ -145,7 +139,7 @@ The infrastructure around agents: runtimes, tools, state, checkpoints, verificat
 </tr>
 </table>
 
-<br/>
+---
 
 ## Selected Work
 
@@ -204,7 +198,7 @@ A controllable and verifiable AI execution workbench for **game development**, d
 </tr>
 </table>
 
-<br/>
+---
 
 ## Full-Stack Engineering
 
@@ -246,20 +240,22 @@ End-to-end system delivery
 </tr>
 </table>
 
-<br/>
+---
 
 ## Engineering Principles
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="100%">
 
 ### Testable · Traceable · Recoverable · Measurable · Useful
 
 **Smart is not enough.** A good prototype proves an idea. A good system keeps working after the demo ends.
 
-<br/>
-
 ### Research deeply. Build carefully. Stay curious.
 
 <sub>Algorithms that survive production are more interesting than algorithms that only survive a notebook.</sub>
 
-</div>
+</td>
+</tr>
+</table>
