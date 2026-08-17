@@ -1,106 +1,121 @@
 <div align="center">
 
-# Hi, I'm Jiawei 👋
+# Jiawei Wang
 
-### Algorithm Research × AI Systems × Shipping Things
+### Algorithm Research · AI Systems · Product Engineering
 
-**I turn papers into products — and bugs into research questions.** 🧠⚙️
+**Researcher when the loss converges. Engineer when it doesn't.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-jiaweine-181717?style=flat-square&logo=github)](https://github.com/jiaweine)
-[![KAMEL](https://img.shields.io/badge/Paper-Information%20Sciences%202026-4F46E5?style=flat-square)](https://doi.org/10.1016/j.ins.2026.123925)
+I build algorithms, turn them into systems, and keep iterating until they are useful outside the notebook.
+
+[![Profile](https://img.shields.io/badge/GitHub-jiaweine-181717?style=flat-square&logo=github)](https://github.com/jiaweine)
+[![Paper](https://img.shields.io/badge/Information%20Sciences-2026-4F46E5?style=flat-square)](https://doi.org/10.1016/j.ins.2026.123925)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Research-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-Researcher when the loss converges. Developer when it doesn't.
+My work lives between **algorithm research** and **AI engineering**. I care about models that do more than look good in an experiment: they should survive real data, real workflows, failure cases, and repeated evaluation.
 
-I like building algorithms, but I like it even more when they survive the trip from **paper → prototype → system → real use**.
+Currently interested in **multimodal learning, KAN, mixture of experts, imbalanced learning, search and recommendation, autonomous agents, evaluation, and recoverable AI systems**.
 
-My work sits somewhere between **algorithm research** and **AI engineering**:
-
-- 🧠 **Algorithms** — Multimodal Learning · KAN / MoE · Imbalanced Learning · Search & Recommendation
-- 🤖 **AI Systems** — Autonomous Agents · Evaluation · Tool Use · Recoverable Workflows
-- ⚙️ **Engineering** — Python · PyTorch · FastAPI · end-to-end AI systems
-- 🔭 **Current obsession** — AI that can **observe → decide → execute → verify → learn**, instead of only answering questions
+> **My favorite kind of bug is the one that becomes a research question.**
 
 ---
 
-## 🚀 Featured Work
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧬 [KAMEL](https://github.com/jiaweine/KAMEL)
+
 **KAN-Augmented Multimodal Expert Learning** for heterogeneous and imbalanced tabular data.
 
-Published in **Information Sciences (2026)** and evaluated across **25 benchmark datasets**.
+Published in **Information Sciences, 2026**. Evaluated on **25 benchmark datasets**.
 
-`Multimodal Learning` · `KAN` · `Mixture-of-Experts` · `Imbalanced Learning` · `PyTorch`
+`Multimodal Learning` · `KAN` · `Mixture of Experts` · `PyTorch`
+
+[Repository](https://github.com/jiaweine/KAMEL) · [Paper](https://doi.org/10.1016/j.ins.2026.123925)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🔎 [Recsys Harness](https://github.com/jiaweine/recsys-harness)
-An autonomous search & recommendation experience harness.
 
-Give it a goal, screenshot, or real data. It can **observe, diagnose, act, verify, recover, and learn**.
+An autonomous workbench for **search and recommendation** experiments, diagnosis, execution, verification, and learning.
 
-`Search` · `Recommendation` · `Agents` · `Evaluation` · `Autonomous Systems`
+Built around evidence, evaluation, recovery, and real task execution.
+
+`Search` · `Recommendation` · `Agents` · `Evaluation`
+
+[Repository](https://github.com/jiaweine/recsys-harness)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛒 [EcomEvo](https://github.com/jiaweine/EcomEvo-Harness)
-A multimodal AI workbench for real business decisions.
 
-Less **“ask AI a question”**, more **“let AI help finish the task.”**
+A multimodal AI workbench for **real business decisions and task execution**.
 
-`Multimodal AI` · `Business Agents` · `FastAPI` · `Human-in-the-loop` · `Execution`
+Designed around persistent context, visible evidence, human confirmation, and auditable outcomes.
 
-### 🎮 [Lingjing / 灵境](https://github.com/jiaweine/lingjing-game-studio)
-A controllable and verifiable AI execution workbench for game development.
+`Multimodal AI` · `FastAPI` · `Business Agents` · `Tool Use`
 
-From issue reproduction and regression testing to evidence-backed delivery.
+[Repository](https://github.com/jiaweine/EcomEvo-Harness)
 
-`Game Dev` · `AI Agents` · `Multimodal` · `Verification` · `Recoverable Execution`
+</td>
+<td width="50%" valign="top">
 
----
+### 🎮 [Lingjing · 灵境](https://github.com/jiaweine/lingjing-game-studio)
 
-## 🧪 My Favorite Development Loop
+A controllable and verifiable AI execution workbench for **game development**.
 
-```text
-paper
-  ↓
-prototype
-  ↓
-system
-  ↓
-evaluation
-  ↓
-bug
-  ↓
-new research question
-  ↺
-```
+Focused on reproduction, regression, multimodal evidence, recovery, and reliable delivery.
 
-I care about AI systems that are not only **smart**, but also **traceable, testable, recoverable, and useful**.
+`Game Development` · `AI Agents` · `Multimodal` · `Verification`
+
+[Repository](https://github.com/jiaweine/lingjing-game-studio)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Toolbox
+## What I Like Building
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+| Research | Systems | Engineering |
+| --- | --- | --- |
+| Multimodal learning | Autonomous agents | Python |
+| KAN and expert models | Search and recommendation | PyTorch |
+| Imbalanced learning | Evaluation systems | FastAPI |
+| Representation learning | Recoverable workflows | Linux and Git |
 
 ---
 
-## 🤝 Let's Build Something Interesting
+## Build Philosophy
 
-I'm interested in **algorithm research, recommendation & search, multimodal AI, agent infrastructure**, and turning slightly crazy ideas into working systems.
+**Smart is not enough.** I like AI systems that are:
 
-If something here looks interesting, feel free to **⭐ a repo, open an issue, or follow along**.
+`testable` · `traceable` · `recoverable` · `measurable` · `useful`
+
+A good prototype proves an idea. A good system keeps working after the demo ends.
+
+---
 
 <div align="center">
 
-### `while (curious) { research(); build(); ship(); }`
+### Research deeply. Build carefully. Ship things that work.
+
+If one of these projects is useful or interesting, feel free to **star a repository, open an issue, or follow my work**.
+
+<sub>Algorithms are fun. Algorithms that survive production are even more fun.</sub>
 
 </div>
