@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Jiawei Wang profile banner</title>
+  <desc id="desc">Algorithm Research, AI Systems, Full-Stack Engineering. Multimodal AI, Search Ads and Recommendation, Agent Post-Training, Harness Engineering.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientTransform="translate(930 80) rotate(135) scale(420 220)">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientTransform="translate(180 290) rotate(-35) scale(420 180)">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glowA)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glowB)"/>
+
+  <g opacity="0.24" fill="none" stroke="#94a3b8">
+    <circle cx="1060" cy="62" r="6"/>
+    <circle cx="1092" cy="92" r="3"/>
+    <circle cx="1028" cy="112" r="4"/>
+    <path d="M1034 65 L1088 90 L1030 110" stroke-width="1"/>
+    <circle cx="1080" cy="245" r="74"/>
+    <circle cx="1080" cy="245" r="48"/>
+  </g>
+
+  <text x="72" y="94" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="48" font-weight="760" letter-spacing="1.5">JIAWEI WANG</text>
+  <text x="74" y="137" fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="20" font-weight="560" letter-spacing="0.8">ALGORITHM RESEARCH · AI SYSTEMS · FULL-STACK ENGINEERING</text>
+
+  <line x1="74" y1="170" x2="1126" y2="170" stroke="#334155" stroke-width="1"/>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="600">
+    <text x="74" y="218" fill="#e2e8f0">Multimodal AI</text>
+    <text x="268" y="218" fill="#64748b">·</text>
+    <text x="305" y="218" fill="#e2e8f0">Search, Ads &amp; Recommendation</text>
+    <text x="636" y="218" fill="#64748b">·</text>
+    <text x="673" y="218" fill="#e2e8f0">Agent Post-Training</text>
+    <text x="882" y="218" fill="#64748b">·</text>
+    <text x="919" y="218" fill="#e2e8f0">Harness Engineering</text>
+  </g>
+
+  <text x="74" y="272" fill="#94a3b8" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16" font-weight="500">Research deeply. Build carefully. Ship things that work.</text>
+</svg>
