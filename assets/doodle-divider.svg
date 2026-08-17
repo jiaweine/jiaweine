@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="42" viewBox="0 0 1200 42" role="img" aria-label="soft editorial divider">
-  <path d="M154 22 C232 13, 294 29, 372 21 C450 13, 514 29, 592 21 C670 13, 734 29, 812 21 C890 13, 954 29, 1032 21" fill="none" stroke="#DDD4CA" stroke-width="2.4" stroke-linecap="round"/>
-  <rect x="112" y="17" width="18" height="10" rx="5" fill="#DDEEF5"/>
-  <rect x="522" y="17" width="18" height="10" rx="5" fill="#F7E7B8"/>
-  <rect x="824" y="17" width="18" height="10" rx="5" fill="#E7DDF0"/>
-  <rect x="1070" y="17" width="18" height="10" rx="5" fill="#DDEDE0"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="26" viewBox="0 0 1200 26" role="img" aria-label="minimal editorial divider">
+  <line x1="84" y1="13" x2="1116" y2="13" stroke="#E7E2DA"/>
+  <line x1="84" y1="13" x2="182" y2="13" stroke="#B9CED5" stroke-width="2"/>
+  <line x1="194" y1="13" x2="292" y2="13" stroke="#D7C6A4" stroke-width="2"/>
+  <line x1="304" y1="13" x2="402" y2="13" stroke="#CDBFD4" stroke-width="2"/>
+  <line x1="414" y1="13" x2="512" y2="13" stroke="#BED0C1" stroke-width="2"/>
 </svg>
