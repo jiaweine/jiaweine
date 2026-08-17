@@ -1,4 +1,16 @@
-![Jiawei Wang — Algorithm Research, AI Systems, Full-Stack Engineering](https://raw.githubusercontent.com/jiaweine/jiaweine/main/assets/hero-java.gif?v=4)
+<div align="center">
+
+# Jiawei Wang
+
+**Algorithm Research · AI Systems · Full-Stack Engineering**
+
+<sub>Multimodal AI · Search, Ads & Recommendation · Agent Post-Training · Harness Engineering</sub>
+
+</div>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/jiaweine/jiaweine@main/assets/hero-java.gif" width="100%" alt="Animated profile hero: Jiawei Wang coding with silver headphones" />
+</p>
 
 <p align="center">
   <a href="#current-focus"><kbd>Current Focus</kbd></a>&nbsp;&nbsp;
@@ -6,8 +18,6 @@
   <a href="#full-stack-engineering"><kbd>Full-Stack</kbd></a>&nbsp;&nbsp;
   <a href="https://doi.org/10.1016/j.ins.2026.123925"><kbd>Paper</kbd></a>
 </p>
-
-<p align="center"><sub>Algorithm Research · AI Systems · Full-Stack Engineering</sub></p>
 
 ---
 
@@ -220,6 +230,6 @@ A good prototype proves an idea. A good system keeps working after the demo ends
 <p align="center">
   <br/>
   <b>Research deeply. Build carefully. Stay curious.</b><br/>
-  <sub>Hero UI generated with Java 21 · animated GIF · no browser runtime dependency</sub><br/>
-  <sub><a href="https://github.com/jiaweine/jiaweine/blob/main/tools/ProfileUiGenerator.java">View the Java UI generator</a></sub>
+  <sub>Profile UI generated with Java 21 · animated GIF · no browser runtime dependency</sub><br/>
+  <sub><a href="./tools/ProfileUiGenerator.java">View the Java UI generator</a></sub>
 </p>
