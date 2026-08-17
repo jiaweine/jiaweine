@@ -1,73 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-  <title id="title">Jiawei Wang profile illustration</title>
-  <desc id="desc">A light editorial cartoon illustration for multimodal AI, search ads and recommendation, agent post-training, and harness engineering.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Jiawei Wang focus map</title>
+  <desc id="desc">A light editorial focus map for multimodal AI, search ads and recommendation, agent post-training, and harness engineering.</desc>
 
-  <defs>
-    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#FFFDF9"/>
-      <stop offset="100%" stop-color="#FAF6F0"/>
-    </linearGradient>
-  </defs>
+  <rect x="2" y="2" width="1196" height="236" rx="24" fill="#FCFBF8" stroke="#E6E1D9" stroke-width="2"/>
 
-  <rect x="2" y="2" width="1196" height="276" rx="28" fill="url(#paper)" stroke="#E6DED4" stroke-width="2"/>
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="70" y="42" fill="#8B857D" font-size="12" font-weight="700" letter-spacing="2.2">SELECTED FOCUS</text>
+    <line x1="70" y1="58" x2="1130" y2="58" stroke="#E7E2DA"/>
 
-  <path d="M0 76 C88 30 176 38 250 0 L0 0 Z" fill="#E7F4FA"/>
-  <path d="M981 0 C1060 25 1140 74 1200 145 L1200 0 Z" fill="#F0E9F8"/>
-  <path d="M0 242 C96 214 172 223 244 280 L0 280 Z" fill="#FFF0C9"/>
-  <path d="M1010 280 C1065 228 1136 218 1200 233 L1200 280 Z" fill="#E6F3E8"/>
-
-  <g fill="none" stroke="#C9BFB4" stroke-width="2.2" stroke-linecap="round">
-    <path d="M64 58 C92 42 116 43 142 58"/>
-    <path d="M1032 224 C1057 210 1081 211 1105 224"/>
-    <path d="M1114 62 C1134 51 1150 52 1167 63"/>
-  </g>
-
-  <g font-family="Trebuchet MS, Avenir Next, ui-rounded, system-ui, sans-serif">
-    <text x="72" y="74" fill="#474248" font-size="26" font-weight="760">Models are only one part of the system.</text>
-    <text x="72" y="106" fill="#7B7378" font-size="17" font-weight="600">I care about what happens before training, after inference, and everywhere in between.</text>
-
-    <g font-size="15" font-weight="700">
-      <rect x="72" y="139" width="154" height="36" rx="18" fill="#EAF5FA" stroke="#C8E2EE"/>
-      <text x="92" y="162" fill="#486C7B">Multimodal AI</text>
-
-      <rect x="238" y="139" width="274" height="36" rx="18" fill="#FFF2D4" stroke="#ECD9A8"/>
-      <text x="258" y="162" fill="#7A6537">Search, Ads &amp; Recommendation</text>
-
-      <rect x="72" y="187" width="204" height="36" rx="18" fill="#F2EBF8" stroke="#D9C9E7"/>
-      <text x="92" y="210" fill="#6B5879">Agent Post-Training</text>
-
-      <rect x="288" y="187" width="207" height="36" rx="18" fill="#EAF5EC" stroke="#C9E1CE"/>
-      <text x="308" y="210" fill="#52715A">Harness Engineering</text>
+    <g transform="translate(70,78)">
+      <rect width="240" height="112" rx="16" fill="#F7FAFB" stroke="#E0E8EA"/>
+      <g fill="none" stroke="#7D9DAA" stroke-width="2">
+        <circle cx="34" cy="36" r="8" fill="#F7FAFB"/>
+        <circle cx="63" cy="25" r="6" fill="#F7FAFB"/>
+        <circle cx="72" cy="54" r="7" fill="#F7FAFB"/>
+        <path d="M41 33 L57 27 M40 40 L65 50 M65 31 L69 47"/>
+      </g>
+      <text x="24" y="85" fill="#39444A" font-size="16" font-weight="700">Multimodal AI</text>
+      <text x="24" y="101" fill="#8A9499" font-size="11" font-weight="600">representation · reasoning · fusion</text>
     </g>
 
-    <text x="74" y="251" fill="#948B8F" font-size="14" font-weight="600">research · evaluation · runtimes · interfaces · recovery · deployment</text>
-  </g>
+    <g transform="translate(340,78)">
+      <rect width="240" height="112" rx="16" fill="#FBF9F4" stroke="#E9E2D3"/>
+      <g fill="none" stroke="#B29B6E" stroke-width="2" stroke-linecap="round">
+        <path d="M28 24 H84"/>
+        <path d="M28 38 H72"/>
+        <path d="M28 52 H60"/>
+        <circle cx="88" cy="24" r="4" fill="#FBF9F4"/>
+        <circle cx="76" cy="38" r="4" fill="#FBF9F4"/>
+        <circle cx="64" cy="52" r="4" fill="#FBF9F4"/>
+      </g>
+      <text x="24" y="85" fill="#4B463C" font-size="16" font-weight="700">Search, Ads &amp; Recommendation</text>
+      <text x="24" y="101" fill="#968D7A" font-size="11" font-weight="600">retrieval · ranking · evaluation</text>
+    </g>
 
-  <g transform="translate(872,54)" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <ellipse cx="112" cy="166" rx="99" ry="16" fill="#EDE5DC" stroke="none" opacity="0.68"/>
+    <g transform="translate(610,78)">
+      <rect width="240" height="112" rx="16" fill="#FAF8FB" stroke="#E8E1EB"/>
+      <g fill="none" stroke="#9A88A6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M28 51 C43 27 56 28 68 43 C80 58 91 54 104 29"/>
+        <circle cx="28" cy="51" r="4" fill="#FAF8FB"/>
+        <circle cx="68" cy="43" r="4" fill="#FAF8FB"/>
+        <circle cx="104" cy="29" r="4" fill="#FAF8FB"/>
+      </g>
+      <text x="24" y="85" fill="#473F4C" font-size="16" font-weight="700">Agent Post-Training</text>
+      <text x="24" y="101" fill="#918796" font-size="11" font-weight="600">trajectories · rewards · iteration</text>
+    </g>
 
-    <rect x="26" y="42" width="148" height="92" rx="16" fill="#FFFFFF" stroke="#BEB5AD" stroke-width="2.5"/>
-    <rect x="42" y="57" width="116" height="58" rx="10" fill="#F8FBFC" stroke="#D8E5E9" stroke-width="2"/>
-    <circle cx="70" cy="86" r="7" fill="#DDEFF6" stroke="#82AFC1" stroke-width="2"/>
-    <circle cx="100" cy="74" r="7" fill="#F7E6B7" stroke="#C7A95A" stroke-width="2"/>
-    <circle cx="130" cy="92" r="7" fill="#E8DDF2" stroke="#9C7CB8" stroke-width="2"/>
-    <path d="M77 83 C84 79 90 76 94 75" stroke="#AAB7BD" stroke-width="2"/>
-    <path d="M106 78 C114 82 119 86 124 89" stroke="#AAB7BD" stroke-width="2"/>
-
-    <path d="M14 136 H186 L166 154 H34 Z" fill="#F3EEE8" stroke="#BEB5AD" stroke-width="2.5"/>
-
-    <rect x="2" y="10" width="58" height="42" rx="12" fill="#FFF3D9" stroke="#D7C28E" stroke-width="2" transform="rotate(-6 31 31)"/>
-    <path d="M16 27 H46" stroke="#A58E58" stroke-width="2"/>
-    <path d="M16 35 H40" stroke="#A58E58" stroke-width="2"/>
-
-    <rect x="152" y="14" width="58" height="48" rx="13" fill="#EDF5EE" stroke="#B7D0BC" stroke-width="2" transform="rotate(7 181 38)"/>
-    <circle cx="173" cy="37" r="5" fill="#9FC6AA" stroke="none"/>
-    <circle cx="190" cy="37" r="5" fill="#9FC6AA" stroke="none"/>
-    <path d="M174 48 C180 51 186 51 191 48" stroke="#6F987A" stroke-width="2"/>
-
-    <rect x="196" y="83" width="55" height="51" rx="14" fill="#F4EDF9" stroke="#CDB8DC" stroke-width="2" transform="rotate(5 223 108)"/>
-    <circle cx="215" cy="105" r="4.5" fill="#A98BC0" stroke="none"/>
-    <circle cx="232" cy="105" r="4.5" fill="#A98BC0" stroke="none"/>
-    <path d="M215 117 C221 121 227 121 233 117" stroke="#84679A" stroke-width="2"/>
+    <g transform="translate(880,78)">
+      <rect width="250" height="112" rx="16" fill="#F7FAF7" stroke="#DFE8E0"/>
+      <g fill="none" stroke="#7E9A84" stroke-width="2">
+        <rect x="27" y="21" width="74" height="38" rx="8"/>
+        <rect x="39" y="31" width="74" height="38" rx="8" fill="#F7FAF7"/>
+        <path d="M48 50 H82" stroke-linecap="round"/>
+      </g>
+      <text x="24" y="85" fill="#3E4940" font-size="16" font-weight="700">Harness Engineering</text>
+      <text x="24" y="101" fill="#87928A" font-size="11" font-weight="600">runtime · tools · recovery · verification</text>
+    </g>
   </g>
 </svg>
