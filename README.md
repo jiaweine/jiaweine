@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Jiawei 👋
+<img src="./assets/profile-banner.svg" width="100%" alt="Jiawei Wang profile banner" />
 
-### Algorithm Research · AI Systems · Full-Stack Engineering
+<br/>
 
 **Researcher when the loss converges. Engineer when it doesn't.**
 
