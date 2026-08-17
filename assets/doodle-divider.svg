@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="44" viewBox="0 0 1200 44" role="img" aria-label="pastel doodle divider">
+  <path d="M170 23 C235 7, 295 37, 360 21 C425 6, 485 36, 550 22 C615 8, 675 35, 740 21 C805 7, 865 36, 930 21 C995 7, 1055 34, 1110 22" fill="none" stroke="#E8DCCF" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="126" cy="22" r="7" fill="#DFF3FF" stroke="#B9DFF6"/>
+  <circle cx="570" cy="22" r="6" fill="#FFF0B8" stroke="#F2D999"/>
+  <circle cx="950" cy="22" r="7" fill="#F4EAFE" stroke="#D9C0F3"/>
+  <circle cx="1137" cy="22" r="6" fill="#DFF7E8" stroke="#B9E0C5"/>
+</svg>
