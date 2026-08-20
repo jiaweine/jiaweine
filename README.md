@@ -26,8 +26,6 @@ I like turning statistical thinking into models, agents, and systems that remain
 
 ### Statistical roots, engineering instincts
 
-My major is **Statistics**, and my interests naturally extend into **Data Science, Applied Mathematics, and Artificial Intelligence**.
-
 I enjoy questions about uncertainty, structure, optimization, representation, and decision-making. I also care about what happens after a model leaves the experiment: evaluation, runtime behavior, interfaces, tooling, recovery, and deployment.
 
 > **My favorite kind of bug is the one that becomes a research question.**
@@ -48,16 +46,12 @@ I enjoy questions about uncertainty, structure, optimization, representation, an
 
 Models that learn from heterogeneous signals and reason across modalities rather than treating each input in isolation.
 
-<sub>representation learning · multimodal reasoning · fusion · multimodal agents</sub>
-
 </td>
 <td width="50%" valign="top">
 
 ### Search, Ads & Recommendation
 
 Retrieval, ranking, relevance, recommendation quality, and evaluation systems that connect model improvements to real user experience.
-
-<sub>retrieval · ranking · recommendation · evaluation</sub>
 
 </td>
 </tr>
@@ -68,16 +62,12 @@ Retrieval, ranking, relevance, recommendation quality, and evaluation systems th
 
 Trajectory curation, reward signals, preferences, evaluation, and iteration for systematically improving agent capability.
 
-<sub>trajectory curation · reward signals · preference optimization · agent evaluation</sub>
-
 </td>
 <td width="50%" valign="top">
 
 ### Harness Engineering
 
 The infrastructure around agents: runtimes, tools, state, checkpoints, verification, recovery, and repeatable evaluation.
-
-<sub>agent runtimes · tool orchestration · recovery · verification</sub>
 
 </td>
 </tr>
@@ -197,8 +187,6 @@ End-to-end system delivery
 **Smart is not enough.** A good prototype proves an idea. A good system keeps working after the demo ends.
 
 ### Research deeply. Build carefully. Stay curious.
-
-<sub>Algorithms that survive production are more interesting than algorithms that only survive a notebook.</sub>
 
 </td>
 </tr>
