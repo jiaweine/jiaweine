@@ -4,7 +4,7 @@
 
 # Jiawei Wang
 
-**Statistics major** · Data Science · Applied Mathematics · Artificial Intelligence
+**Statistics** · Data Science · Applied Mathematics · Artificial Intelligence
 
 **Algorithm Research · AI Systems · Full-Stack Engineering**
 
@@ -16,13 +16,13 @@ I like turning statistical thinking into models, agents, and systems that remain
 </tr>
 </table>
 
----
+<br/>
 
 ## About Me
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="100%" valign="top">
 
 ### Statistical roots, engineering instincts
 
@@ -33,66 +33,10 @@ I enjoy questions about uncertainty, structure, optimization, representation, an
 > **My favorite kind of bug is the one that becomes a research question.**
 
 </td>
-<td width="42%" valign="top">
-
-### Current technical focus
-
-**Multimodal AI**  
-Representation, reasoning, heterogeneous data
-
-**Search, Ads & Recommendation**  
-Retrieval, ranking, relevance, evaluation
-
-**Agent Post-Training**  
-Trajectories, rewards, preferences, iteration
-
-**Harness Engineering**  
-Runtime, tools, recovery, verification
-
-</td>
 </tr>
 </table>
 
----
-
-## Background & Interests
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Statistics
-
-My academic foundation: inference, uncertainty, experimental thinking, and models that respect what the data can actually support.
-
-</td>
-<td width="50%" valign="top">
-
-### Applied Mathematics
-
-I enjoy optimization, structure, numerical reasoning, and the mathematical ideas that make learning systems work.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Data Science
-
-I care about data-centric workflows, experimentation, evaluation, and extracting useful signal from messy reality.
-
-</td>
-<td width="50%" valign="top">
-
-### Artificial Intelligence
-
-My main playground for multimodal learning, search and recommendation, agents, post-training, and reliable AI systems.
-
-</td>
-</tr>
-</table>
-
----
+<br/>
 
 ## Current Focus
 
@@ -104,7 +48,7 @@ My main playground for multimodal learning, search and recommendation, agents, p
 
 Models that learn from heterogeneous signals and reason across modalities rather than treating each input in isolation.
 
-`representation learning` · `multimodal reasoning` · `fusion` · `multimodal agents`
+<sub>representation learning · multimodal reasoning · fusion · multimodal agents</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -113,7 +57,7 @@ Models that learn from heterogeneous signals and reason across modalities rather
 
 Retrieval, ranking, relevance, recommendation quality, and evaluation systems that connect model improvements to real user experience.
 
-`retrieval` · `ranking` · `recommendation` · `evaluation`
+<sub>retrieval · ranking · recommendation · evaluation</sub>
 
 </td>
 </tr>
@@ -124,7 +68,7 @@ Retrieval, ranking, relevance, recommendation quality, and evaluation systems th
 
 Trajectory curation, reward signals, preferences, evaluation, and iteration for systematically improving agent capability.
 
-`trajectory curation` · `reward signals` · `preference optimization` · `agent evaluation`
+<sub>trajectory curation · reward signals · preference optimization · agent evaluation</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -133,13 +77,13 @@ Trajectory curation, reward signals, preferences, evaluation, and iteration for 
 
 The infrastructure around agents: runtimes, tools, state, checkpoints, verification, recovery, and repeatable evaluation.
 
-`agent runtimes` · `tool orchestration` · `recovery` · `verification`
+<sub>agent runtimes · tool orchestration · recovery · verification</sub>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
 ## Selected Work
 
@@ -153,7 +97,7 @@ The infrastructure around agents: runtimes, tools, state, checkpoints, verificat
 
 Published in **Information Sciences, 2026** and evaluated across **25 benchmark datasets**.
 
-`Multimodal Learning` · `KAN` · `Mixture of Experts` · `PyTorch`
+<sub>Multimodal Learning · KAN · Mixture of Experts · PyTorch</sub>
 
 [Repository](https://github.com/jiaweine/KAMEL) · [Paper](https://doi.org/10.1016/j.ins.2026.123925)
 
@@ -166,7 +110,7 @@ An autonomous workbench for **search and recommendation** diagnosis, experimenta
 
 Built around evidence, controlled changes, recovery, and repeatable evaluation.
 
-`Search` · `Recommendation` · `Agents` · `Harness Engineering`
+<sub>Search · Recommendation · Agents · Harness Engineering</sub>
 
 [Repository](https://github.com/jiaweine/recsys-harness)
 
@@ -179,7 +123,7 @@ Built around evidence, controlled changes, recovery, and repeatable evaluation.
 
 A multimodal AI workbench for **business decisions and task execution** with persistent context, visible evidence, human confirmation, and auditable outcomes.
 
-`Multimodal AI` · `Agents` · `Tool Use` · `Full-Stack Engineering`
+<sub>Multimodal AI · Agents · Tool Use · Full-Stack Engineering</sub>
 
 [Repository](https://github.com/jiaweine/EcomEvo-Harness)
 
@@ -190,7 +134,7 @@ A multimodal AI workbench for **business decisions and task execution** with per
 
 A controllable and verifiable AI execution workbench for **game development**, designed for multimodal evidence, long-running tasks, recovery, and reliable delivery.
 
-`AI Agents` · `Multimodal` · `Verification` · `Harness Engineering`
+<sub>AI Agents · Multimodal · Verification · Harness Engineering</sub>
 
 [Repository](https://github.com/jiaweine/lingjing-game-studio)
 
@@ -198,7 +142,7 @@ A controllable and verifiable AI execution workbench for **game development**, d
 </tr>
 </table>
 
----
+<br/>
 
 ## Full-Stack Engineering
 
@@ -240,7 +184,7 @@ End-to-end system delivery
 </tr>
 </table>
 
----
+<br/>
 
 ## Engineering Principles
 
