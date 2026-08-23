@@ -1,193 +1,96 @@
-<table>
-<tr>
-<td align="center" width="100%">
+<div align=center>
 
 # Jiawei Wang
 
-**Statistics** · Data Science · Applied Mathematics · Artificial Intelligence
+### Algorithm Research · Statistics · Multimodal AI
 
-**Algorithm Research · AI Systems · Full-Stack Engineering**
+I study how models learn, rank, reason, and fail.
 
-I like turning statistical thinking into models, agents, and systems that remain useful outside the notebook.
+Research comes first. Engineering shows up when an idea needs a proper experiment, a reliable evaluation loop, or a way out of the notebook.
 
-[GitHub](https://github.com/jiaweine) · [Information Sciences 2026](https://doi.org/10.1016/j.ins.2026.123925)
+[Paper](https://doi.org/10.1016/j.ins.2026.123925) · [KAMEL](https://github.com/jiaweine/KAMEL) · [GitHub](https://github.com/jiaweine)
 
-</td>
-</tr>
-</table>
+</div>
 
-<br/>
+---
 
-## About Me
+## 🧠 Research Map
 
-<table>
-<tr>
-<td width="100%" valign="top">
+| Area | Questions I like |
+|---|---|
+| **Multimodal Learning** | How should heterogeneous signals interact, specialize, and share information? |
+| **Search & Recommendation** | How do retrieval, ranking, relevance, and evaluation line up with real utility? |
+| **Agent Learning** | How can trajectories, feedback, rewards, and verification improve behavior after pretraining? |
+| **Reliable AI Experiments** | How do we make model behavior measurable, repeatable, debuggable, and hard to fool ourselves about? |
 
-### Statistical roots, engineering instincts
+---
 
-I enjoy questions about uncertainty, structure, optimization, representation, and decision-making. I also care about what happens after a model leaves the experiment: evaluation, runtime behavior, interfaces, tooling, recovery, and deployment.
-
-> **My favorite kind of bug is the one that becomes a research question.**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Current Focus
+## 🔬 Selected Work
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### Multimodal AI
-
-Models that learn from heterogeneous signals and reason across modalities rather than treating each input in isolation.
-
-</td>
-<td width="50%" valign="top">
-
-### Search, Ads & Recommendation
-
-Retrieval, ranking, relevance, recommendation quality, and evaluation systems that connect model improvements to real user experience.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Agent Post-Training
-
-Trajectory curation, reward signals, preferences, evaluation, and iteration for systematically improving agent capability.
-
-</td>
-<td width="50%" valign="top">
-
-### Harness Engineering
-
-The infrastructure around agents: runtimes, tools, state, checkpoints, verification, recovery, and repeatable evaluation.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
+<td width=50% valign=top>
 
 ### [KAMEL](https://github.com/jiaweine/KAMEL)
 
-**KAN-Augmented Multimodal Expert Learning** for heterogeneous and imbalanced tabular data.
+**KAN-Augmented Multimodal Expert Learning**
 
-Published in **Information Sciences, 2026** and evaluated across **25 benchmark datasets**.
+Multimodal expert learning for heterogeneous and imbalanced tabular data. Published in **Information Sciences, 2026**, with evaluation across **25 benchmark datasets**.
 
-<sub>Multimodal Learning · KAN · Mixture of Experts · PyTorch</sub>
-
-[Repository](https://github.com/jiaweine/KAMEL) · [Paper](https://doi.org/10.1016/j.ins.2026.123925)
+`Multimodal Learning` `KAN` `Mixture of Experts` `PyTorch`
 
 </td>
-<td width="50%" valign="top">
+<td width=50% valign=top>
 
 ### [Recsys Harness](https://github.com/jiaweine/recsys-harness)
 
-An autonomous workbench for **search and recommendation** diagnosis, experimentation, evaluation, execution, verification, and learning.
+A research workbench for search and recommendation experiments, from diagnosis and controlled changes to evaluation and verification.
 
-Built around evidence, controlled changes, recovery, and repeatable evaluation.
-
-<sub>Search · Recommendation · Agents · Harness Engineering</sub>
-
-[Repository](https://github.com/jiaweine/recsys-harness)
+`Retrieval` `Ranking` `Recommendation` `Agents`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width=50% valign=top>
 
 ### [EcomEvo](https://github.com/jiaweine/EcomEvo-Harness)
 
-A multimodal AI workbench for **business decisions and task execution** with persistent context, visible evidence, human confirmation, and auditable outcomes.
+A multimodal AI workbench for evidence-aware business reasoning and task execution with persistent context and auditable outcomes.
 
-<sub>Multimodal AI · Agents · Tool Use · Full-Stack Engineering</sub>
-
-[Repository](https://github.com/jiaweine/EcomEvo-Harness)
+`Multimodal AI` `Tool Use` `Agents` `Evaluation`
 
 </td>
-<td width="50%" valign="top">
+<td width=50% valign=top>
 
 ### [Lingjing · 灵境](https://github.com/jiaweine/lingjing-game-studio)
 
-A controllable and verifiable AI execution workbench for **game development**, designed for multimodal evidence, long-running tasks, recovery, and reliable delivery.
+A controllable AI execution workbench for long-running game-development tasks, with visible evidence, recovery, and verification built in.
 
-<sub>AI Agents · Multimodal · Verification · Harness Engineering</sub>
-
-[Repository](https://github.com/jiaweine/lingjing-game-studio)
+`AI Agents` `Game AI` `Verification` `Long-running Tasks`
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## Full-Stack Engineering
+## 🛠 Research Infrastructure
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**Python · PyTorch · FastAPI · React · TypeScript · Docker · Linux · Git**
 
-### Model & ML
+I build end to end when the research needs it. The product layer is a microscope, not the research question.
 
-**Python · PyTorch**
+```text
+question → hypothesis → experiment → evidence → iteration
+research_first = true
+full_stack = supporting_role
+curiosity = unbounded
+```
 
-Multimodal pipelines  
-Training and evaluation  
-Data and experiment tooling
+---
 
-</td>
-<td width="33%" valign="top">
+## 🧪 Working Style
 
-### Backend & Agent Systems
+**Prefer measurable over impressive. Reproducible over lucky. Simple baselines before fancy machinery.**
 
-**FastAPI · APIs**
-
-Data systems  
-Agent runtimes  
-Tool orchestration and state
-
-</td>
-<td width="33%" valign="top">
-
-### Frontend & Infrastructure
-
-**React · TypeScript**
-
-Docker · Linux · Git  
-Testing and deployment  
-End-to-end system delivery
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Engineering Principles
-
-<table>
-<tr>
-<td align="center" width="100%">
-
-### Testable · Traceable · Recoverable · Measurable · Useful
-
-**Smart is not enough.** A good prototype proves an idea. A good system keeps working after the demo ends.
-
-### Research deeply. Build carefully. Stay curious.
-
-</td>
-</tr>
-</table>
+I enjoy the point where a weird model behavior stops being an annoyance and starts becoming an experiment.
