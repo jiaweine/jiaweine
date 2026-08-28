@@ -4,6 +4,8 @@
 
 ### Algorithm Research · Statistics · Multimodal AI
 
+**Academic Master's Student (Year 2) · School of Statistics and Mathematics · Zhongnan University of Economics and Law (ZUEL)**
+
 I study how models learn, rank, reason, and fail.
 
 Research comes first. Engineering shows up when an idea needs a proper experiment, a reliable evaluation loop, or a way out of the notebook.
