@@ -73,26 +73,3 @@ A controllable AI execution workbench for long-running game-development tasks, w
 </td>
 </tr>
 </table>
-
----
-
-## 🛠 Research Infrastructure
-
-**Python · PyTorch · FastAPI · React · TypeScript · Docker · Linux · Git**
-
-I build end to end when the research needs it. The product layer is a microscope, not the research question.
-
-```text
-question → hypothesis → experiment → evidence → iteration
-research_first = true
-full_stack = supporting_role
-curiosity = unbounded
-```
-
----
-
-## 🧪 Working Style
-
-**Prefer measurable over impressive. Reproducible over lucky. Simple baselines before fancy machinery.**
-
-I enjoy the point where a weird model behavior stops being an annoyance and starts becoming an experiment.
