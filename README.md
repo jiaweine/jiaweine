@@ -4,7 +4,7 @@
 
 ### Algorithm Research · Statistics · Multimodal AI
 
-**Academic Master's Student (Year 2) · School of Statistics and Mathematics · Zhongnan University of Economics and Law (ZUEL)**
+**Academic Master's Student (Year 2)**
 
 I study how models learn, rank, reason, and fail.
 
