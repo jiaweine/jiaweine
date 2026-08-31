@@ -4,7 +4,9 @@
 
 ### Algorithm Research · Statistics · Multimodal AI
 
-**Academic Master's Student (Year 2)**
+**Academic Master's Student (Year 3)**
+
+**Currently looking for opportunities in:** Agent Algorithms · LLM Application Algorithms · Agent Harness
 
 I study how models learn, rank, reason, and fail.
 
