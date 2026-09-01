@@ -2,17 +2,13 @@
 
 # Jiawei Wang
 
-### Statistics × Multimodal AI × Search × Reliable Agent Systems
+### Statistics · Multimodal AI · Search & Recommendation · Reliable Agent Systems
 
 **Academic Master's Student · Algorithm Research**
 
-<a href="https://jiaweine.github.io"><strong>◉ OPEN INTERACTIVE DIGITAL-HUMAN PORTFOLIO ↗</strong></a>
+I work on AI systems that can be **measured, evaluated, recovered, and trusted beyond the first demo**.
 
-<sub>Research first. Engineering when an idea needs a proper experiment, a reliable evaluation loop, or a system that survives the second run.</sub>
-
-<br><br>
-
-[**Portfolio**](https://jiaweine.github.io) · [**2026 Paper**](https://doi.org/10.1016/j.ins.2026.123925) · [**KAMEL**](https://github.com/jiaweine/KAMEL) · [**GitHub**](https://github.com/jiaweine)
+[**Interactive Portfolio ↗**](https://jiaweine.github.io) · [**2026 Paper ↗**](https://doi.org/10.1016/j.ins.2026.123925) · [**Repositories ↗**](https://github.com/jiaweine?tab=repositories)
 
 </div>
 
@@ -20,20 +16,22 @@
 
 <table>
 <tr>
-<td width="25%" align="center"><b>STATISTICS</b><br><sub>inference · evaluation</sub></td>
-<td width="25%" align="center"><b>MULTIMODAL AI</b><br><sub>fusion · representation</sub></td>
-<td width="25%" align="center"><b>SEARCH & RECSYS</b><br><sub>retrieval · ranking</sub></td>
-<td width="25%" align="center"><b>AGENT SYSTEMS</b><br><sub>runtime · verification</sub></td>
+<td width="25%" align="center"><b>STATISTICS</b><br><sub>inference · uncertainty · evaluation</sub></td>
+<td width="25%" align="center"><b>MULTIMODAL AI</b><br><sub>fusion · representation · experts</sub></td>
+<td width="25%" align="center"><b>SEARCH & RECSYS</b><br><sub>retrieval · ranking · experiments</sub></td>
+<td width="25%" align="center"><b>AGENT SYSTEMS</b><br><sub>runtime · verification · recovery</sub></td>
 </tr>
 </table>
 
-## Research compass
+## Research identity
 
-I study how models **learn, rank, reason, and fail**. My academic foundation is statistics, with current work extending into multimodal learning, retrieval and recommendation, post-training, agent behavior, and reliable AI experimentation.
+My academic foundation is **Statistics**. I care about what a model or system can demonstrate under measurement: uncertainty, reproducibility, failure modes, evidence, and evaluation quality.
+
+That foundation extends into **Data Science**, **Applied Mathematics**, and **Artificial Intelligence**—especially multimodal learning, retrieval and recommendation, post-training, and agentic systems that need to remain useful after the first successful run.
 
 ```text
-MODEL  ─────▶  RUNTIME  ─────▶  INTERFACE  ─────▶  DELIVERY
-learn          execute          expose evidence     survive reruns
+      MODEL              RUNTIME             INTERFACE            DELIVERY
+  learn / evaluate   →   execute / recover   →   expose evidence   →   survive reruns
 ```
 
 > **Build for the second run.** A prototype proves an idea once; a good system remains measurable, recoverable, and useful after the demo ends.
@@ -85,15 +83,38 @@ A controllable AI execution workbench for long-running game-development tasks wi
 </tr>
 </table>
 
-## Current direction
+## Current focus
 
-**Exploring opportunities in:** Agent Algorithms · LLM Application Algorithms · Agent Harness
+<table>
+<tr>
+<td width="33%" valign="top">
+<b>01 · LEARNING</b><br><br>
+Multimodal representation, mixture-of-experts, post-training, robust evaluation.
+</td>
+<td width="33%" valign="top">
+<b>02 · DECISION</b><br><br>
+Retrieval, ranking, recommendation, evidence-aware reasoning and experimentation.
+</td>
+<td width="33%" valign="top">
+<b>03 · EXECUTION</b><br><br>
+Agent runtimes, tool orchestration, verification, state, recovery and observability.
+</td>
+</tr>
+</table>
 
-I am especially interested in systems where model quality is not judged by a single demo, but by **measurement, evidence, repeatability, recovery, and real execution**.
+**Exploring opportunities in:** `Agent Algorithms` · `LLM Application Algorithms` · `Agent Harness`
+
+## Engineering stack
+
+`Python` · `PyTorch` · `FastAPI` · `TypeScript` · `React` · `Docker` · `Linux` · `Git`
+
+I prefer systems with visible state, explicit evaluation, reproducible experiments, and failure recovery built into the runtime—not added after the demo.
+
+---
 
 <div align="center">
 
-### [Enter the interactive portfolio →](https://jiaweine.github.io)
+### [Open the interactive portfolio →](https://jiaweine.github.io)
 
 <sub>Digital-human homepage · research · selected systems · engineering principles</sub>
 
