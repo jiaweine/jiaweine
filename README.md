@@ -4,19 +4,15 @@
 
 ### Statistics × Multimodal AI × Search × Reliable Agent Systems
 
-Research-oriented builder working across statistical reasoning, multimodal learning, retrieval and agent infrastructure.
+**Academic Master's Student · Algorithm Research**
 
-<a href="https://jiaweine.github.io"><strong>◉ ENTER INTERACTIVE DIGITAL-HUMAN PORTFOLIO ↗</strong></a>
+<a href="https://jiaweine.github.io"><strong>◉ OPEN INTERACTIVE DIGITAL-HUMAN PORTFOLIO ↗</strong></a>
+
+<sub>Research first. Engineering when an idea needs a proper experiment, a reliable evaluation loop, or a system that survives the second run.</sub>
 
 <br><br>
 
-<a href="https://jiaweine.github.io">
-  <img src="https://raw.githubusercontent.com/jiaweine/jiaweine.github.io/main/assets/digital-human.webp" width="220" alt="Jiawei Wang digital human portrait" />
-</a>
-
-<br>
-
-[**Portfolio**](https://jiaweine.github.io) · [**2026 Paper**](https://doi.org/10.1016/j.ins.2026.123925) · [**KAMEL**](https://github.com/jiaweine/KAMEL) · [**Repositories**](https://github.com/jiaweine?tab=repositories)
+[**Portfolio**](https://jiaweine.github.io) · [**2026 Paper**](https://doi.org/10.1016/j.ins.2026.123925) · [**KAMEL**](https://github.com/jiaweine/KAMEL) · [**GitHub**](https://github.com/jiaweine)
 
 </div>
 
@@ -33,9 +29,7 @@ Research-oriented builder working across statistical reasoning, multimodal learn
 
 ## Research compass
 
-My academic foundation is **Statistics**. I care about what a model or system can demonstrate under measurement: uncertainty, evaluation, reproducibility, failure modes, and evidence.
-
-That foundation extends into **Data Science**, **Applied Mathematics**, and **Artificial Intelligence**—especially multimodal learning, retrieval and recommendation, post-training, and agentic systems that need to remain useful after the first successful demo.
+I study how models **learn, rank, reason, and fail**. My academic foundation is statistics, with current work extending into multimodal learning, retrieval and recommendation, post-training, agent behavior, and reliable AI experimentation.
 
 ```text
 MODEL  ─────▶  RUNTIME  ─────▶  INTERFACE  ─────▶  DELIVERY
@@ -91,15 +85,15 @@ A controllable AI execution workbench for long-running game-development tasks wi
 </tr>
 </table>
 
-## Current focus
+## Current direction
 
-`multimodal representation` · `evaluation` · `retrieval & ranking` · `agent runtime` · `verification` · `recoverable execution`
+**Exploring opportunities in:** Agent Algorithms · LLM Application Algorithms · Agent Harness
 
-I am especially interested in systems where model quality is judged by **measurement, evidence, repeatability, recovery, and real execution**, rather than by a single polished demo.
+I am especially interested in systems where model quality is not judged by a single demo, but by **measurement, evidence, repeatability, recovery, and real execution**.
 
 <div align="center">
 
-### [Open the interactive portfolio →](https://jiaweine.github.io)
+### [Enter the interactive portfolio →](https://jiaweine.github.io)
 
 <sub>Digital-human homepage · research · selected systems · engineering principles</sub>
 
