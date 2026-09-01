@@ -9,7 +9,7 @@
 <p>I build AI systems that can be <strong>measured, evaluated, recovered, and trusted beyond the first demo</strong>.</p>
 
 <p>
-<a href="https://jiaweine.github.io"><strong>Interactive Portfolio</strong></a>
+<a href="https://jiaweine.github.io"><strong>Personal Homepage</strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://doi.org/10.1016/j.ins.2026.123925"><strong>2026 Paper</strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -177,7 +177,7 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 
 <div align="center">
 
-<h3><a href="https://jiaweine.github.io">Interactive Portfolio</a></h3>
-<p><sub>DIGITAL HUMAN · RESEARCH · SELECTED SYSTEMS · ENGINEERING PRINCIPLES</sub></p>
+<h3><a href="https://jiaweine.github.io">Personal Homepage</a></h3>
+<p><sub>DIGITAL HUMAN · RESEARCH · PROJECTS · ENGINEERING SYSTEMS</sub></p>
 
 </div>
