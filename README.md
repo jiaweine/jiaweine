@@ -1,77 +1,106 @@
-<div align=center>
+<div align="center">
 
 # Jiawei Wang
 
-### Algorithm Research · Statistics · Multimodal AI
+### Statistics × Multimodal AI × Search × Reliable Agent Systems
 
-**Academic Master's Student (Year 3)**
+**Academic Master's Student · Algorithm Research**
 
-**Currently looking for opportunities in:** Agent Algorithms · LLM Application Algorithms · Agent Harness
+<a href="https://jiaweine.github.io"><strong>◉ OPEN INTERACTIVE DIGITAL-HUMAN PORTFOLIO ↗</strong></a>
 
-I study how models learn, rank, reason, and fail.
+<sub>Research first. Engineering when an idea needs a proper experiment, a reliable evaluation loop, or a system that survives the second run.</sub>
 
-Research comes first. Engineering shows up when an idea needs a proper experiment, a reliable evaluation loop, or a way out of the notebook.
+<br><br>
 
-[Paper](https://doi.org/10.1016/j.ins.2026.123925) · [KAMEL](https://github.com/jiaweine/KAMEL) · [GitHub](https://github.com/jiaweine)
+<a href="https://jiaweine.github.io">
+  <img src="https://raw.githubusercontent.com/jiaweine/jiaweine.github.io/main/assets/digital-human.webp" width="220" alt="Jiawei Wang digital human portrait" />
+</a>
+
+<br>
+
+[**Portfolio**](https://jiaweine.github.io) · [**2026 Paper**](https://doi.org/10.1016/j.ins.2026.123925) · [**KAMEL**](https://github.com/jiaweine/KAMEL) · [**GitHub**](https://github.com/jiaweine)
 
 </div>
 
 ---
 
-## 🧠 Research Map
+<table>
+<tr>
+<td width="25%" align="center"><b>STATISTICS</b><br><sub>inference · evaluation</sub></td>
+<td width="25%" align="center"><b>MULTIMODAL AI</b><br><sub>fusion · representation</sub></td>
+<td width="25%" align="center"><b>SEARCH & RECSYS</b><br><sub>retrieval · ranking</sub></td>
+<td width="25%" align="center"><b>AGENT SYSTEMS</b><br><sub>runtime · verification</sub></td>
+</tr>
+</table>
 
-| Area | Questions I like |
-|---|---|
-| **Multimodal Learning** | How should heterogeneous signals interact, specialize, and share information? |
-| **Search & Recommendation** | How do retrieval, ranking, relevance, and evaluation line up with real utility? |
-| **Agent Learning** | How can trajectories, feedback, rewards, and verification improve behavior after pretraining? |
-| **Reliable AI Experiments** | How do we make model behavior measurable, repeatable, debuggable, and hard to fool ourselves about? |
+## Research compass
 
----
+I study how models **learn, rank, reason, and fail**. My academic foundation is statistics, with current work extending into multimodal learning, retrieval and recommendation, post-training, agent behavior, and reliable AI experimentation.
 
-## 🔬 Selected Work
+```text
+MODEL  ─────▶  RUNTIME  ─────▶  INTERFACE  ─────▶  DELIVERY
+learn          execute          expose evidence     survive reruns
+```
+
+> **Build for the second run.** A prototype proves an idea once; a good system remains measurable, recoverable, and useful after the demo ends.
+
+## Selected work
 
 <table>
 <tr>
-<td width=50% valign=top>
+<td width="50%" valign="top">
 
-### [KAMEL](https://github.com/jiaweine/KAMEL)
+### [KAMEL ↗](https://github.com/jiaweine/KAMEL)
 
 **KAN-Augmented Multimodal Expert Learning**
 
 Multimodal expert learning for heterogeneous and imbalanced tabular data. Published in **Information Sciences, 2026**, with evaluation across **25 benchmark datasets**.
 
-`Multimodal Learning` `KAN` `Mixture of Experts` `PyTorch`
+`PyTorch` `MoE` `KAN` `Multimodal Learning`
 
 </td>
-<td width=50% valign=top>
+<td width="50%" valign="top">
 
-### [Recsys Harness](https://github.com/jiaweine/recsys-harness)
+### [Recsys Harness ↗](https://github.com/jiaweine/recsys-harness)
 
-A research workbench for search and recommendation experiments, from diagnosis and controlled changes to evaluation and verification.
+An evidence-first autonomous workbench for search and recommendation experiments: diagnosis, controlled changes, retrieval/ranking evaluation, and verification.
 
-`Retrieval` `Ranking` `Recommendation` `Agents`
+`Retrieval` `Ranking` `Recommendation` `Evaluation`
 
 </td>
 </tr>
 <tr>
-<td width=50% valign=top>
+<td width="50%" valign="top">
 
-### [EcomEvo](https://github.com/jiaweine/EcomEvo-Harness)
+### [EcomEvo ↗](https://github.com/jiaweine/EcomEvo-Harness)
 
 A multimodal AI workbench for evidence-aware business reasoning and task execution with persistent context and auditable outcomes.
 
-`Multimodal AI` `Tool Use` `Agents` `Evaluation`
+`Multimodal AI` `Tool Use` `Agents` `Human-in-the-loop`
 
 </td>
-<td width=50% valign=top>
+<td width="50%" valign="top">
 
-### [Lingjing · 灵境](https://github.com/jiaweine/lingjing-game-studio)
+### [Lingjing · 灵境 ↗](https://github.com/jiaweine/lingjing-game-studio)
 
-A controllable AI execution workbench for long-running game-development tasks, with visible evidence, recovery, and verification built in.
+A controllable AI execution workbench for long-running game-development tasks with visible evidence, recovery, and verification built in.
 
-`AI Agents` `Game AI` `Verification` `Long-running Tasks`
+`AI Agents` `Verification` `Recovery` `Long-running Tasks`
 
 </td>
 </tr>
 </table>
+
+## Current direction
+
+**Exploring opportunities in:** Agent Algorithms · LLM Application Algorithms · Agent Harness
+
+I am especially interested in systems where model quality is not judged by a single demo, but by **measurement, evidence, repeatability, recovery, and real execution**.
+
+<div align="center">
+
+### [Enter the interactive portfolio →](https://jiaweine.github.io)
+
+<sub>Digital-human homepage · research · selected systems · engineering principles</sub>
+
+</div>
