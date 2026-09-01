@@ -141,8 +141,15 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 
 <div align="center">
 
-<p><sub>EXPLORING</sub></p>
-<p><code>Agent Algorithms</code> · <code>LLM Application Algorithms</code> · <code>Agent Harness</code></p>
+<h3>寻找的岗位</h3>
+<p><sub>TARGET ROLES</sub></p>
+<p>
+<strong>Agent 算法工程师</strong>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<strong>LLM 应用算法工程师</strong>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<strong>Agent Harness / 智能体基础设施工程师</strong>
+</p>
 
 </div>
 
