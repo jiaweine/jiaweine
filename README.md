@@ -156,6 +156,37 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 ---
 
 <div align="center">
+<h2>Professional Boundaries</h2>
+<p><sub>FAIR INTERVIEWS · PRIVACY · ATTRIBUTION</sub></p>
+</div>
+
+<table align="center">
+<tr>
+<td width="33%" align="center" valign="top">
+<strong>NO SPEC WORK</strong><br><br>
+<sub>Interviews should evaluate ability — not extract unpaid production, consulting, product, data, or research deliverables for real-world reuse.</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<strong>PRIVACY BY DEFAULT</strong><br><br>
+<sub>No unnecessary collection, recording, disclosure, scraping, or repurposing of personal information, communications, voice, image, or interview materials.</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<strong>CREDIT THE SOURCE</strong><br><br>
+<sub>Public visibility does not waive attribution or authorship expectations. Do not present substantially derived research material or non-public work as independently originated.</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+These expectations apply equally to recruiters, interviewers, collaborators, employers, and members of my current or former institutions — including students, faculty, staff, labs, and research groups.<br>
+<strong><a href="./PROFESSIONAL_BOUNDARIES.md">Read the full Professional Boundaries, Privacy & Originality statement →</a></strong>
+</p>
+
+---
+
+<div align="center">
 <h2>Engineering Stack</h2>
 <p><sub>FROM MODELING TO DELIVERY</sub></p>
 </div>
