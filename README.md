@@ -157,7 +157,7 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 
 <div align="center">
 <h2>Professional Boundaries</h2>
-<p><sub>FAIR INTERVIEWS · PRIVACY · ATTRIBUTION</sub></p>
+<p><sub>FAIRNESS · AUTONOMY · PRIVACY · ATTRIBUTION</sub></p>
 </div>
 
 <table align="center">
@@ -173,6 +173,21 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 <td width="33%" align="center" valign="top">
 <strong>CREDIT THE SOURCE</strong><br><br>
 <sub>Public visibility does not waive attribution or authorship expectations. Do not present substantially derived research material or non-public work as independently originated.</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
+<strong>NO MORAL COERCION</strong><br><br>
+<sub>Professional participation should rest on informed choice, clear scope, and reciprocal respect — not guilt, loyalty tests, appeals to sacrifice, collective pressure, or attempts to turn goodwill into obligation.</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<strong>NO STRUCTURAL EXPLOITATION</strong><br><br>
+<sub>Do not normalize unpaid labor, chronic overwork, excessive availability, hidden risk transfer, or one-sided demands merely because they are common, expected, or collectively imposed.</sub>
 </td>
 </tr>
 </table>
