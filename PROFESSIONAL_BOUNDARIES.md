@@ -1,6 +1,8 @@
-# Professional Boundaries, Privacy & Originality
+# Personal & Professional Boundaries, Privacy & Originality
 
-This statement describes the professional norms I expect in recruiting, collaboration, research, and communication. It is intended to make expectations explicit and to reduce ambiguity. It is **not legal advice**, does not replace a written agreement, and does not override the license or terms that apply to any specific repository or artifact.
+This statement describes the personal and professional norms I expect in recruiting, collaboration, research, communication, institutional life, and broader social interaction. It is intended to make expectations explicit and to reduce ambiguity. These boundaries are **not limited to companies or employment relationships**: they also apply when institutions, communities, peer groups, family or social networks, online crowds, public opinion, or broader social expectations place pressure on an individual.
+
+This statement is **not legal advice**, does not replace a written agreement, and does not override the license or terms that apply to any specific repository or artifact.
 
 ## 1. Fair interviews — no unpaid production work disguised as evaluation
 
@@ -51,7 +53,29 @@ Where appropriate, cite the relevant public work, acknowledge the source of the 
 
 These expectations apply equally to **everyone**, including recruiters, interviewers, collaborators, employers, external researchers, and members of my current or former institutions — students, faculty, staff, laboratories, and research groups included. Institutional proximity does not remove the obligation to respect privacy, confidentiality, attribution, and authorship.
 
-## 4. Collaboration and confidential discussions
+## 4. Individual autonomy beyond employment — no societal moral coercion or social extraction
+
+These boundaries extend beyond companies, workplaces, interviews, and formal collaboration. An individual's time, labor, money, care, privacy, emotional capacity, availability, conformity, risk-bearing, and personal sacrifice should not be treated as a resource that society, a group, an institution, a family, a community, or public opinion may automatically claim.
+
+I reject **societal moral coercion**: attempts to convert collective preferences or social expectations into personal obligations through guilt, shame, loyalty tests, reputational pressure, appeals to sacrifice, or claims that refusal is selfish, disloyal, ungrateful, immoral, or harmful simply because the individual does not comply.
+
+In particular, phrases or ideas such as the following should not by themselves erase an individual's right to evaluate, negotiate, limit, or refuse a demand:
+
+- “everyone does it” or “this is just how society works”;
+- “you owe it to the group / institution / family / community”;
+- “think of the greater good” when the burden is disproportionately placed on particular individuals;
+- appeals to gratitude, tradition, loyalty, status, seniority, collective reputation, or social harmony as substitutes for consent;
+- expectations that a person must surrender privacy, time, money, labor, care, emotional availability, personal plans, or reasonable self-interest in order to prove virtue or belonging.
+
+I also reject **social extraction of the individual**: systems or norms that normalize transferring disproportionate cost, labor, risk, responsibility, care work, emotional burden, or loss of autonomy onto individuals while treating their refusal as a moral failure.
+
+A legitimate collective need does not automatically justify unlimited demands on a particular person. Where collective action genuinely requires individual contribution, the burden should be transparent, proportionate, fairly distributed, subject to reasonable limits, and accompanied by meaningful reciprocity, due process where relevant, and a realistic ability to question or refuse non-mandatory demands.
+
+This principle does **not** deny lawful civic duties, voluntarily accepted responsibilities, contractual commitments, emergency obligations recognized by law, or ordinary mutual responsibilities in consensual relationships. The distinction is between legitimate, proportionate obligations and the use of diffuse social pressure to manufacture open-ended personal debt.
+
+In short: **the individual is a participant in society, not a resource owned by society**. Collective norms should leave room for personal boundaries, dissent, privacy, self-direction, and the right not to be morally conscripted into disproportionate sacrifice.
+
+## 5. Collaboration and confidential discussions
 
 Before discussing unpublished work in detail, I may choose to:
 
@@ -63,9 +87,9 @@ Before discussing unpublished work in detail, I may choose to:
 
 A request for confidentiality should not be interpreted as hostility to collaboration. It is a way to make expectations clear before information becomes difficult to retract.
 
-## 5. Handling concerns
+## 6. Handling concerns
 
-If a question arises about attribution, reuse, privacy, interview scope, or authorship, I prefer a factual and documented resolution. Relevant records may include commit history, repository timestamps, email/message history, document versions, meeting notes, and publication/submission records.
+If a question arises about attribution, reuse, privacy, interview scope, authorship, coercive pressure, or disproportionate demands, I prefer a factual and documented resolution. Relevant records may include commit history, repository timestamps, email/message history, document versions, meeting notes, and publication/submission records.
 
 When possible, concerns should first be clarified directly. If a serious issue remains unresolved, appropriate formal channels may include the relevant employer, institution, research-integrity office, conference, journal, repository host, or other responsible body, depending on the context.
 
@@ -73,4 +97,4 @@ I prefer evidence-based resolution over public speculation or unsupported accusa
 
 ---
 
-**Short version:** fair evaluation is welcome; unpaid production work disguised as an interview is not. Necessary professional data is fine; unnecessary collection, recording, disclosure, or repurposing is not. Building on public work is welcome when the applicable license and attribution norms are respected; presenting another person's work or substantially derived research material as one's own is not.
+**Short version:** fair evaluation is welcome; unpaid production work disguised as an interview is not. Necessary professional data is fine; unnecessary collection, recording, disclosure, or repurposing is not. Building on public work is welcome when the applicable license and attribution norms are respected; presenting another person's work or substantially derived research material as one's own is not. These boundaries also extend beyond employment: social norms, institutions, communities, families, peer groups, online crowds, or public opinion should not turn an individual's labor, time, money, privacy, care, conformity, or sacrifice into an open-ended obligation through guilt, shame, collective pressure, or one-sided extraction.
