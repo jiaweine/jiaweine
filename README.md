@@ -186,6 +186,13 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 <br>
 
 <p align="center">
+<strong>THESIS & JOB-SEARCH ORDER</strong><br>
+<sub>My current plan is to first secure a role I genuinely want, then use my available time afterward to complete my graduation thesis. I reject collective pressure — from institutions, groups, peers, or broader social expectations — to impose “finish the thesis first, then look for work” as the required order. This is not a request for softer or less frequent reminders; it is a clear boundary against collective pressure over the sequencing of my thesis and career decisions.</sub>
+</p>
+
+<br>
+
+<p align="center">
 <strong>These boundaries are not limited to companies or employment.</strong> They apply wherever professional, institutional, collective, family, community, or social pressure is directed at an individual.<br><br>
 <strong><a href="./PROFESSIONAL_BOUNDARIES.md">Full boundaries, privacy & originality statement →</a></strong>
 </p>
