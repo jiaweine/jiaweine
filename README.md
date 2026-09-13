@@ -157,52 +157,28 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 
 <div align="center">
 <h2>Personal & Professional Boundaries</h2>
-<p><sub>FAIRNESS · AUTONOMY · PRIVACY · ATTRIBUTION · NON-COERCION</sub></p>
+<p><sub>AUTONOMY · FAIRNESS · PRIVACY · ATTRIBUTION</sub></p>
 </div>
 
 <table align="center">
 <tr>
-<td width="33%" align="center" valign="top">
-<strong>NO SPEC WORK</strong><br><br>
-<sub>Interviews should evaluate ability — not extract unpaid production, consulting, product, data, or research deliverables for real-world reuse.</sub>
-</td>
-<td width="33%" align="center" valign="top">
-<strong>PRIVACY BY DEFAULT</strong><br><br>
-<sub>No unnecessary collection, recording, disclosure, scraping, or repurposing of personal information, communications, voice, image, or interview materials.</sub>
-</td>
-<td width="33%" align="center" valign="top">
-<strong>CREDIT THE SOURCE</strong><br><br>
-<sub>Public visibility does not waive attribution or authorship expectations. Do not present substantially derived research material or non-public work as independently originated.</sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-<table align="center">
-<tr>
 <td width="50%" align="center" valign="top">
-<strong>NO MORAL COERCION</strong><br><br>
-<sub>Participation in work, institutions, communities, and social life should rest on informed choice, clear boundaries, and reciprocal respect — not guilt, loyalty tests, appeals to sacrifice, collective pressure, or attempts to turn goodwill into obligation.</sub>
+<strong>NO UNPAID EXTRACTION</strong><br><br>
+<sub>Interviews and collaborations should evaluate or create value fairly — not extract substantial unpaid production, consulting, product, data, or research work for reuse.</sub>
 </td>
 <td width="50%" align="center" valign="top">
-<strong>NO STRUCTURAL EXPLOITATION</strong><br><br>
-<sub>Do not normalize one-sided extraction of time, labor, money, care, privacy, availability, or risk merely because it is common, traditional, socially expected, or collectively imposed.</sub>
+<strong>PRIVACY & ATTRIBUTION</strong><br><br>
+<sub>Do not unnecessarily collect, record, disclose, repurpose, or claim authorship over personal information, communications, research, or substantially derived work.</sub>
 </td>
 </tr>
-</table>
-
-<br>
-
-<table align="center">
 <tr>
 <td width="50%" align="center" valign="top">
 <strong>NO SOCIETAL MORAL COERCION</strong><br><br>
-<sub>No individual should be treated as owing labor, money, privacy, conformity, emotional availability, sacrifice, or self-erasure to “society,” a group, an institution, a family, a community, or public opinion merely because the demand is framed as duty, virtue, gratitude, tradition, the greater good, or what everyone is expected to do.</sub>
+<sub>Society, institutions, communities, families, groups, or public opinion should not turn duty, gratitude, tradition, loyalty, sacrifice, or “the greater good” into open-ended personal obligations through guilt, shame, or collective pressure.</sub>
 </td>
 <td width="50%" align="center" valign="top">
-<strong>NO SOCIAL EXTRACTION OF THE INDIVIDUAL</strong><br><br>
-<sub>Collective norms should not turn a person's time, labor, care, resources, privacy, risk-bearing, or obedience into a default public resource. Meaningful consent, proportionality, reciprocity, and a realistic right to refuse matter.</sub>
+<strong>NO SOCIAL EXPLOITATION</strong><br><br>
+<sub>An individual's time, labor, money, care, privacy, availability, risk, or obedience is not a default social resource. Legitimate obligations should be proportionate; non-mandatory demands require meaningful choice and a realistic right to refuse.</sub>
 </td>
 </tr>
 </table>
@@ -210,10 +186,8 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 <br>
 
 <p align="center">
-<strong>These boundaries are not limited to companies, employers, or professional relationships.</strong><br>
-They also apply to institutions, communities, peer groups, family and social networks, online crowds, public opinion, and broader social expectations whenever collective pressure is directed at an individual.<br><br>
-These expectations apply equally to recruiters, interviewers, collaborators, employers, and members of my current or former institutions — including students, faculty, staff, labs, and research groups.<br>
-<strong><a href="./PROFESSIONAL_BOUNDARIES.md">Read the full Personal & Professional Boundaries, Privacy & Originality statement →</a></strong>
+<strong>These boundaries are not limited to companies or employment.</strong> They apply wherever professional, institutional, collective, family, community, or social pressure is directed at an individual.<br><br>
+<strong><a href="./PROFESSIONAL_BOUNDARIES.md">Full boundaries, privacy & originality statement →</a></strong>
 </p>
 
 ---
