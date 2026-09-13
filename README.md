@@ -156,8 +156,8 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 ---
 
 <div align="center">
-<h2>Professional Boundaries</h2>
-<p><sub>FAIRNESS · AUTONOMY · PRIVACY · ATTRIBUTION</sub></p>
+<h2>Personal & Professional Boundaries</h2>
+<p><sub>FAIRNESS · AUTONOMY · PRIVACY · ATTRIBUTION · NON-COERCION</sub></p>
 </div>
 
 <table align="center">
@@ -183,11 +183,26 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 <tr>
 <td width="50%" align="center" valign="top">
 <strong>NO MORAL COERCION</strong><br><br>
-<sub>Professional participation should rest on informed choice, clear scope, and reciprocal respect — not guilt, loyalty tests, appeals to sacrifice, collective pressure, or attempts to turn goodwill into obligation.</sub>
+<sub>Participation in work, institutions, communities, and social life should rest on informed choice, clear boundaries, and reciprocal respect — not guilt, loyalty tests, appeals to sacrifice, collective pressure, or attempts to turn goodwill into obligation.</sub>
 </td>
 <td width="50%" align="center" valign="top">
 <strong>NO STRUCTURAL EXPLOITATION</strong><br><br>
-<sub>Do not normalize unpaid labor, chronic overwork, excessive availability, hidden risk transfer, or one-sided demands merely because they are common, expected, or collectively imposed.</sub>
+<sub>Do not normalize one-sided extraction of time, labor, money, care, privacy, availability, or risk merely because it is common, traditional, socially expected, or collectively imposed.</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
+<strong>NO SOCIETAL MORAL COERCION</strong><br><br>
+<sub>No individual should be treated as owing labor, money, privacy, conformity, emotional availability, sacrifice, or self-erasure to “society,” a group, an institution, a family, a community, or public opinion merely because the demand is framed as duty, virtue, gratitude, tradition, the greater good, or what everyone is expected to do.</sub>
+</td>
+<td width="50%" align="center" valign="top">
+<strong>NO SOCIAL EXTRACTION OF THE INDIVIDUAL</strong><br><br>
+<sub>Collective norms should not turn a person's time, labor, care, resources, privacy, risk-bearing, or obedience into a default public resource. Meaningful consent, proportionality, reciprocity, and a realistic right to refuse matter.</sub>
 </td>
 </tr>
 </table>
@@ -195,8 +210,10 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 <br>
 
 <p align="center">
+<strong>These boundaries are not limited to companies, employers, or professional relationships.</strong><br>
+They also apply to institutions, communities, peer groups, family and social networks, online crowds, public opinion, and broader social expectations whenever collective pressure is directed at an individual.<br><br>
 These expectations apply equally to recruiters, interviewers, collaborators, employers, and members of my current or former institutions — including students, faculty, staff, labs, and research groups.<br>
-<strong><a href="./PROFESSIONAL_BOUNDARIES.md">Read the full Professional Boundaries, Privacy & Originality statement →</a></strong>
+<strong><a href="./PROFESSIONAL_BOUNDARIES.md">Read the full Personal & Professional Boundaries, Privacy & Originality statement →</a></strong>
 </p>
 
 ---
