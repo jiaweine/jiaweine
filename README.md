@@ -183,13 +183,13 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 </td>
 <td width="50%" align="center" valign="top">
 <strong>NO POST-REJECTION APPROPRIATION</strong><br><br>
-<sub>Rejecting an application or interview does not create permission to appropriate, productize, market, operationalize, or substantially adapt a candidate's proposals, designs, research directions, or interview materials for commercial use or competitive advantage without prior permission, attribution, or agreed terms.</sub>
+<sub>Rejecting an application or interview does not create permission to appropriate, productize, market, operationalize, or substantially adapt a candidate's proposals, designs, research directions, drafts, ideas, or interview materials for commercial use or competitive advantage without prior permission, attribution, or agreed terms.</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
 <strong>NO INDIRECT ACQUISITION OF NON-PUBLIC RESEARCH</strong><br><br>
-<sub>Research directions, drafts, proposals, plans, or other non-public material obtained through a university, laboratory, collaborator, recruiter, interviewer, or other third party should not be treated as permission to use that material for marketing, product development, internal roadmaps, fundraising, or competitive positioning.</sub>
+<sub>Research directions, drafts, proposals, ideas, plans, project experiences, or other non-public material obtained directly or indirectly through friends, classmates, teachers, supervisors, a university or school, a laboratory, collaborators, recruiters, interviewers, or any other third party should not be treated as permission to use or adapt that material for products, marketing, public narratives, internal roadmaps, fundraising, sales, or competitive positioning.</sub>
 </td>
 <td width="50%" align="center" valign="top">
 <strong>PRIVACY & ATTRIBUTION</strong><br><br>
@@ -207,7 +207,7 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 <br>
 
 <p align="center">
-<strong>Candidate evaluation, rejection, institutional access, or third-party disclosure is not a license for commercial appropriation.</strong> I am particularly concerned about scenarios in which a resume or interview is rejected while proposals, research directions, drafts, or plans shared directly or obtained indirectly later appear in marketing, products, internal strategy, or competitive positioning. Because such situations can be difficult to verify from the outside, this statement does not accuse any specific company, institution, or person; it states my boundary that such use requires prior permission, appropriate attribution, and agreed terms.<br><br>
+<strong>Candidate evaluation, rejection, institutional access, personal relationships, or third-party disclosure is not a license for commercial appropriation.</strong> I am concerned about scenarios in which a resume, application, or interview is rejected while proposals, research directions, drafts, ideas, project experiences, or personal experiences that I shared — or that were obtained from friends, teachers, supervisors, my university or school, laboratories, classmates, or other third parties — later appear in products, marketing narratives, public positioning, internal strategy, sales or fundraising materials, or competitive positioning. <strong>I do not consent to using my research direction, drafts, ideas, project history, or personal experiences as another party's product concept, marketing story, credibility signal, case narrative, or competitive asset without my prior permission, appropriate attribution, and agreed terms.</strong> Because such situations can be difficult to verify externally, this statement sets a boundary and does not accuse any specific company, institution, or person.<br><br>
 <strong><a href="./PROFESSIONAL_BOUNDARIES.md">Full boundaries, privacy & originality statement →</a></strong>
 </p>
 
