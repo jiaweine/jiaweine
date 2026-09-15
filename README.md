@@ -196,18 +196,11 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 <sub>Do not unnecessarily collect, record, disclose, repurpose, or claim authorship over personal information, communications, research, or substantially derived work.</sub>
 </td>
 </tr>
-<tr>
-<td width="50%" align="center" valign="top" colspan="2">
-<strong>NO SOCIAL EXPLOITATION</strong><br><br>
-<sub>An individual's time, labor, money, care, privacy, availability, risk, or obedience is not a default social resource. Legitimate obligations should be proportionate; non-mandatory demands require meaningful choice and a realistic right to refuse.</sub>
-</td>
-</tr>
 </table>
 
 <br>
 
 <p align="center">
-<strong>Candidate evaluation, rejection, institutional access, personal relationships, or third-party disclosure is not a license for commercial appropriation.</strong> I am concerned about scenarios in which a resume, application, or interview is rejected while proposals, research directions, drafts, ideas, project experiences, or personal experiences that I shared — or that were obtained from friends, teachers, supervisors, my university or school, laboratories, classmates, or other third parties — later appear in products, marketing narratives, public positioning, internal strategy, sales or fundraising materials, or competitive positioning. <strong>I do not consent to using my research direction, drafts, ideas, project history, or personal experiences as another party's product concept, marketing story, credibility signal, case narrative, or competitive asset without my prior permission, appropriate attribution, and agreed terms.</strong> Because such situations can be difficult to verify externally, this statement sets a boundary and does not accuse any specific company, institution, or person.<br><br>
 <strong><a href="./PROFESSIONAL_BOUNDARIES.md">Full boundaries, privacy & originality statement →</a></strong>
 </p>
 
