@@ -173,6 +173,9 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 <div align="center">
 <h2>Personal & Professional Boundaries</h2>
 <p><sub>AUTONOMY · FAIRNESS · PRIVACY · ATTRIBUTION</sub></p>
+
+<p><strong>WHY THIS STATEMENT EXISTS</strong></p>
+<p><sub>These boundaries are informed by personal experiences during my time at university and in company interview processes where I felt I was treated unfairly, subjected to disproportionate expectations, or placed in situations where important boundaries were insufficiently clear. I make them explicit to reduce ambiguity, set expectations in advance, and protect fair evaluation, privacy, attribution, consent, and individual autonomy. This statement is intended to clarify my boundaries rather than to identify or publicly accuse any particular person, institution, or company.</sub></p>
 </div>
 
 <table align="center">
