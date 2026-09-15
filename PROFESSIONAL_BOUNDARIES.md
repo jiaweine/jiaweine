@@ -2,6 +2,12 @@
 
 This statement describes the personal and professional norms I expect in recruiting, collaboration, research, communication, institutional life, and broader social interaction. It is intended to make expectations explicit and to reduce ambiguity. These boundaries are **not limited to companies or employment relationships**: they also apply when institutions, communities, peer groups, family or social networks, online crowds, public opinion, or broader social expectations place pressure on an individual.
 
+## Why this statement exists
+
+**These boundaries are not abstract. I am making them explicit because, during my time at university and in company interview processes, I have personally encountered treatment that I considered unfair, including disproportionate expectations and situations where important professional, privacy, attribution, consent, or autonomy boundaries were insufficiently respected or made clear.** Those experiences are why I now state these expectations in advance: to reduce ambiguity, establish clear limits, and protect fair evaluation, privacy, attribution, consent, and individual autonomy.
+
+This explanation is intended to clarify why these boundaries exist, not to identify or publicly accuse any particular person, institution, or company. Where concerns arise, I prefer factual, documented, and proportionate resolution.
+
 This statement is **not legal advice**, does not replace a written agreement, and does not override the license or terms that apply to any specific repository or artifact.
 
 ## 1. Fair interviews — no unpaid production work disguised as evaluation
