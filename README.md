@@ -175,7 +175,7 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 <p><sub>AUTONOMY · FAIRNESS · PRIVACY · ATTRIBUTION</sub></p>
 
 <p><strong>WHY THIS STATEMENT EXISTS</strong></p>
-<p><sub>These boundaries are informed by personal experiences during my graduate studies and in company interview processes where I felt I was treated unfairly, subjected to disproportionate expectations, or placed in situations where important boundaries were insufficiently clear. I make them explicit to reduce ambiguity, set expectations in advance, and protect fair evaluation, privacy, attribution, consent, and individual autonomy. This statement is intended to clarify my boundaries rather than to identify or publicly accuse any particular person, institution, or company.</sub></p>
+<p><sub>These boundaries are informed by personal experiences during my graduate studies, when I experienced repeated institutional pressure from the university environment and situations where important personal and professional boundaries were insufficiently respected or made clear. I make them explicit to reduce ambiguity, set expectations in advance, and protect privacy, attribution, consent, and individual autonomy. This statement is intended to clarify my boundaries rather than to identify or publicly accuse any particular person or institution.</sub></p>
 </div>
 
 <table align="center">
