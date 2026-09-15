@@ -188,10 +188,16 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
+<strong>NO INDIRECT ACQUISITION OF NON-PUBLIC RESEARCH</strong><br><br>
+<sub>Research directions, drafts, proposals, plans, or other non-public material obtained through a university, laboratory, collaborator, recruiter, interviewer, or other third party should not be treated as permission to use that material for marketing, product development, internal roadmaps, fundraising, or competitive positioning.</sub>
+</td>
+<td width="50%" align="center" valign="top">
 <strong>PRIVACY & ATTRIBUTION</strong><br><br>
 <sub>Do not unnecessarily collect, record, disclose, repurpose, or claim authorship over personal information, communications, research, or substantially derived work.</sub>
 </td>
-<td width="50%" align="center" valign="top">
+</tr>
+<tr>
+<td width="50%" align="center" valign="top" colspan="2">
 <strong>NO SOCIAL EXPLOITATION</strong><br><br>
 <sub>An individual's time, labor, money, care, privacy, availability, risk, or obedience is not a default social resource. Legitimate obligations should be proportionate; non-mandatory demands require meaningful choice and a realistic right to refuse.</sub>
 </td>
@@ -201,7 +207,7 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 <br>
 
 <p align="center">
-<strong>Candidate evaluation is not a license for commercial appropriation.</strong> If material shared in a resume, interview, take-home task, proposal, discussion, or portfolio is later used for marketing, product development, internal strategy, or competitive positioning, that use should be disclosed and governed by prior permission, attribution, or agreed terms.<br><br>
+<strong>Candidate evaluation, rejection, institutional access, or third-party disclosure is not a license for commercial appropriation.</strong> I am particularly concerned about scenarios in which a resume or interview is rejected while proposals, research directions, drafts, or plans shared directly or obtained indirectly later appear in marketing, products, internal strategy, or competitive positioning. Because such situations can be difficult to verify from the outside, this statement does not accuse any specific company, institution, or person; it states my boundary that such use requires prior permission, appropriate attribution, and agreed terms.<br><br>
 <strong><a href="./PROFESSIONAL_BOUNDARIES.md">Full boundaries, privacy & originality statement →</a></strong>
 </p>
 
