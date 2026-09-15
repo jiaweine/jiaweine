@@ -24,9 +24,9 @@ Where useful, I may keep dated copies, commit history, hashes, screenshots, or w
 
 ### Post-rejection use is not authorized
 
-A rejected resume, application, interview, take-home task, proposal, or portfolio does **not** create permission to appropriate, productize, operationalize, market, or substantially adapt the candidate's ideas, system designs, research directions, experimental plans, or other substantive material.
+A rejected resume, application, interview, take-home task, proposal, or portfolio does **not** create permission to appropriate, productize, operationalize, market, or substantially adapt the candidate's ideas, system designs, research directions, drafts, experimental plans, project history, or other substantive material.
 
-I am particularly concerned about scenarios in which an application or interview is rejected while material shared during the process later appears in a company's marketing, product direction, internal strategy, roadmap, fundraising narrative, or competitive positioning. Because similarities can have multiple explanations and may be difficult to verify externally, this statement is **not an accusation against any specific company or person**. It states the boundary that rejection does not convert evaluation material into a commercial asset.
+I am particularly concerned about scenarios in which an application or interview is rejected while material shared during the process — or information later obtained indirectly about the same candidate — appears in a company's marketing, product direction, internal strategy, roadmap, fundraising narrative, sales materials, or competitive positioning. Because similarities can have multiple explanations and may be difficult to verify externally, this statement is **not an accusation against any specific company or person**. It states the boundary that rejection does not convert evaluation material, research information, or personal/project experience into a commercial asset.
 
 Any such downstream use should be disclosed and should require prior permission, appropriate attribution, and agreed terms where applicable.
 
@@ -39,8 +39,8 @@ Without explicit consent, please do not:
 - record calls, interviews, meetings, voice, video, or screen activity;
 - publish or forward private correspondence, contact details, identifiers, resumes, transcripts, application materials, or personal documents beyond the people who need them for the stated purpose;
 - scrape personal accounts or compile unrelated personal information, social graphs, family/friend information, location history, or other non-professional background data;
-- contact unrelated classmates, colleagues, friends, family members, or other third parties to obtain personal information outside a legitimate and proportionate reference/background process;
-- reuse my voice, image, writing samples, interview recordings, or personal data for model training, biometric processing, synthetic-media generation, marketing, or unrelated research without separate and explicit consent.
+- contact unrelated classmates, colleagues, friends, family members, teachers, supervisors, university staff, laboratory members, or other third parties to obtain personal or research information outside a legitimate and proportionate reference/background process;
+- reuse my voice, image, writing samples, interview recordings, personal data, project history, or personal experiences for model training, biometric processing, synthetic-media generation, marketing, promotional narratives, or unrelated research without separate and explicit consent.
 
 If information is no longer needed, deletion or appropriate retention limits are preferred over indefinite storage.
 
@@ -55,27 +55,39 @@ Research ideas and directions are not always legally exclusive in the same way a
 - unpublished hypotheses, research directions, or experimental plans;
 - benchmark/evaluation designs, ablation plans, system concepts, or architecture proposals;
 - drafts, slides, diagrams, notes, private discussions, reviews, or interview materials;
-- unpublished results, negative findings, implementation details, or research roadmaps.
+- unpublished results, negative findings, implementation details, or research roadmaps;
+- project history, research trajectory, problem framing, lessons learned, or other substantive personal/professional experiences that materially shape a product or marketing narrative.
 
 Where appropriate, cite the relevant public work, acknowledge the source of the contribution, or ask before reusing non-public material.
 
 ### No indirect acquisition or use of non-public research
 
-Non-public research information does not become free to use merely because it was obtained indirectly. Research directions, drafts, proposals, plans, experimental ideas, system concepts, unpublished results, or other non-public material obtained through a university, laboratory, supervisor, collaborator, colleague, recruiter, interviewer, or other third party should not be treated as authorization for downstream use.
+Non-public research information does not become free to use merely because it was obtained indirectly. Research directions, drafts, proposals, plans, experimental ideas, system concepts, unpublished results, project experiences, or other non-public material obtained through **friends, classmates, teachers, supervisors, university or school personnel, laboratories, collaborators, colleagues, recruiters, interviewers, or any other third party** should not be treated as authorization for downstream use.
+
+This applies whether the information was communicated formally or informally, intentionally or casually, in conversation, in a recommendation/reference context, through institutional contact, through a mutual acquaintance, or through another indirect channel. A third party's access to my work does not give that third party authority to license or transfer my non-public research direction, drafts, ideas, plans, or experiences for someone else's commercial use.
 
 In particular, such material should not be silently repackaged, operationalized, or adapted into:
 
-- marketing or public positioning;
-- product features, prototypes, roadmaps, or internal strategy;
-- fundraising narratives, sales materials, or competitive intelligence;
+- product features, prototypes, product concepts, roadmaps, or internal strategy;
+- marketing campaigns, brand narratives, public positioning, promotional content, or case-study style stories;
+- fundraising narratives, investor materials, sales materials, customer pitches, or competitive intelligence;
 - research agendas, benchmarks, experiments, or publications presented without appropriate attribution;
+- recruiting, employer-branding, founder/company storytelling, or credibility claims based on another person's research direction or experiences;
 - any other commercial or competitive use that materially benefits from the non-public information.
 
-Institutional access, professional contact, evaluation access, or third-party disclosure does **not** substitute for the originator's consent. If non-public material materially influences downstream work, the connection should be disclosed and the intended use should be governed by prior permission, appropriate attribution, confidentiality obligations, or other agreed terms as applicable.
+Institutional access, personal relationships, professional contact, evaluation access, or third-party disclosure does **not** substitute for the originator's consent. If non-public material materially influences downstream work, the connection should be disclosed and the intended use should be governed by prior permission, appropriate attribution, confidentiality obligations, or other agreed terms as applicable.
+
+### No use of my experiences as another party's marketing or product narrative
+
+My personal, academic, research, project, and interview experiences are not a source of free marketing copy, product positioning, or competitive storytelling. I do **not** consent to another party taking the substance of my project trajectory, research direction, problem framing, drafts, ideas, lessons learned, setbacks, interview discussions, or other experiences and repackaging them as that party's own product rationale, marketing story, brand narrative, case narrative, credibility signal, founder/company story, or competitive asset without my prior permission and appropriate attribution where applicable.
+
+This boundary also applies when those experiences are learned **indirectly** from friends, teachers, supervisors, a university or school, laboratories, classmates, colleagues, recruiters, interviewers, or other third parties. Obtaining information about my work or experience from someone who knows me does not make that information free to appropriate, commercialize, or use for positioning.
+
+Where a product, campaign, public narrative, internal strategy, or competitive position is materially derived from my non-public research direction, drafts, ideas, plans, project history, or experiences, I expect that relationship to be disclosed rather than concealed, and I expect prior permission, attribution, and agreed terms as appropriate.
 
 Transparency is also expected when my non-public proposals, strategies, research directions, system designs, or other substantive plans materially influence downstream work. Please do **not conceal, omit, or fail to disclose such use**, and do not privately appropriate, operationalize, adapt, or make substantially or deeply derived use of those materials within your own product, research agenda, business, client work, or other domain for profit, marketing, competitive positioning, fundraising, or other commercial advantage without my prior written permission and appropriate attribution or agreed terms. If the intended use falls into a gray area, disclose the connection and ask before proceeding rather than silently converting the material into an internal or commercial asset.
 
-These expectations apply equally to **everyone**, including recruiters, interviewers, collaborators, employers, external researchers, and members of my current or former institutions — students, faculty, staff, laboratories, and research groups included. Institutional proximity does not remove the obligation to respect privacy, confidentiality, attribution, and authorship.
+These expectations apply equally to **everyone**, including recruiters, interviewers, collaborators, employers, external researchers, and members of my current or former institutions — students, faculty, staff, laboratories, research groups, teachers, supervisors, and other university or school personnel included. Institutional proximity does not remove the obligation to respect privacy, confidentiality, attribution, consent, and authorship.
 
 ## 4. Individual autonomy beyond employment — no societal moral coercion or social extraction
 
@@ -113,7 +125,7 @@ A request for confidentiality should not be interpreted as hostility to collabor
 
 ## 6. Handling concerns
 
-If a question arises about attribution, reuse, privacy, interview scope, authorship, coercive pressure, disproportionate demands, post-rejection use, or indirect use of non-public research, I prefer a factual and documented resolution. Relevant records may include commit history, repository timestamps, email/message history, document versions, meeting notes, and publication/submission records.
+If a question arises about attribution, reuse, privacy, interview scope, authorship, coercive pressure, disproportionate demands, post-rejection use, indirect use of non-public research, or use of personal/project experiences in marketing or product positioning, I prefer a factual and documented resolution. Relevant records may include commit history, repository timestamps, email/message history, document versions, meeting notes, publication/submission records, application/interview materials, and dated research drafts.
 
 When possible, concerns should first be clarified directly. If a serious issue remains unresolved, appropriate formal channels may include the relevant employer, institution, research-integrity office, conference, journal, repository host, or other responsible body, depending on the context.
 
@@ -121,4 +133,4 @@ I prefer evidence-based resolution over public speculation or unsupported accusa
 
 ---
 
-**Short version:** fair evaluation is welcome; unpaid production work disguised as an interview is not. Rejecting a resume, application, or interview does not authorize downstream use of proposals, designs, research directions, drafts, or other substantive materials. Non-public research obtained indirectly through a university, laboratory, collaborator, recruiter, interviewer, or other third party is still non-public and should not be converted into marketing, products, internal strategy, fundraising, research agendas, or competitive positioning without prior permission, appropriate attribution, and agreed terms where applicable. Necessary professional data is fine; unnecessary collection, recording, disclosure, or repurposing is not. Building on public work is welcome when the applicable license and attribution norms are respected; presenting another person's work or substantially derived research material as one's own is not. These boundaries also extend beyond employment: social norms, institutions, communities, families, peer groups, online crowds, or public opinion should not turn an individual's labor, time, money, privacy, care, conformity, or sacrifice into an open-ended obligation through guilt, shame, collective pressure, or one-sided extraction.
+**Short version:** fair evaluation is welcome; unpaid production work disguised as an interview is not. Rejecting a resume, application, or interview does not authorize downstream use of proposals, designs, research directions, drafts, ideas, project history, or other substantive materials. Non-public research or experience obtained indirectly through friends, teachers, supervisors, a university or school, laboratories, classmates, collaborators, recruiters, interviewers, or other third parties is still non-public and should not be converted into products, marketing stories, brand narratives, case studies, internal strategy, fundraising, sales materials, research agendas, or competitive positioning without prior permission, appropriate attribution, and agreed terms where applicable. My research direction, drafts, ideas, project history, and personal/professional experiences should not be repackaged as another party's product concept, marketing story, credibility signal, or competitive asset. Necessary professional data is fine; unnecessary collection, recording, disclosure, or repurposing is not. Building on public work is welcome when the applicable license and attribution norms are respected; presenting another person's work or substantially derived research material as one's own is not. These boundaries also extend beyond employment: social norms, institutions, communities, families, peer groups, online crowds, or public opinion should not turn an individual's labor, time, money, privacy, care, conformity, or sacrifice into an open-ended obligation through guilt, shame, collective pressure, or one-sided extraction.
