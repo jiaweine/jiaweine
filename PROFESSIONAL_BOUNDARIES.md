@@ -4,7 +4,7 @@ This statement describes the personal and professional norms I expect in recruit
 
 ## Why this statement exists
 
-**These boundaries are not abstract. I am making them explicit because, during my time at university and in company interview processes, I have personally encountered treatment that I considered unfair, including disproportionate expectations and situations where important professional, privacy, attribution, consent, or autonomy boundaries were insufficiently respected or made clear.** Those experiences are why I now state these expectations in advance: to reduce ambiguity, establish clear limits, and protect fair evaluation, privacy, attribution, consent, and individual autonomy.
+**These boundaries are not abstract. I am making them explicit because, during my graduate studies and in company interview processes, I have personally encountered treatment that I considered unfair, including disproportionate expectations and situations where important professional, privacy, attribution, consent, or autonomy boundaries were insufficiently respected or made clear.** Those experiences are why I now state these expectations in advance: to reduce ambiguity, establish clear limits, and protect fair evaluation, privacy, attribution, consent, and individual autonomy.
 
 This explanation is intended to clarify why these boundaries exist, not to identify or publicly accuse any particular person, institution, or company. Where concerns arise, I prefer factual, documented, and proportionate resolution.
 
