@@ -22,6 +22,14 @@ Unless otherwise agreed in writing, interview submissions are provided **solely 
 
 Where useful, I may keep dated copies, commit history, hashes, screenshots, or watermarked versions of interview materials so that scope and authorship remain clear.
 
+### Post-rejection use is not authorized
+
+A rejected resume, application, interview, take-home task, proposal, or portfolio does **not** create permission to appropriate, productize, operationalize, market, or substantially adapt the candidate's ideas, system designs, research directions, experimental plans, or other substantive material.
+
+I am particularly concerned about scenarios in which an application or interview is rejected while material shared during the process later appears in a company's marketing, product direction, internal strategy, roadmap, fundraising narrative, or competitive positioning. Because similarities can have multiple explanations and may be difficult to verify externally, this statement is **not an accusation against any specific company or person**. It states the boundary that rejection does not convert evaluation material into a commercial asset.
+
+Any such downstream use should be disclosed and should require prior permission, appropriate attribution, and agreed terms where applicable.
+
 ## 2. Privacy and personal-data boundaries
 
 Recruiting and collaboration should follow data-minimization principles: collect and retain only information reasonably necessary for the stated professional purpose.
@@ -50,6 +58,20 @@ Research ideas and directions are not always legally exclusive in the same way a
 - unpublished results, negative findings, implementation details, or research roadmaps.
 
 Where appropriate, cite the relevant public work, acknowledge the source of the contribution, or ask before reusing non-public material.
+
+### No indirect acquisition or use of non-public research
+
+Non-public research information does not become free to use merely because it was obtained indirectly. Research directions, drafts, proposals, plans, experimental ideas, system concepts, unpublished results, or other non-public material obtained through a university, laboratory, supervisor, collaborator, colleague, recruiter, interviewer, or other third party should not be treated as authorization for downstream use.
+
+In particular, such material should not be silently repackaged, operationalized, or adapted into:
+
+- marketing or public positioning;
+- product features, prototypes, roadmaps, or internal strategy;
+- fundraising narratives, sales materials, or competitive intelligence;
+- research agendas, benchmarks, experiments, or publications presented without appropriate attribution;
+- any other commercial or competitive use that materially benefits from the non-public information.
+
+Institutional access, professional contact, evaluation access, or third-party disclosure does **not** substitute for the originator's consent. If non-public material materially influences downstream work, the connection should be disclosed and the intended use should be governed by prior permission, appropriate attribution, confidentiality obligations, or other agreed terms as applicable.
 
 Transparency is also expected when my non-public proposals, strategies, research directions, system designs, or other substantive plans materially influence downstream work. Please do **not conceal, omit, or fail to disclose such use**, and do not privately appropriate, operationalize, adapt, or make substantially or deeply derived use of those materials within your own product, research agenda, business, client work, or other domain for profit, marketing, competitive positioning, fundraising, or other commercial advantage without my prior written permission and appropriate attribution or agreed terms. If the intended use falls into a gray area, disclose the connection and ask before proceeding rather than silently converting the material into an internal or commercial asset.
 
@@ -91,7 +113,7 @@ A request for confidentiality should not be interpreted as hostility to collabor
 
 ## 6. Handling concerns
 
-If a question arises about attribution, reuse, privacy, interview scope, authorship, coercive pressure, or disproportionate demands, I prefer a factual and documented resolution. Relevant records may include commit history, repository timestamps, email/message history, document versions, meeting notes, and publication/submission records.
+If a question arises about attribution, reuse, privacy, interview scope, authorship, coercive pressure, disproportionate demands, post-rejection use, or indirect use of non-public research, I prefer a factual and documented resolution. Relevant records may include commit history, repository timestamps, email/message history, document versions, meeting notes, and publication/submission records.
 
 When possible, concerns should first be clarified directly. If a serious issue remains unresolved, appropriate formal channels may include the relevant employer, institution, research-integrity office, conference, journal, repository host, or other responsible body, depending on the context.
 
@@ -99,4 +121,4 @@ I prefer evidence-based resolution over public speculation or unsupported accusa
 
 ---
 
-**Short version:** fair evaluation is welcome; unpaid production work disguised as an interview is not. Necessary professional data is fine; unnecessary collection, recording, disclosure, or repurposing is not. Building on public work is welcome when the applicable license and attribution norms are respected; presenting another person's work or substantially derived research material as one's own is not. Non-public proposals, strategies, and plans should not be silently appropriated, concealed, or deeply adapted into another party's product, research, business, or domain for profit, marketing, or other commercial advantage without prior written permission and appropriate attribution or agreed terms. These boundaries also extend beyond employment: social norms, institutions, communities, families, peer groups, online crowds, or public opinion should not turn an individual's labor, time, money, privacy, care, conformity, or sacrifice into an open-ended obligation through guilt, shame, collective pressure, or one-sided extraction.
+**Short version:** fair evaluation is welcome; unpaid production work disguised as an interview is not. Rejecting a resume, application, or interview does not authorize downstream use of proposals, designs, research directions, drafts, or other substantive materials. Non-public research obtained indirectly through a university, laboratory, collaborator, recruiter, interviewer, or other third party is still non-public and should not be converted into marketing, products, internal strategy, fundraising, research agendas, or competitive positioning without prior permission, appropriate attribution, and agreed terms where applicable. Necessary professional data is fine; unnecessary collection, recording, disclosure, or repurposing is not. Building on public work is welcome when the applicable license and attribution norms are respected; presenting another person's work or substantially derived research material as one's own is not. These boundaries also extend beyond employment: social norms, institutions, communities, families, peer groups, online crowds, or public opinion should not turn an individual's labor, time, money, privacy, care, conformity, or sacrifice into an open-ended obligation through guilt, shame, collective pressure, or one-sided extraction.
