@@ -182,14 +182,14 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 <sub>Interviews and collaborations should evaluate or create value fairly — not extract substantial unpaid production, consulting, product, data, or research work for reuse.</sub>
 </td>
 <td width="50%" align="center" valign="top">
-<strong>PRIVACY & ATTRIBUTION</strong><br><br>
-<sub>Do not unnecessarily collect, record, disclose, repurpose, or claim authorship over personal information, communications, research, or substantially derived work.</sub>
+<strong>NO POST-REJECTION APPROPRIATION</strong><br><br>
+<sub>Rejecting an application or interview does not create permission to appropriate, productize, market, operationalize, or substantially adapt a candidate's proposals, designs, research directions, or interview materials for commercial use or competitive advantage without prior permission, attribution, or agreed terms.</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-<strong>NO SOCIETAL MORAL COERCION</strong><br><br>
-<sub>Society, institutions, communities, families, groups, or public opinion should not turn duty, gratitude, tradition, loyalty, sacrifice, or “the greater good” into open-ended personal obligations through guilt, shame, or collective pressure.</sub>
+<strong>PRIVACY & ATTRIBUTION</strong><br><br>
+<sub>Do not unnecessarily collect, record, disclose, repurpose, or claim authorship over personal information, communications, research, or substantially derived work.</sub>
 </td>
 <td width="50%" align="center" valign="top">
 <strong>NO SOCIAL EXPLOITATION</strong><br><br>
@@ -201,7 +201,7 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 <br>
 
 <p align="center">
-<strong>These boundaries are not limited to companies or employment.</strong> They apply wherever professional, institutional, collective, family, community, or social pressure is directed at an individual.<br><br>
+<strong>Candidate evaluation is not a license for commercial appropriation.</strong> If material shared in a resume, interview, take-home task, proposal, discussion, or portfolio is later used for marketing, product development, internal strategy, or competitive positioning, that use should be disclosed and governed by prior permission, attribution, or agreed terms.<br><br>
 <strong><a href="./PROFESSIONAL_BOUNDARIES.md">Full boundaries, privacy & originality statement →</a></strong>
 </p>
 
