@@ -2,6 +2,20 @@
 
 <h1>Jiawei Wang</h1>
 
+<table align="center">
+<tr>
+<td align="center">
+<h2>🚨 JOB SEARCH & THESIS PLAN</h2>
+<p><strong>Planning target: secure a role I genuinely want by 2026-10-31.</strong></p>
+<p>Once I accept a suitable offer, I will use my remaining available time to work on my graduation thesis.</p>
+<p><strong>If I have not secured such a role by 2026-11-01, I will just write whatever graduation thesis is sufficient to meet the graduation requirement while continuing the job search in parallel.</strong></p>
+<p><sub>These dates are planning milestones rather than contractual commitments.</sub></p>
+</td>
+</tr>
+</table>
+
+<br>
+
 <p><strong>Statistics · Multimodal AI · Search & Recommendation · Reliable Agent Systems</strong></p>
 
 <p><sub>ACADEMIC MASTER'S STUDENT · ALGORITHM RESEARCH</sub></p>
@@ -182,13 +196,6 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 </td>
 </tr>
 </table>
-
-<br>
-
-<p align="center">
-<strong>JOB SEARCH & THESIS TIMELINE</strong><br>
-<sub>Planning target: secure a role I genuinely want by <strong>2026-10-31</strong>. Once I accept a suitable offer, I will use my remaining available time to work on my graduation thesis. If I have not secured such a role by <strong>2026-11-01</strong>, <strong>I will just write whatever graduation thesis is sufficient to meet the graduation requirement</strong> while continuing the job search in parallel. These dates are planning milestones rather than contractual commitments.</sub>
-</p>
 
 <br>
 
