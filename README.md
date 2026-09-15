@@ -187,7 +187,7 @@ That foundation extends into <strong>Data Science</strong>, <strong>Applied Math
 
 <p align="center">
 <strong>JOB SEARCH & THESIS TIMELINE</strong><br>
-<sub>Planning target: secure a role I genuinely want by <strong>2026-10-31</strong>. Once I accept a suitable offer, I will begin my graduation thesis immediately. If I have not secured such a role by <strong>2026-11-01</strong>, I will start the thesis anyway and continue the job search in parallel. These dates are planning milestones rather than contractual commitments.</sub>
+<sub>Planning target: secure a role I genuinely want by <strong>2026-10-31</strong>. Once I accept a suitable offer, I will use my remaining available time to work on my graduation thesis. If I have not secured such a role by <strong>2026-11-01</strong>, I will just write whatever graduation thesis is sufficient to meet the graduation requirement while continuing the job search in parallel. These dates are planning milestones rather than contractual commitments.</sub>
 </p>
 
 <br>
