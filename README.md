@@ -7,9 +7,9 @@
 <td align="center">
 <h2>🚨 CAREER & THESIS PLAN</h2>
 <p><strong>I do not plan to pursue a PhD.</strong></p>
-<p><strong>Planning target: secure a role I genuinely want by 2026-10-31.</strong></p>
-<p>Once I accept a suitable offer, I will use my remaining available time to work on my graduation thesis.</p>
-<p><strong>If I have not secured such a role by 2026-11-01, I will just write whatever graduation thesis is sufficient to meet the graduation requirement while continuing the job search in parallel.</strong></p>
+<p><strong>Planning target: secure a job I genuinely want by 2026-10-31.</strong></p>
+<p>Once I secure a job I genuinely want, I will use my remaining available time to work on my graduation thesis.</p>
+<p><strong>If I have not secured a job I genuinely want by 2026-11-01, I will casually write a graduation thesis that is sufficient to meet the graduation requirement while continuing the job search in parallel.</strong></p>
 <p><sub>These dates are planning milestones rather than contractual commitments.</sub></p>
 </td>
 </tr>
