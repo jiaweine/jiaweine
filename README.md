@@ -8,6 +8,8 @@
 <h2>🚨 CAREER & THESIS PLAN</h2>
 <p><strong>I do not plan to pursue a PhD.</strong></p>
 <p><strong>Planning target: secure a job I genuinely want by 2026-10-31.</strong></p>
+<p><strong>无意招人的企业，请勿打扰。个人时间有限。</strong></p>
+<p><sub>Companies without genuine hiring intent, please do not contact me. My time is limited.</sub></p>
 <p>Once I secure a job I genuinely want, I will use my remaining available time to work on my graduation thesis.</p>
 <p><strong>If I have not secured a job I genuinely want by 2026-11-01, I will casually write a graduation thesis that is sufficient to meet the graduation requirement while continuing the job search in parallel.</strong></p>
 <p><sub>These dates are planning milestones rather than contractual commitments.</sub></p>
