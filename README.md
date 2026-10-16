@@ -2,17 +2,33 @@
 
 <h1>Jiawei Wang</h1>
 
-<h2>🚨 OPEN TO WORK · 跪求大厂收留</h2>
+<h2>🚨 跪求大厂收留 · OPEN TO WORK</h2>
 
-<p><strong>我不读博，我想进大厂做真正有价值的 AI 系统。</strong></p>
-<p><strong>No PhD plans. I'm looking for a full-time role building real AI systems.</strong></p>
+<p><strong>跪求大厂收留！我不读博，只想找到一份真正心仪的工作，做有实际价值的 AI 系统。</strong></p>
+<p><strong>I'm begging big tech to hire me. I'm not pursuing a PhD. I want a full-time job building AI systems that matter.</strong></p>
 
-<p>目标：<strong>2026-10-31 前拿到一份真正想去的 Offer。</strong><br>
-方向：<strong>AI Agent · LLM 应用 · 搜索与推荐 · 算法工程</strong>。</p>
-<p><strong>My goal is to land a role I genuinely want by October 31, 2026</strong>, focusing on AI agents, LLM applications, search, recommendation, and algorithm engineering.</p>
+<p><strong>求职目标：2026-10-31 前拿到心仪 Offer。</strong><br>
+<strong>方向：AI Agent · LLM 应用 · 搜索与推荐 · 算法工程。</strong></p>
+<p><strong>Goal: land a job I genuinely want by October 31, 2026.</strong><br>
+<strong>Focus: AI Agents · LLM Applications · Search & Recommendation · Algorithm Engineering.</strong></p>
 
-<p><strong>欢迎有真实 HC、认真招人的团队联系。不招人、只走流程的面试，就不必了。</strong></p>
-<p><sub>Genuine openings and serious hiring teams only. No interviews without an actual hiring opportunity.</sub></p>
+<h3>🚨 CAREER & THESIS PLAN · 职业与论文规划</h3>
+
+<p><strong>毕业论文原定的研究方向已经放弃，我现在也没有动力继续写论文。</strong></p>
+<p><strong>I've abandoned my original graduation thesis direction, and I currently have no motivation to keep writing.</strong></p>
+
+<p><strong>现在找工作第一，跪求大厂收留。</strong></p>
+<p><strong>Finding a job comes first. Big tech, please hire me.</strong></p>
+
+<p><strong>如果在 2026-10-31 前找到真正心仪的工作，我会利用剩余可支配时间写毕业论文。</strong></p>
+<p><strong>If I land a job I genuinely want by October 31, I'll use my remaining available time to write my thesis.</strong></p>
+
+<p><strong>如果到 2026-11-01 还没找到，我就随便写一篇能满足毕业要求的论文，同时继续找工作。</strong></p>
+<p><strong>If I still haven't landed the job I want by November 1, I'll write a bare-minimum thesis that meets graduation requirements and keep job hunting in parallel.</strong></p>
+
+<p><strong>无意招人的企业，请勿打扰。我的时间有限。</strong></p>
+<p><strong>Companies without genuine hiring intent, please do not contact me. My time is limited.</strong></p>
+
 <br>
 
 <p><strong>Statistics · Multimodal AI · Search & Recommendation · Reliable Agent Systems</strong></p>
@@ -32,7 +48,6 @@
 <p><sub>RESEARCH · SYSTEMS · EVALUATION · EXECUTION</sub></p>
 
 </div>
-
 ---
 
 <div align="center">
