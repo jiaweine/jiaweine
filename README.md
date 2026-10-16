@@ -11,12 +11,6 @@
 方向：<strong>AI Agent · LLM 应用 · 搜索与推荐 · 算法工程</strong>。</p>
 <p><strong>My goal is to land a role I genuinely want by October 31, 2026</strong>, focusing on AI agents, LLM applications, search, recommendation, and algorithm engineering.</p>
 
-<p><strong>毕业论文：原方向已经放弃，目前也确实没动力继续写。现在求职优先。</strong></p>
-<p><strong>Thesis status: I've dropped my original direction and have little motivation to keep writing right now. The job search comes first.</strong></p>
-
-<p>找到满意的工作后，我会用剩余时间完成毕业论文。如果到 <strong>2026-11-01</strong> 还没有拿到心仪的 Offer，就写一篇满足毕业要求的论文，同时继续找工作。</p>
-<p>Once I land the right job, I'll use my remaining time to finish my thesis. If that hasn't happened by <strong>November 1, 2026</strong>, I'll write a thesis that meets the graduation requirements while continuing the job search.</p>
-
 <p><strong>欢迎有真实 HC、认真招人的团队联系。不招人、只走流程的面试，就不必了。</strong></p>
 <p><sub>Genuine openings and serious hiring teams only. No interviews without an actual hiring opportunity.</sub></p>
 <br>
