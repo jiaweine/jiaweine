@@ -23,12 +23,6 @@
 <p><strong>如果在 2026-10-31 前找到真正心仪的工作，我会利用剩余可支配时间写毕业论文。</strong></p>
 <p><strong>If I land a job I genuinely want by October 31, I'll use my remaining available time to write my thesis.</strong></p>
 
-<p><strong>如果到 2026-11-01 还没找到，我就随便写一篇能满足毕业要求的论文，同时继续找工作。</strong></p>
-<p><strong>If I still haven't landed the job I want by November 1, I'll write a bare-minimum thesis that meets graduation requirements and keep job hunting in parallel.</strong></p>
-
-<p><strong>无意招人的企业，请勿打扰。我的时间有限。</strong></p>
-<p><strong>Companies without genuine hiring intent, please do not contact me. My time is limited.</strong></p>
-
 <br>
 
 <p><strong>Statistics · Multimodal AI · Search & Recommendation · Reliable Agent Systems</strong></p>
