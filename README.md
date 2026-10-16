@@ -2,20 +2,23 @@
 
 <h1>Jiawei Wang</h1>
 
-<table align="center">
-<tr>
-<td align="center">
-<h2>💼 OPEN TO OPPORTUNITIES · 求职与毕业规划</h2>
-<p><strong>Seeking AI / ML roles in Agent Systems, LLM Applications, and Search & Recommendation.</strong><br>求职方向：智能体系统、大模型应用、搜索与推荐相关算法及工程岗位。</p>
-<p><strong>Target / 求职目标:</strong> Find a strong-fit opportunity by <strong>2026-10-31</strong>.<br>计划于 <strong>2026 年 10 月 31 日</strong> 前落实心仪岗位。</p>
-<p><strong>Academic plan / 学业安排:</strong> I do not plan to pursue a PhD. I will complete my master's thesis to meet graduation requirements while preparing for an industry career.<br>暂无读博计划；我会以满足毕业要求为目标完成硕士论文，并将职业发展重心放在工业界。</p>
-<p>My immediate priority is the job search. After securing a suitable offer, I will dedicate time to thesis completion. If I am still searching on <strong>2026-11-01</strong>, I will pursue a manageable thesis scope while continuing to apply and interview.<br>现阶段优先求职；落实合适的工作机会后，我会集中推进毕业论文。如果到 <strong>2026 年 11 月 1 日</strong> 仍未找到心仪岗位，我将按毕业要求务实推进论文，同时继续求职。</p>
-<p><sub>Recruiters: I welcome outreach for relevant roles with active hiring plans and a clear recruitment process.<br>欢迎有真实招聘需求、明确岗位及招聘流程的团队联系。</sub></p>
-<p><sub>These dates are personal planning milestones, not contractual commitments. 以上日期仅为个人规划节点，并非契约承诺。</sub></p>
-</td>
-</tr>
-</table>
+<h2>🚨 OPEN TO WORK · 跪求大厂收留</h2>
 
+<p><strong>我不读博，我想进大厂做真正有价值的 AI 系统。</strong></p>
+<p><strong>No PhD plans. I'm looking for a full-time role building real AI systems.</strong></p>
+
+<p>目标：<strong>2026-10-31 前拿到一份真正想去的 Offer。</strong><br>
+方向：<strong>AI Agent · LLM 应用 · 搜索与推荐 · 算法工程</strong>。</p>
+<p><strong>My goal is to land a role I genuinely want by October 31, 2026</strong>, focusing on AI agents, LLM applications, search, recommendation, and algorithm engineering.</p>
+
+<p><strong>毕业论文：原方向已经放弃，目前也确实没动力继续写。现在求职优先。</strong></p>
+<p><strong>Thesis status: I've dropped my original direction and have little motivation to keep writing right now. The job search comes first.</strong></p>
+
+<p>找到满意的工作后，我会用剩余时间完成毕业论文。如果到 <strong>2026-11-01</strong> 还没有拿到心仪的 Offer，就写一篇满足毕业要求的论文，同时继续找工作。</p>
+<p>Once I land the right job, I'll use my remaining time to finish my thesis. If that hasn't happened by <strong>November 1, 2026</strong>, I'll write a thesis that meets the graduation requirements while continuing the job search.</p>
+
+<p><strong>欢迎有真实 HC、认真招人的团队联系。不招人、只走流程的面试，就不必了。</strong></p>
+<p><sub>Genuine openings and serious hiring teams only. No interviews without an actual hiring opportunity.</sub></p>
 <br>
 
 <p><strong>Statistics · Multimodal AI · Search & Recommendation · Reliable Agent Systems</strong></p>
