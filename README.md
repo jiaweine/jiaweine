@@ -5,14 +5,13 @@
 <table align="center">
 <tr>
 <td align="center">
-<h2>🚨 CAREER & THESIS PLAN</h2>
-<p><strong>I do not plan to pursue a PhD.</strong></p>
-<p><strong>Planning target: secure a job I genuinely want by 2026-10-31.</strong></p>
-<p><strong>无意招人的企业，请勿打扰。个人时间有限。</strong></p>
-<p><sub>Companies without genuine hiring intent, please do not contact me. My time is limited.</sub></p>
-<p>Once I secure a job I genuinely want, I will use my remaining available time to work on my graduation thesis.</p>
-<p><strong>If I have not secured a job I genuinely want by 2026-11-01, I will casually write a graduation thesis that is sufficient to meet the graduation requirement while continuing the job search in parallel.</strong></p>
-<p><sub>These dates are planning milestones rather than contractual commitments.</sub></p>
+<h2>💼 OPEN TO OPPORTUNITIES · 求职与毕业规划</h2>
+<p><strong>Seeking AI / ML roles in Agent Systems, LLM Applications, and Search & Recommendation.</strong><br>求职方向：智能体系统、大模型应用、搜索与推荐相关算法及工程岗位。</p>
+<p><strong>Target / 求职目标:</strong> Find a strong-fit opportunity by <strong>2026-10-31</strong>.<br>计划于 <strong>2026 年 10 月 31 日</strong> 前落实心仪岗位。</p>
+<p><strong>Academic plan / 学业安排:</strong> I do not plan to pursue a PhD. I will complete my master's thesis to meet graduation requirements while preparing for an industry career.<br>暂无读博计划；我会以满足毕业要求为目标完成硕士论文，并将职业发展重心放在工业界。</p>
+<p>My immediate priority is the job search. After securing a suitable offer, I will dedicate time to thesis completion. If I am still searching on <strong>2026-11-01</strong>, I will pursue a manageable thesis scope while continuing to apply and interview.<br>现阶段优先求职；落实合适的工作机会后，我会集中推进毕业论文。如果到 <strong>2026 年 11 月 1 日</strong> 仍未找到心仪岗位，我将按毕业要求务实推进论文，同时继续求职。</p>
+<p><sub>Recruiters: I welcome outreach for relevant roles with active hiring plans and a clear recruitment process.<br>欢迎有真实招聘需求、明确岗位及招聘流程的团队联系。</sub></p>
+<p><sub>These dates are personal planning milestones, not contractual commitments. 以上日期仅为个人规划节点，并非契约承诺。</sub></p>
 </td>
 </tr>
 </table>
