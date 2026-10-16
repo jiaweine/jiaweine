@@ -5,7 +5,7 @@
 <h2>🚨 跪求大厂收留 · OPEN TO WORK</h2>
 
 <p><strong>跪求大厂收留！我不读博，只想找到一份真正心仪的工作，做有实际价值的 AI 系统。</strong></p>
-<p><strong>I'm begging big tech to hire me. I'm not pursuing a PhD. I want a full-time job building AI systems that matter.</strong></p>
+<p><strong>I'm begging big tech to hire me. I want a full-time job building AI systems that matter.</strong></p>
 
 <p><strong>求职目标：2026-10-31 前拿到心仪 Offer。</strong><br>
 <strong>方向：AI Agent · LLM 应用 · 搜索与推荐 · 算法工程。</strong></p>
