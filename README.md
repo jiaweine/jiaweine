@@ -2,10 +2,10 @@
 
 <h1>Jiawei Wang</h1>
 
-<h2>🚨 跪求大厂收留 · OPEN TO WORK</h2>
+<h2>🚨 跪求各位招聘方收留 · OPEN TO WORK</h2>
 
-<p><strong>跪求大厂收留！只想找到一份真正心仪的工作，做有实际价值的 AI 系统。</strong></p>
-<p><strong>I'm begging big tech to hire me. I want a full-time job building AI systems that matter.</strong></p>
+<p><strong>跪求各位招聘方收留！只想找到一份真正心仪的工作，做有实际价值的 AI 系统。</strong></p>
+<p><strong>I'm begging hiring teams everywhere to hire me. I want a full-time job building AI systems that matter.</strong></p>
 
 <p><strong>求职目标：2026-10-31 前拿到心仪 Offer。</strong><br>
 <strong>方向：AI Agent · LLM 应用 · 搜索与推荐 · 算法工程。</strong></p>
@@ -17,8 +17,8 @@
 <p><strong>毕业论文原定的研究方向已经放弃，我现在也没有动力继续写论文。</strong></p>
 <p><strong>I've abandoned my original graduation thesis direction, and I currently have no motivation to keep writing.</strong></p>
 
-<p><strong>现在找工作第一，跪求大厂收留。</strong></p>
-<p><strong>Finding a job comes first. Big tech, please hire me.</strong></p>
+<p><strong>现在找工作第一，跪求各位招聘方收留。</strong></p>
+<p><strong>Finding a job comes first. Hiring teams, please hire me.</strong></p>
 
 <p><strong>如果在 2026-10-31 前找到真正心仪的工作，我会利用剩余可支配时间写毕业论文。</strong></p>
 <p><strong>If I land a job I genuinely want by October 31, I'll use my remaining available time to write my thesis.</strong></p>
