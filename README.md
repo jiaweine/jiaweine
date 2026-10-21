@@ -5,10 +5,10 @@
 <h2>OPEN TO WORK · AI ENGINEERING</h2>
 
 <p><strong>专注于构建真正可用、可评估、可持续迭代的 AI 系统。</strong></p>
-<p>目前正在寻找合适的全职机会，期待与重视技术深度、工程质量和实际价值的团队合作。</p>
+<p>目前正在寻找合适的工作机会，期待与重视技术深度、工程质量和实际价值的团队合作。</p>
 
 <p><strong>I build practical AI systems with measurable results, reliable execution, and thoughtful engineering.</strong></p>
-<p>Open to full-time opportunities in <strong>AI Agents · LLM Applications · Search & Recommendation · Algorithm Engineering</strong>.</p>
+<p>Open to job opportunities in <strong>AI Agents · LLM Applications · Search & Recommendation · Algorithm Engineering</strong>.</p>
 
 <br>
 
