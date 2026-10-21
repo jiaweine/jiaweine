@@ -12,17 +12,6 @@
 <p><strong>Goal: land a job I genuinely want by October 31, 2026.</strong><br>
 <strong>Focus: AI Agents · LLM Applications · Search & Recommendation · Algorithm Engineering.</strong></p>
 
-<h3>🚨 CAREER & THESIS PLAN · 职业与论文规划</h3>
-
-<p><strong>毕业论文原定的研究方向已经放弃，我现在也没有动力继续写论文。</strong></p>
-<p><strong>I've abandoned my original graduation thesis direction, and I currently have no motivation to keep writing.</strong></p>
-
-<p><strong>现在找工作第一，跪求各位招聘方收留。</strong></p>
-<p><strong>Finding a job comes first. Hiring teams, please hire me.</strong></p>
-
-<p><strong>如果在 2026-10-31 前找到真正心仪的工作，我会利用剩余可支配时间写毕业论文。</strong></p>
-<p><strong>If I land a job I genuinely want by October 31, I'll use my remaining available time to write my thesis.</strong></p>
-
 <br>
 
 <p><strong>Statistics · Multimodal AI · Search & Recommendation · Reliable Agent Systems</strong></p>
